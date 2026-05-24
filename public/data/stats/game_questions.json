@@ -1,0 +1,1199 @@
+[
+  {
+    "type": "poet",
+    "answer": "曹操",
+    "prompt_colors": [
+      "青",
+      "乌"
+    ],
+    "options": [
+      "曹操",
+      "柳永",
+      "欧阳修",
+      "徐铉"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_aa1ab1c4873e",
+        "title": "短歌行",
+        "author": "曹操",
+        "dynasty": "汉",
+        "line_text": "青青子衿，悠悠我心"
+      },
+      {
+        "poem_id": "poem_aa1ab1c4873e",
+        "title": "短歌行",
+        "author": "曹操",
+        "dynasty": "汉",
+        "line_text": "月明星稀，乌鹊南飞"
+      }
+    ]
+  },
+  {
+    "type": "poet",
+    "answer": "佚名",
+    "prompt_colors": [
+      "皎",
+      "素"
+    ],
+    "options": [
+      "柳永",
+      "欧阳修",
+      "徐铉",
+      "佚名"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_cd321d37bc6b",
+        "title": "迢迢牵牛星",
+        "author": "佚名",
+        "dynasty": "汉",
+        "line_text": "迢迢牵牛星，皎皎河汉女"
+      },
+      {
+        "poem_id": "poem_cd321d37bc6b",
+        "title": "迢迢牵牛星",
+        "author": "佚名",
+        "dynasty": "汉",
+        "line_text": "纤纤擢素手，札札弄机杼"
+      }
+    ]
+  },
+  {
+    "type": "poet",
+    "answer": "杨慎",
+    "prompt_colors": [
+      "白",
+      "红",
+      "青"
+    ],
+    "options": [
+      "柳永",
+      "欧阳修",
+      "徐铉",
+      "杨慎"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_5f9c4dcab761",
+        "title": "临江仙",
+        "author": "杨慎",
+        "dynasty": "明",
+        "line_text": "青山依旧在，几度夕阳红"
+      },
+      {
+        "poem_id": "poem_5f9c4dcab761",
+        "title": "临江仙",
+        "author": "杨慎",
+        "dynasty": "明",
+        "line_text": "白发渔樵江渚上，惯看秋月春风"
+      }
+    ]
+  },
+  {
+    "type": "poet",
+    "answer": "卞震",
+    "prompt_colors": [
+      "白",
+      "苍",
+      "丹"
+    ],
+    "options": [
+      "卞震",
+      "柳永",
+      "欧阳修",
+      "徐铉"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_46057bcb8070",
+        "title": "句其五",
+        "author": "卞震",
+        "dynasty": "宋",
+        "line_text": "积雨生残稻，苍苔入旧笼"
+      },
+      {
+        "poem_id": "poem_63dcd7b395ff",
+        "title": "句其八",
+        "author": "卞震",
+        "dynasty": "宋",
+        "line_text": "双阙暂随丹诏入，三峰寻与白云归"
+      }
+    ]
+  },
+  {
+    "type": "poet",
+    "answer": "陈朴",
+    "prompt_colors": [
+      "丹",
+      "赤",
+      "玉色",
+      "青",
+      "紫"
+    ],
+    "options": [
+      "陈朴",
+      "柳永",
+      "欧阳修",
+      "徐铉"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_dd9fed01ebbc",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "中黄宝，须向胆中求"
+      },
+      {
+        "poem_id": "poem_0ad63192928e",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "玄珠降，丹窟在中宫"
+      }
+    ]
+  },
+  {
+    "type": "poet",
+    "answer": "陈抟",
+    "prompt_colors": [
+      "白",
+      "金",
+      "红",
+      "青",
+      "翠"
+    ],
+    "options": [
+      "陈抟",
+      "柳永",
+      "欧阳修",
+      "徐铉"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_76ac8333ea40",
+        "title": "归隠",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "十年踪迹走红尘，回首青山入梦频"
+      },
+      {
+        "poem_id": "poem_76ac8333ea40",
+        "title": "归隠",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "紫陌纵荣争及睡，朱门虽贵不如贫"
+      }
+    ]
+  },
+  {
+    "type": "poet",
+    "answer": "陈亚",
+    "prompt_colors": [
+      "朱",
+      "白"
+    ],
+    "options": [
+      "陈亚",
+      "柳永",
+      "欧阳修",
+      "徐铉"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_4400af7f158e",
+        "title": "生查子",
+        "author": "陈亚",
+        "dynasty": "宋",
+        "line_text": "相思意已深，白纸书难足"
+      },
+      {
+        "poem_id": "poem_a035ab153db8",
+        "title": "生查子",
+        "author": "陈亚",
+        "dynasty": "宋",
+        "line_text": "琵琶闲抱理相思，必拨朱弦断"
+      }
+    ]
+  },
+  {
+    "type": "poet",
+    "answer": "丁谓",
+    "prompt_colors": [
+      "玉色",
+      "绿",
+      "朱"
+    ],
+    "options": [
+      "丁谓",
+      "柳永",
+      "欧阳修",
+      "徐铉"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_0d6629283e39",
+        "title": "凤栖梧・蝶恋花",
+        "author": "丁谓",
+        "dynasty": "宋",
+        "line_text": "玉梯相对开蓬岛"
+      },
+      {
+        "poem_id": "poem_0d6629283e39",
+        "title": "凤栖梧・蝶恋花",
+        "author": "丁谓",
+        "dynasty": "宋",
+        "line_text": "太液微波，绿斗王孙草"
+      }
+    ]
+  },
+  {
+    "type": "poet",
+    "answer": "杜安世",
+    "prompt_colors": [
+      "玉色",
+      "红",
+      "金",
+      "绿",
+      "黄"
+    ],
+    "options": [
+      "杜安世",
+      "柳永",
+      "欧阳修",
+      "徐铉"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_c7d904aa69a2",
+        "title": "鹤冲天",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "台榭绿阴浓，薰风细"
+      },
+      {
+        "poem_id": "poem_c7d904aa69a2",
+        "title": "鹤冲天",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "单夹衣裳，半栊软玉肌体"
+      }
+    ]
+  },
+  {
+    "type": "poet",
+    "answer": "范质",
+    "prompt_colors": [
+      "青",
+      "白",
+      "素",
+      "金",
+      "翠"
+    ],
+    "options": [
+      "范质",
+      "柳永",
+      "欧阳修",
+      "徐铉"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_5001ef9c37be",
+        "title": "诫儿姪八百字",
+        "author": "范质",
+        "dynasty": "宋",
+        "line_text": "青袍春草色，白纻弃如仇"
+      },
+      {
+        "poem_id": "poem_5001ef9c37be",
+        "title": "诫儿姪八百字",
+        "author": "范质",
+        "dynasty": "宋",
+        "line_text": "吾家本寒素，门地寡公侯"
+      }
+    ]
+  },
+  {
+    "type": "poet",
+    "answer": "范仲淹",
+    "prompt_colors": [
+      "白",
+      "银",
+      "黯",
+      "碧",
+      "翠"
+    ],
+    "options": [
+      "范仲淹",
+      "柳永",
+      "欧阳修",
+      "徐铉"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_1761d6ddf753",
+        "title": "苏幕遮",
+        "author": "范仲淹",
+        "dynasty": "宋",
+        "line_text": "碧云天，黄叶地"
+      },
+      {
+        "poem_id": "poem_1761d6ddf753",
+        "title": "苏幕遮",
+        "author": "范仲淹",
+        "dynasty": "宋",
+        "line_text": "秋色连波，波上寒烟翠"
+      }
+    ]
+  },
+  {
+    "type": "poet",
+    "answer": "关咏",
+    "prompt_colors": [
+      "金",
+      "翠",
+      "朱"
+    ],
+    "options": [
+      "关咏",
+      "柳永",
+      "欧阳修",
+      "徐铉"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_d63f0abc046c",
+        "title": "迷仙引",
+        "author": "关咏",
+        "dynasty": "宋",
+        "line_text": "岸柳参差，袅袅金丝细"
+      },
+      {
+        "poem_id": "poem_d63f0abc046c",
+        "title": "迷仙引",
+        "author": "关咏",
+        "dynasty": "宋",
+        "line_text": "慵缓步，眉敛金铺倚"
+      }
+    ]
+  },
+  {
+    "type": "dynasty",
+    "answer": "汉",
+    "prompt_colors": [
+      "皎",
+      "青",
+      "素",
+      "乌"
+    ],
+    "options": [
+      "汉",
+      "宋",
+      "南北朝",
+      "汉"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_cd321d37bc6b",
+        "title": "迢迢牵牛星",
+        "author": "佚名",
+        "dynasty": "汉",
+        "line_text": "迢迢牵牛星，皎皎河汉女"
+      },
+      {
+        "poem_id": "poem_aa1ab1c4873e",
+        "title": "短歌行",
+        "author": "曹操",
+        "dynasty": "汉",
+        "line_text": "青青子衿，悠悠我心"
+      }
+    ]
+  },
+  {
+    "type": "dynasty",
+    "answer": "唐",
+    "prompt_colors": [
+      "金",
+      "玉色",
+      "白",
+      "黄",
+      "青"
+    ],
+    "options": [
+      "元",
+      "南北朝",
+      "魏晋",
+      "唐"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_b21f996315a4",
+        "title": "相和歌辞王昭君二首二",
+        "author": "白居易",
+        "dynasty": "唐",
+        "line_text": "汉使却回凭寄语，黄金何日赎蛾眉"
+      },
+      {
+        "poem_id": "poem_d62680a87f40",
+        "title": "相和歌辞反白头吟",
+        "author": "白居易",
+        "dynasty": "唐",
+        "line_text": "火不热真玉，蝇不点清冰"
+      }
+    ]
+  },
+  {
+    "type": "dynasty",
+    "answer": "五代",
+    "prompt_colors": [
+      "红",
+      "胭脂",
+      "玉色",
+      "朱"
+    ],
+    "options": [
+      "宋",
+      "先秦",
+      "汉",
+      "五代"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_73606677f8cd",
+        "title": "相见欢",
+        "author": "李煜",
+        "dynasty": "五代",
+        "line_text": "林花谢了春红，太匆匆"
+      },
+      {
+        "poem_id": "poem_73606677f8cd",
+        "title": "相见欢",
+        "author": "李煜",
+        "dynasty": "五代",
+        "line_text": "胭脂泪，相留醉，几时重"
+      }
+    ]
+  },
+  {
+    "type": "dynasty",
+    "answer": "宋",
+    "prompt_colors": [
+      "红",
+      "玉色",
+      "金",
+      "青",
+      "翠"
+    ],
+    "options": [
+      "宋",
+      "南北朝",
+      "汉",
+      "宋"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_88faecf4d996",
+        "title": "一络索・一落萦",
+        "author": "陈凤仪",
+        "dynasty": "宋",
+        "line_text": "海棠也似别君难，一点点、啼红雨"
+      },
+      {
+        "poem_id": "poem_cde4ef69cd0c",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "常饮玉壶浆"
+      }
+    ]
+  },
+  {
+    "type": "dynasty",
+    "answer": "明",
+    "prompt_colors": [
+      "白",
+      "红",
+      "黄",
+      "灰",
+      "青"
+    ],
+    "options": [
+      "魏晋",
+      "汉",
+      "唐",
+      "明"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_5f9c4dcab761",
+        "title": "临江仙",
+        "author": "杨慎",
+        "dynasty": "明",
+        "line_text": "白发渔樵江渚上，惯看秋月春风"
+      },
+      {
+        "poem_id": "poem_5f9c4dcab761",
+        "title": "临江仙",
+        "author": "杨慎",
+        "dynasty": "明",
+        "line_text": "青山依旧在，几度夕阳红"
+      }
+    ]
+  },
+  {
+    "type": "dynasty",
+    "answer": "清",
+    "prompt_colors": [
+      "白",
+      "红",
+      "青"
+    ],
+    "options": [
+      "宋",
+      "魏晋",
+      "唐",
+      "清"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_91bf85c17450",
+        "title": "己亥杂诗",
+        "author": "龚自珍",
+        "dynasty": "清",
+        "line_text": "浩荡离愁白日斜，吟鞭东指即天涯"
+      },
+      {
+        "poem_id": "poem_91bf85c17450",
+        "title": "己亥杂诗",
+        "author": "龚自珍",
+        "dynasty": "清",
+        "line_text": "落红不是无情物，化作春泥更护花"
+      }
+    ]
+  },
+  {
+    "type": "emotion",
+    "answer": "自然",
+    "prompt_colors": [
+      "红",
+      "金",
+      "青",
+      "白"
+    ],
+    "prompt_imageries": [
+      "花",
+      "风",
+      "云",
+      "云"
+    ],
+    "options": [
+      "高洁",
+      "清新",
+      "喜庆",
+      "自然"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_5f9c4dcab761",
+        "title": "临江仙",
+        "author": "杨慎",
+        "dynasty": "明",
+        "line_text": "青山依旧在，几度夕阳红"
+      },
+      {
+        "poem_id": "poem_91bf85c17450",
+        "title": "己亥杂诗",
+        "author": "龚自珍",
+        "dynasty": "清",
+        "line_text": "落红不是无情物，化作春泥更护花"
+      },
+      {
+        "poem_id": "poem_88faecf4d996",
+        "title": "一络索・一落萦",
+        "author": "陈凤仪",
+        "dynasty": "宋",
+        "line_text": "海棠也似别君难，一点点、啼红雨"
+      },
+      {
+        "poem_id": "poem_76ac8333ea40",
+        "title": "归隠",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "十年踪迹走红尘，回首青山入梦频"
+      }
+    ]
+  },
+  {
+    "type": "emotion",
+    "answer": "喜庆",
+    "prompt_colors": [
+      "金",
+      "红",
+      "玉色",
+      "绿"
+    ],
+    "prompt_imageries": [
+      "花",
+      "花",
+      "花",
+      "花"
+    ],
+    "options": [
+      "高洁",
+      "清新",
+      "喜庆",
+      "自然"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_8b438c9b217e",
+        "title": "内宴奉诏作",
+        "author": "曹翰",
+        "dynasty": "宋",
+        "line_text": "曾因国难披金甲，不为家贫卖宝刀"
+      },
+      {
+        "poem_id": "poem_5f20262f7d33",
+        "title": "惜春令",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "小庭杨柳黄金翠，桃脸两三枝"
+      },
+      {
+        "poem_id": "poem_acb076eed1c3",
+        "title": "惜春令",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "篱边散、嫩菊开金"
+      },
+      {
+        "poem_id": "poem_d11806f53d00",
+        "title": "丑奴儿・采桑子",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "人生乐事知多少，且酌金杯"
+      }
+    ]
+  },
+  {
+    "type": "emotion",
+    "answer": "清新",
+    "prompt_colors": [
+      "翠",
+      "绿",
+      "碧",
+      "红"
+    ],
+    "prompt_imageries": [
+      "山",
+      "水",
+      "云",
+      "花"
+    ],
+    "options": [
+      "高洁",
+      "清新",
+      "喜庆",
+      "自然"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_662871081d5d",
+        "title": "题石水涧",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "银河洒落翠光冷，一派回环湛晚晖"
+      },
+      {
+        "poem_id": "poem_d216f4de489e",
+        "title": "与毛女游",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "回指归去路，相将入翠烟"
+      },
+      {
+        "poem_id": "poem_5f20262f7d33",
+        "title": "惜春令",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "小庭杨柳黄金翠，桃脸两三枝"
+      },
+      {
+        "poem_id": "poem_79ce6f12540f",
+        "title": "踏莎行",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "蓦然旧事上心头，无言敛皱眉山翠"
+      }
+    ]
+  },
+  {
+    "type": "emotion",
+    "answer": "高洁",
+    "prompt_colors": [
+      "白",
+      "素",
+      "玉色",
+      "青"
+    ],
+    "prompt_imageries": [
+      "日",
+      "云",
+      "雪",
+      "天"
+    ],
+    "options": [
+      "高洁",
+      "清新",
+      "喜庆",
+      "自然"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_5f9c4dcab761",
+        "title": "临江仙",
+        "author": "杨慎",
+        "dynasty": "明",
+        "line_text": "白发渔樵江渚上，惯看秋月春风"
+      },
+      {
+        "poem_id": "poem_97b61c320914",
+        "title": "石灰吟",
+        "author": "于谦",
+        "dynasty": "明",
+        "line_text": "粉骨碎身浑不怕，要留清白在人间"
+      },
+      {
+        "poem_id": "poem_91bf85c17450",
+        "title": "己亥杂诗",
+        "author": "龚自珍",
+        "dynasty": "清",
+        "line_text": "浩荡离愁白日斜，吟鞭东指即天涯"
+      },
+      {
+        "poem_id": "poem_63dcd7b395ff",
+        "title": "句其八",
+        "author": "卞震",
+        "dynasty": "宋",
+        "line_text": "双阙暂随丹诏入，三峰寻与白云归"
+      }
+    ]
+  },
+  {
+    "type": "emotion",
+    "answer": "柔美",
+    "prompt_colors": [
+      "红",
+      "绿",
+      "翠",
+      "金"
+    ],
+    "prompt_imageries": [
+      "花",
+      "花",
+      "柳",
+      "柳"
+    ],
+    "options": [
+      "清新",
+      "柔美",
+      "喜庆",
+      "自然"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_5f9c4dcab761",
+        "title": "临江仙",
+        "author": "杨慎",
+        "dynasty": "明",
+        "line_text": "青山依旧在，几度夕阳红"
+      },
+      {
+        "poem_id": "poem_91bf85c17450",
+        "title": "己亥杂诗",
+        "author": "龚自珍",
+        "dynasty": "清",
+        "line_text": "落红不是无情物，化作春泥更护花"
+      },
+      {
+        "poem_id": "poem_88faecf4d996",
+        "title": "一络索・一落萦",
+        "author": "陈凤仪",
+        "dynasty": "宋",
+        "line_text": "海棠也似别君难，一点点、啼红雨"
+      },
+      {
+        "poem_id": "poem_cde4ef69cd0c",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "胎色渐红阴渐小，推移岁运助干刚"
+      }
+    ]
+  },
+  {
+    "type": "emotion",
+    "answer": "相思",
+    "prompt_colors": [
+      "金",
+      "玉色",
+      "白",
+      "青"
+    ],
+    "prompt_imageries": [
+      "月",
+      "君",
+      "月",
+      "月"
+    ],
+    "options": [
+      "清新",
+      "喜庆",
+      "相思",
+      "自然"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_4d02f0876959",
+        "title": "数日来顿疏酬唱若无牵率宁度鬰蒸辄贡狂吟用惊昼寝",
+        "author": "李昉",
+        "dynasty": "宋",
+        "line_text": "若无啸月吟风侣，争度流金铄石天"
+      },
+      {
+        "poem_id": "poem_32faddf3070e",
+        "title": "和暑夜偶作之什",
+        "author": "李昉",
+        "dynasty": "宋",
+        "line_text": "一轩明月谁为伴，应共金昆醉复醒"
+      },
+      {
+        "poem_id": "poem_15b5d196afa3",
+        "title": "望汉月・忆汉月",
+        "author": "李遵",
+        "dynasty": "宋",
+        "line_text": "绿藓上，乱铺金蕊"
+      },
+      {
+        "poem_id": "poem_b5dd18b1d5fb",
+        "title": "长相思",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "清都绛阙夜景，风传银箭，露叆金茎"
+      }
+    ]
+  },
+  {
+    "type": "emotion",
+    "answer": "离愁",
+    "prompt_colors": [
+      "金",
+      "青",
+      "白",
+      "玉色"
+    ],
+    "prompt_imageries": [
+      "城",
+      "山",
+      "云",
+      "春"
+    ],
+    "options": [
+      "离愁",
+      "清新",
+      "喜庆",
+      "自然"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_a068e3b6b84b",
+        "title": "寄孟宾于",
+        "author": "李昉",
+        "dynasty": "宋",
+        "line_text": "幼携书剑别湘潭，金榜标名第十三"
+      },
+      {
+        "poem_id": "poem_b750558c9884",
+        "title": "望远行",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "藻井凝尘，金梯铺藓，寂寞凤楼十二"
+      },
+      {
+        "poem_id": "poem_b750558c9884",
+        "title": "望远行",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "但暗掷、金钗买醉"
+      },
+      {
+        "poem_id": "poem_a07f5226a4f2",
+        "title": "离别难",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "美韶容、何啻值千金"
+      }
+    ]
+  },
+  {
+    "type": "emotion",
+    "answer": "壮美",
+    "prompt_colors": [
+      "金",
+      "白",
+      "玉色",
+      "青"
+    ],
+    "prompt_imageries": [
+      "天",
+      "天",
+      "天",
+      "天"
+    ],
+    "options": [
+      "清新",
+      "喜庆",
+      "壮美",
+      "自然"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_68ea14d8f1b5",
+        "title": "玉楼春",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "玉杯齐举乐音谐，遥想金阶天仗晓"
+      },
+      {
+        "poem_id": "poem_0423af9db697",
+        "title": "朝玉阶・朝天子",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "黄金才钺掩银屏"
+      },
+      {
+        "poem_id": "poem_0423af9db697",
+        "title": "朝玉阶・朝天子",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "千金一笑，须信倾城"
+      },
+      {
+        "poem_id": "poem_409d4af016be",
+        "title": "又捧新诗见褒陋止睹五章之绮丽如九奏之凄清其末章末句云谁比天人福皆从积善招天人之比固不敢当积善之征其来有自味嘉言之若是省薄德以何胜仰谢良知谨次来韵以老去心何用为首希垂采览其五",
+        "author": "李昉",
+        "dynasty": "宋",
+        "line_text": "有时思绿蚁，几度换金貂"
+      }
+    ]
+  },
+  {
+    "type": "emotion",
+    "answer": "孤独",
+    "prompt_colors": [
+      "玉色",
+      "白",
+      "金",
+      "碧"
+    ],
+    "prompt_imageries": [
+      "寒",
+      "寒",
+      "寒",
+      "寒"
+    ],
+    "options": [
+      "孤独",
+      "清新",
+      "喜庆",
+      "自然"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_79ce6f12540f",
+        "title": "踏莎行",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "画梁新燕一双双，玉笼鹦鹉爱孤睡"
+      },
+      {
+        "poem_id": "poem_50831e4b7ad2",
+        "title": "山亭柳",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "玉容淡妆添寂寞"
+      },
+      {
+        "poem_id": "poem_32d020f39bd7",
+        "title": "菊花新",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "罗帏翠屏空，风微动、玉炉烟飐"
+      },
+      {
+        "poem_id": "poem_8842f6953837",
+        "title": "凤栖梧・蝶恋花",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "玉容寂寞双眉聚"
+      }
+    ]
+  },
+  {
+    "type": "emotion",
+    "answer": "悲凉",
+    "prompt_colors": [
+      "白",
+      "黄",
+      "红",
+      "玉色"
+    ],
+    "prompt_imageries": [
+      "秋",
+      "秋",
+      "秋",
+      "寒"
+    ],
+    "options": [
+      "悲凉",
+      "清新",
+      "喜庆",
+      "自然"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_5f9c4dcab761",
+        "title": "临江仙",
+        "author": "杨慎",
+        "dynasty": "明",
+        "line_text": "白发渔樵江渚上，惯看秋月春风"
+      },
+      {
+        "poem_id": "poem_8ca38b73a03c",
+        "title": "贫女",
+        "author": "曹衍",
+        "dynasty": "宋",
+        "line_text": "满头白发为新妇，笑杀豪家年少儿"
+      },
+      {
+        "poem_id": "poem_3d9a7e9d0322",
+        "title": "渔家傲",
+        "author": "范仲淹",
+        "dynasty": "宋",
+        "line_text": "将军白发征夫泪"
+      },
+      {
+        "poem_id": "poem_5b9f90007a30",
+        "title": "剔银灯",
+        "author": "范仲淹",
+        "dynasty": "宋",
+        "line_text": "一品与千金，问白发、如何回避"
+      }
+    ]
+  },
+  {
+    "type": "emotion",
+    "answer": "思乡",
+    "prompt_colors": [
+      "金",
+      "玉色",
+      "白",
+      "红"
+    ],
+    "prompt_imageries": [
+      "客",
+      "月",
+      "云",
+      "花"
+    ],
+    "options": [
+      "清新",
+      "思乡",
+      "喜庆",
+      "自然"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_3e755e4dc67a",
+        "title": "燕归梁",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "金盆水，弄纤纤"
+      },
+      {
+        "poem_id": "poem_f8c6e18d6825",
+        "title": "六州",
+        "author": "和岘",
+        "dynasty": "宋",
+        "line_text": "混并寰宇，休牛归马，销金偃革，蹈咏庆昌期"
+      },
+      {
+        "poem_id": "poem_77ff4c461e59",
+        "title": "凤归云",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "恋帝里，金谷园林，平康巷陌，触处繁华，连日疏狂，未尝轻负，寸心双眼"
+      },
+      {
+        "poem_id": "poem_2069a92c73a5",
+        "title": "燕归梁",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "字值千金"
+      }
+    ]
+  },
+  {
+    "type": "emotion",
+    "answer": "禅意",
+    "prompt_colors": [
+      "玉色",
+      "碧",
+      "金",
+      "白"
+    ],
+    "prompt_imageries": [
+      "春",
+      "云",
+      "杯",
+      "云"
+    ],
+    "options": [
+      "禅意",
+      "清新",
+      "喜庆",
+      "自然"
+    ],
+    "explanation": [
+      {
+        "poem_id": "poem_32d020f39bd7",
+        "title": "菊花新",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "罗帏翠屏空，风微动、玉炉烟飐"
+      },
+      {
+        "poem_id": "poem_69875bbf89f1",
+        "title": "御街行",
+        "author": "范仲淹",
+        "dynasty": "宋",
+        "line_text": "真珠帘卷玉楼空，天淡银河垂地"
+      },
+      {
+        "poem_id": "poem_5404c76b4710",
+        "title": "玉楼春",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "金丝玉管咽春空，蜡炬兰灯烧晓色"
+      },
+      {
+        "poem_id": "poem_eac449aa0465",
+        "title": "河桥楼赋得群公夜䜩",
+        "author": "谭用之",
+        "dynasty": "宋",
+        "line_text": "杯黏紫酒金螺重，谈转雕珰玉麈空"
+      }
+    ]
+  }
+]

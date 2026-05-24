@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-05-24T09:48:45.055Z",
+  "poem_count": 4043,
+  "poet_count": 466,
+  "color_word_count": 52,
+  "color_occurrence_count": 6041,
+  "dynasty_count": 10,
+  "source_count": 5,
+  "dynasties": [
+    "先秦",
+    "汉",
+    "魏晋",
+    "南北朝",
+    "唐",
+    "五代",
+    "宋",
+    "元",
+    "明",
+    "清",
+    "近现代"
+  ],
+  "note": "色值为可视化近似，不代表古代颜色标准的唯一解释；单字颜色与情绪标签均需结合语境理解。"
+}

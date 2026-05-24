@@ -1,0 +1,506 @@
+[
+  {
+    "color_word": "天水碧",
+    "normalized_name": "天水碧",
+    "color_group": "蓝青系",
+    "hex": "#5AA6A6",
+    "aliases": ["天水"],
+    "ambiguity_note": "古典织染与器物语境中常见，视觉近似为浅青碧色。"
+  },
+  {
+    "color_word": "胭脂",
+    "normalized_name": "胭脂",
+    "color_group": "红系",
+    "hex": "#B24A5A",
+    "aliases": ["燕脂"],
+    "ambiguity_note": "可指脂粉、妆色，也可转喻女性容貌。"
+  },
+  {
+    "color_word": "朱砂",
+    "normalized_name": "朱砂",
+    "color_group": "红系",
+    "hex": "#C4473D",
+    "aliases": ["丹砂"],
+    "ambiguity_note": "既是矿物颜料，也常引出丹、血、仙药等语义。"
+  },
+  {
+    "color_word": "殷红",
+    "normalized_name": "殷红",
+    "color_group": "红系",
+    "hex": "#9F2E35",
+    "aliases": ["殷赤"],
+    "ambiguity_note": "深红色，可能与血色、花色相关。"
+  },
+  {
+    "color_word": "猩红",
+    "normalized_name": "猩红",
+    "color_group": "红系",
+    "hex": "#C23B3D",
+    "aliases": [],
+    "ambiguity_note": "高饱和红色，古典语料中频次相对较低。"
+  },
+  {
+    "color_word": "桃红",
+    "normalized_name": "桃红",
+    "color_group": "红系",
+    "hex": "#D36B7F",
+    "aliases": ["桃花红"],
+    "ambiguity_note": "常与桃花、春日、女性意象相连。"
+  },
+  {
+    "color_word": "绯红",
+    "normalized_name": "绯红",
+    "color_group": "红系",
+    "hex": "#C94F5F",
+    "aliases": ["绯"],
+    "ambiguity_note": "绯为浅深之间的红色，也可指绯衣官服。"
+  },
+  {
+    "color_word": "鹅黄",
+    "normalized_name": "鹅黄",
+    "color_group": "橙黄系",
+    "hex": "#E8C766",
+    "aliases": [],
+    "ambiguity_note": "柔和嫩黄色，常用于柳芽、花蕊、衣饰。"
+  },
+  {
+    "color_word": "赭黄",
+    "normalized_name": "赭黄",
+    "color_group": "橙黄系",
+    "hex": "#B2773B",
+    "aliases": [],
+    "ambiguity_note": "赭石近土黄褐，可能和山石、尘土语义重叠。"
+  },
+  {
+    "color_word": "杏黄",
+    "normalized_name": "杏黄",
+    "color_group": "橙黄系",
+    "hex": "#E5A84B",
+    "aliases": [],
+    "ambiguity_note": "明亮暖黄，常与春花、旗帜或衣饰相关。"
+  },
+  {
+    "color_word": "松花",
+    "normalized_name": "松花",
+    "color_group": "橙黄系",
+    "hex": "#C8B76A",
+    "aliases": ["松花色"],
+    "ambiguity_note": "可指松花色，也可能指植物物象，需要结合上下文。"
+  },
+  {
+    "color_word": "秋香",
+    "normalized_name": "秋香",
+    "color_group": "橙黄系",
+    "hex": "#A99A56",
+    "aliases": ["秋香色"],
+    "ambiguity_note": "偏黄绿的传统色名，现代读者容易误解为气味或人名。"
+  },
+  {
+    "color_word": "琥珀",
+    "normalized_name": "琥珀",
+    "color_group": "橙黄系",
+    "hex": "#B9792D",
+    "aliases": [],
+    "ambiguity_note": "可指宝石、酒色或暖黄褐色。"
+  },
+  {
+    "color_word": "竹青",
+    "normalized_name": "竹青",
+    "color_group": "绿系",
+    "hex": "#5D9275",
+    "aliases": [],
+    "ambiguity_note": "青绿色，常与竹、衣饰、器物相关。"
+  },
+  {
+    "color_word": "柳绿",
+    "normalized_name": "柳绿",
+    "color_group": "绿系",
+    "hex": "#7EAF62",
+    "aliases": [],
+    "ambiguity_note": "多与春柳、春景相连。"
+  },
+  {
+    "color_word": "松绿",
+    "normalized_name": "松绿",
+    "color_group": "绿系",
+    "hex": "#3E7457",
+    "aliases": [],
+    "ambiguity_note": "偏深的松针绿色。"
+  },
+  {
+    "color_word": "豆绿",
+    "normalized_name": "豆绿",
+    "color_group": "绿系",
+    "hex": "#8BBF8A",
+    "aliases": [],
+    "ambiguity_note": "浅绿传统色名，古诗中频次较低。"
+  },
+  {
+    "color_word": "玉色",
+    "normalized_name": "玉色",
+    "color_group": "绿系",
+    "hex": "#C7D8C4",
+    "aliases": ["玉"],
+    "ambiguity_note": "玉常指器物或品格，不一定是颜色；需结合上下文。"
+  },
+  {
+    "color_word": "青黛",
+    "normalized_name": "青黛",
+    "color_group": "蓝青系",
+    "hex": "#364A63",
+    "aliases": [],
+    "ambiguity_note": "深青蓝近黑，常用于山色、眉色。"
+  },
+  {
+    "color_word": "苍青",
+    "normalized_name": "苍青",
+    "color_group": "蓝青系",
+    "hex": "#526F73",
+    "aliases": [],
+    "ambiguity_note": "苍与青都多义，常含幽深、苍茫意味。"
+  },
+  {
+    "color_word": "湖蓝",
+    "normalized_name": "湖蓝",
+    "color_group": "蓝青系",
+    "hex": "#4E9AB8",
+    "aliases": [],
+    "ambiguity_note": "近现代色名，古典语料中较少。"
+  },
+  {
+    "color_word": "绛紫",
+    "normalized_name": "绛紫",
+    "color_group": "紫系",
+    "hex": "#74415F",
+    "aliases": [],
+    "ambiguity_note": "红紫色，可能与绛衣、绛阙、晚霞相关。"
+  },
+  {
+    "color_word": "青莲",
+    "normalized_name": "青莲",
+    "color_group": "紫系",
+    "hex": "#6A5A9B",
+    "aliases": [],
+    "ambiguity_note": "既可指莲花或佛教语汇，也可作青紫色近似。"
+  },
+  {
+    "color_word": "丁香",
+    "normalized_name": "丁香",
+    "color_group": "紫系",
+    "hex": "#B59CC8",
+    "aliases": ["丁香色"],
+    "ambiguity_note": "可指植物、结愁意象或淡紫色。"
+  },
+  {
+    "color_word": "雪白",
+    "normalized_name": "雪白",
+    "color_group": "中性色",
+    "hex": "#F4F1E8",
+    "aliases": [],
+    "ambiguity_note": "白色与雪意象高度重合。"
+  },
+  {
+    "color_word": "月白",
+    "normalized_name": "月白",
+    "color_group": "中性色",
+    "hex": "#DDE6E8",
+    "aliases": [],
+    "ambiguity_note": "传统浅蓝白色，也可能只是月光之白。"
+  },
+  {
+    "color_word": "赤",
+    "normalized_name": "赤",
+    "color_group": "红系",
+    "hex": "#B64035",
+    "aliases": ["赤色"],
+    "ambiguity_note": "可指红色、赤诚、裸露或空无，单字需人工复核。"
+  },
+  {
+    "color_word": "红",
+    "normalized_name": "红",
+    "color_group": "红系",
+    "hex": "#C94C4C",
+    "aliases": ["红色"],
+    "ambiguity_note": "可指花色、妆色、尘世繁华等，单字需结合上下文。"
+  },
+  {
+    "color_word": "朱",
+    "normalized_name": "朱",
+    "color_group": "红系",
+    "hex": "#B74434",
+    "aliases": ["朱色"],
+    "ambiguity_note": "常见于朱门、朱颜、朱楼，可能兼有社会空间含义。"
+  },
+  {
+    "color_word": "丹",
+    "normalized_name": "丹",
+    "color_group": "红系",
+    "hex": "#BE4E3C",
+    "aliases": ["丹色"],
+    "ambiguity_note": "可指红色、丹砂、丹心、仙药等。"
+  },
+  {
+    "color_word": "彤",
+    "normalized_name": "彤",
+    "color_group": "红系",
+    "hex": "#C85A4D",
+    "aliases": ["彤色"],
+    "ambiguity_note": "红色，多见彤云、彤庭。"
+  },
+  {
+    "color_word": "绯",
+    "normalized_name": "绯红",
+    "color_group": "红系",
+    "hex": "#C94F5F",
+    "aliases": ["绯色"],
+    "ambiguity_note": "可指红色官服或花色。"
+  },
+  {
+    "color_word": "绛",
+    "normalized_name": "绛",
+    "color_group": "红系",
+    "hex": "#8F3445",
+    "aliases": ["绛色"],
+    "ambiguity_note": "深红色，常见绛阙、绛唇、绛河。"
+  },
+  {
+    "color_word": "茜",
+    "normalized_name": "茜",
+    "color_group": "红系",
+    "hex": "#A94345",
+    "aliases": ["茜色"],
+    "ambiguity_note": "植物染料相关，也可指红色。"
+  },
+  {
+    "color_word": "赭",
+    "normalized_name": "赭",
+    "color_group": "红系",
+    "hex": "#9B5A3C",
+    "aliases": ["赭色"],
+    "ambiguity_note": "红褐色，山石泥土语义明显。"
+  },
+  {
+    "color_word": "黄",
+    "normalized_name": "黄",
+    "color_group": "橙黄系",
+    "hex": "#D3A83C",
+    "aliases": ["黄色"],
+    "ambiguity_note": "可指颜色、黄昏、黄河、黄叶等，单字需结合上下文。"
+  },
+  {
+    "color_word": "金",
+    "normalized_name": "金",
+    "color_group": "橙黄系",
+    "hex": "#C9A23D",
+    "aliases": ["金色"],
+    "ambiguity_note": "常指金属、财富、秋色或金黄光泽，不一定是颜色。"
+  },
+  {
+    "color_word": "缃",
+    "normalized_name": "缃",
+    "color_group": "橙黄系",
+    "hex": "#D8B56D",
+    "aliases": ["缃色"],
+    "ambiguity_note": "浅黄色，多与书卷、丝帛相关。"
+  },
+  {
+    "color_word": "橙",
+    "normalized_name": "橙",
+    "color_group": "橙黄系",
+    "hex": "#D8893A",
+    "aliases": ["橙色"],
+    "ambiguity_note": "可能指橙果或橙色。"
+  },
+  {
+    "color_word": "绿",
+    "normalized_name": "绿",
+    "color_group": "绿系",
+    "hex": "#5E9F58",
+    "aliases": ["绿色"],
+    "ambiguity_note": "常与水、草、柳、酒相关，单字需结合上下文。"
+  },
+  {
+    "color_word": "翠",
+    "normalized_name": "翠",
+    "color_group": "绿系",
+    "hex": "#2F8D6B",
+    "aliases": ["翠色"],
+    "ambiguity_note": "可指翠鸟羽色、青绿色，也可指女子饰物。"
+  },
+  {
+    "color_word": "碧",
+    "normalized_name": "碧",
+    "color_group": "蓝青系",
+    "hex": "#3FA796",
+    "aliases": ["碧色"],
+    "ambiguity_note": "古诗中常指青绿色、青蓝色，可与水、天、山、玉等意象关联。"
+  },
+  {
+    "color_word": "苍",
+    "normalized_name": "苍",
+    "color_group": "蓝青系",
+    "hex": "#6B8A83",
+    "aliases": ["苍色"],
+    "ambiguity_note": "可指青灰、苍老、苍茫，单字多义性强。"
+  },
+  {
+    "color_word": "葱",
+    "normalized_name": "葱",
+    "color_group": "绿系",
+    "hex": "#5A9C68",
+    "aliases": ["葱色"],
+    "ambiguity_note": "可指植物葱或葱绿色。"
+  },
+  {
+    "color_word": "青",
+    "normalized_name": "青",
+    "color_group": "蓝青系",
+    "hex": "#337C8C",
+    "aliases": ["青色"],
+    "ambiguity_note": "古汉语中覆盖蓝、绿、黑等色域，单字需人工复核。"
+  },
+  {
+    "color_word": "蓝",
+    "normalized_name": "蓝",
+    "color_group": "蓝青系",
+    "hex": "#2F6FA3",
+    "aliases": ["蓝色"],
+    "ambiguity_note": "可指蓼蓝植物或蓝色。"
+  },
+  {
+    "color_word": "黛",
+    "normalized_name": "黛",
+    "color_group": "蓝青系",
+    "hex": "#425466",
+    "aliases": ["黛色"],
+    "ambiguity_note": "常用于山色、眉色，也带有深青黑色倾向。"
+  },
+  {
+    "color_word": "绀",
+    "normalized_name": "绀色",
+    "color_group": "蓝青系",
+    "hex": "#303B67",
+    "aliases": ["绀色"],
+    "ambiguity_note": "深青带紫，常见于衣饰、天空、水色。"
+  },
+  {
+    "color_word": "靛",
+    "normalized_name": "靛",
+    "color_group": "蓝青系",
+    "hex": "#2E4D8F",
+    "aliases": ["靛色"],
+    "ambiguity_note": "可指靛青染料或深蓝色。"
+  },
+  {
+    "color_word": "紫",
+    "normalized_name": "紫",
+    "color_group": "紫系",
+    "hex": "#7E5796",
+    "aliases": ["紫色"],
+    "ambiguity_note": "可指紫气、官服、花色或祥瑞。"
+  },
+  {
+    "color_word": "藕色",
+    "normalized_name": "藕色",
+    "color_group": "紫系",
+    "hex": "#C8A9A6",
+    "aliases": ["藕"],
+    "ambiguity_note": "淡紫灰粉色，藕字本身也可能指植物。"
+  },
+  {
+    "color_word": "白",
+    "normalized_name": "白",
+    "color_group": "中性色",
+    "hex": "#F2EFE6",
+    "aliases": ["白色"],
+    "ambiguity_note": "可指颜色、明亮、空白、陈述等，且会出现在作者名中；本项目不从作者名提取。"
+  },
+  {
+    "color_word": "素",
+    "normalized_name": "素",
+    "color_group": "中性色",
+    "hex": "#E9E2D3",
+    "aliases": ["素色"],
+    "ambiguity_note": "可指白色、本真、朴素或丝帛。"
+  },
+  {
+    "color_word": "皓",
+    "normalized_name": "皓",
+    "color_group": "中性色",
+    "hex": "#F0EEE6",
+    "aliases": ["皓白"],
+    "ambiguity_note": "明亮洁白，常与月、雪、齿相关。"
+  },
+  {
+    "color_word": "皎",
+    "normalized_name": "皎",
+    "color_group": "中性色",
+    "hex": "#EEF1EB",
+    "aliases": ["皎白"],
+    "ambiguity_note": "明净洁白，常用于月光。"
+  },
+  {
+    "color_word": "缟",
+    "normalized_name": "缟",
+    "color_group": "中性色",
+    "hex": "#EDE7D8",
+    "aliases": ["缟素"],
+    "ambiguity_note": "白色丝织物，也与丧服语义相关。"
+  },
+  {
+    "color_word": "黑",
+    "normalized_name": "黑",
+    "color_group": "中性色",
+    "hex": "#2B2C2D",
+    "aliases": ["黑色"],
+    "ambiguity_note": "单字颜色，需结合上下文排除非颜色语义。"
+  },
+  {
+    "color_word": "墨",
+    "normalized_name": "墨",
+    "color_group": "中性色",
+    "hex": "#2F3437",
+    "aliases": ["墨色"],
+    "ambiguity_note": "可指墨汁、书写、黑色或文人气。"
+  },
+  {
+    "color_word": "玄",
+    "normalized_name": "玄",
+    "color_group": "中性色",
+    "hex": "#252A33",
+    "aliases": ["玄色"],
+    "ambiguity_note": "可指黑色、幽远、玄学，语义变化大。"
+  },
+  {
+    "color_word": "乌",
+    "normalized_name": "乌",
+    "color_group": "中性色",
+    "hex": "#303233",
+    "aliases": ["乌色"],
+    "ambiguity_note": "可指黑色、乌鸦、地名或反问词，需复核。"
+  },
+  {
+    "color_word": "黯",
+    "normalized_name": "黯",
+    "color_group": "中性色",
+    "hex": "#3B3D40",
+    "aliases": ["黯色"],
+    "ambiguity_note": "偏暗黑，也可指情绪低沉。"
+  },
+  {
+    "color_word": "灰",
+    "normalized_name": "灰",
+    "color_group": "中性色",
+    "hex": "#8E8D88",
+    "aliases": ["灰色"],
+    "ambiguity_note": "可指颜色或灰烬。"
+  },
+  {
+    "color_word": "银",
+    "normalized_name": "银",
+    "color_group": "中性色",
+    "hex": "#C7CCD0",
+    "aliases": ["银色"],
+    "ambiguity_note": "可指金属、货币或银白色。"
+  }
+]

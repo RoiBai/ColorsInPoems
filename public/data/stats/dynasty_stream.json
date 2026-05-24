@@ -1,0 +1,3008 @@
+{
+  "dynasties": [
+    "先秦",
+    "汉",
+    "魏晋",
+    "南北朝",
+    "唐",
+    "五代",
+    "宋",
+    "元",
+    "明",
+    "清"
+  ],
+  "colors": [
+    {
+      "color": "金",
+      "group": "橙黄系",
+      "hex": "#C9A23D"
+    },
+    {
+      "color": "玉色",
+      "group": "绿系",
+      "hex": "#C7D8C4"
+    },
+    {
+      "color": "红",
+      "group": "红系",
+      "hex": "#C94C4C"
+    },
+    {
+      "color": "白",
+      "group": "中性色",
+      "hex": "#F2EFE6"
+    },
+    {
+      "color": "青",
+      "group": "蓝青系",
+      "hex": "#337C8C"
+    },
+    {
+      "color": "黄",
+      "group": "橙黄系",
+      "hex": "#D3A83C"
+    },
+    {
+      "color": "翠",
+      "group": "绿系",
+      "hex": "#2F8D6B"
+    },
+    {
+      "color": "绿",
+      "group": "绿系",
+      "hex": "#5E9F58"
+    },
+    {
+      "color": "碧",
+      "group": "蓝青系",
+      "hex": "#3FA796"
+    },
+    {
+      "color": "朱",
+      "group": "红系",
+      "hex": "#B74434"
+    },
+    {
+      "color": "紫",
+      "group": "紫系",
+      "hex": "#7E5796"
+    },
+    {
+      "color": "丹",
+      "group": "红系",
+      "hex": "#BE4E3C"
+    },
+    {
+      "color": "银",
+      "group": "中性色",
+      "hex": "#C7CCD0"
+    },
+    {
+      "color": "素",
+      "group": "中性色",
+      "hex": "#E9E2D3"
+    }
+  ],
+  "rows": [
+    {
+      "dynasty": "先秦",
+      "color": "金",
+      "color_group": "橙黄系",
+      "hex": "#C9A23D",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "先秦",
+      "color": "玉色",
+      "color_group": "绿系",
+      "hex": "#C7D8C4",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "先秦",
+      "color": "红",
+      "color_group": "红系",
+      "hex": "#C94C4C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "先秦",
+      "color": "白",
+      "color_group": "中性色",
+      "hex": "#F2EFE6",
+      "count": 3,
+      "per_thousand_poems": 1500,
+      "per_ten_thousand_chars": 247.93,
+      "top_poets": [
+        {
+          "poet": "《诗经》",
+          "count": 3
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "露",
+          "count": 3
+        },
+        {
+          "imagery": "霜",
+          "count": 1
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_56a98f3bda8a",
+        "title": "蒹葭",
+        "author": "《诗经》",
+        "dynasty": "先秦",
+        "line_text": "蒹葭苍苍，白露为霜"
+      }
+    },
+    {
+      "dynasty": "先秦",
+      "color": "青",
+      "color_group": "蓝青系",
+      "hex": "#337C8C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "先秦",
+      "color": "黄",
+      "color_group": "橙黄系",
+      "hex": "#D3A83C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "先秦",
+      "color": "翠",
+      "color_group": "绿系",
+      "hex": "#2F8D6B",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "先秦",
+      "color": "绿",
+      "color_group": "绿系",
+      "hex": "#5E9F58",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "先秦",
+      "color": "碧",
+      "color_group": "蓝青系",
+      "hex": "#3FA796",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "先秦",
+      "color": "朱",
+      "color_group": "红系",
+      "hex": "#B74434",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "先秦",
+      "color": "紫",
+      "color_group": "紫系",
+      "hex": "#7E5796",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "先秦",
+      "color": "丹",
+      "color_group": "红系",
+      "hex": "#BE4E3C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "先秦",
+      "color": "银",
+      "color_group": "中性色",
+      "hex": "#C7CCD0",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "先秦",
+      "color": "素",
+      "color_group": "中性色",
+      "hex": "#E9E2D3",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "汉",
+      "color": "金",
+      "color_group": "橙黄系",
+      "hex": "#C9A23D",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "汉",
+      "color": "玉色",
+      "color_group": "绿系",
+      "hex": "#C7D8C4",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "汉",
+      "color": "红",
+      "color_group": "红系",
+      "hex": "#C94C4C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "汉",
+      "color": "白",
+      "color_group": "中性色",
+      "hex": "#F2EFE6",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "汉",
+      "color": "青",
+      "color_group": "蓝青系",
+      "hex": "#337C8C",
+      "count": 2,
+      "per_thousand_poems": 1000,
+      "per_ten_thousand_chars": 185.19,
+      "top_poets": [
+        {
+          "poet": "曹操",
+          "count": 2
+        }
+      ],
+      "top_imageries": [],
+      "sample_line": {
+        "poem_id": "poem_aa1ab1c4873e",
+        "title": "短歌行",
+        "author": "曹操",
+        "dynasty": "汉",
+        "line_text": "青青子衿，悠悠我心"
+      }
+    },
+    {
+      "dynasty": "汉",
+      "color": "黄",
+      "color_group": "橙黄系",
+      "hex": "#D3A83C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "汉",
+      "color": "翠",
+      "color_group": "绿系",
+      "hex": "#2F8D6B",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "汉",
+      "color": "绿",
+      "color_group": "绿系",
+      "hex": "#5E9F58",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "汉",
+      "color": "碧",
+      "color_group": "蓝青系",
+      "hex": "#3FA796",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "汉",
+      "color": "朱",
+      "color_group": "红系",
+      "hex": "#B74434",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "汉",
+      "color": "紫",
+      "color_group": "紫系",
+      "hex": "#7E5796",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "汉",
+      "color": "丹",
+      "color_group": "红系",
+      "hex": "#BE4E3C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "汉",
+      "color": "银",
+      "color_group": "中性色",
+      "hex": "#C7CCD0",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "汉",
+      "color": "素",
+      "color_group": "中性色",
+      "hex": "#E9E2D3",
+      "count": 1,
+      "per_thousand_poems": 500,
+      "per_ten_thousand_chars": 92.59,
+      "top_poets": [
+        {
+          "poet": "佚名",
+          "count": 1
+        }
+      ],
+      "top_imageries": [],
+      "sample_line": {
+        "poem_id": "poem_cd321d37bc6b",
+        "title": "迢迢牵牛星",
+        "author": "佚名",
+        "dynasty": "汉",
+        "line_text": "纤纤擢素手，札札弄机杼"
+      }
+    },
+    {
+      "dynasty": "魏晋",
+      "color": "金",
+      "color_group": "橙黄系",
+      "hex": "#C9A23D",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "魏晋",
+      "color": "玉色",
+      "color_group": "绿系",
+      "hex": "#C7D8C4",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "魏晋",
+      "color": "红",
+      "color_group": "红系",
+      "hex": "#C94C4C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "魏晋",
+      "color": "白",
+      "color_group": "中性色",
+      "hex": "#F2EFE6",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "魏晋",
+      "color": "青",
+      "color_group": "蓝青系",
+      "hex": "#337C8C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "魏晋",
+      "color": "黄",
+      "color_group": "橙黄系",
+      "hex": "#D3A83C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "魏晋",
+      "color": "翠",
+      "color_group": "绿系",
+      "hex": "#2F8D6B",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "魏晋",
+      "color": "绿",
+      "color_group": "绿系",
+      "hex": "#5E9F58",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "魏晋",
+      "color": "碧",
+      "color_group": "蓝青系",
+      "hex": "#3FA796",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "魏晋",
+      "color": "朱",
+      "color_group": "红系",
+      "hex": "#B74434",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "魏晋",
+      "color": "紫",
+      "color_group": "紫系",
+      "hex": "#7E5796",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "魏晋",
+      "color": "丹",
+      "color_group": "红系",
+      "hex": "#BE4E3C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "魏晋",
+      "color": "银",
+      "color_group": "中性色",
+      "hex": "#C7CCD0",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "魏晋",
+      "color": "素",
+      "color_group": "中性色",
+      "hex": "#E9E2D3",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "南北朝",
+      "color": "金",
+      "color_group": "橙黄系",
+      "hex": "#C9A23D",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "南北朝",
+      "color": "玉色",
+      "color_group": "绿系",
+      "hex": "#C7D8C4",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "南北朝",
+      "color": "红",
+      "color_group": "红系",
+      "hex": "#C94C4C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "南北朝",
+      "color": "白",
+      "color_group": "中性色",
+      "hex": "#F2EFE6",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "南北朝",
+      "color": "青",
+      "color_group": "蓝青系",
+      "hex": "#337C8C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "南北朝",
+      "color": "黄",
+      "color_group": "橙黄系",
+      "hex": "#D3A83C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "南北朝",
+      "color": "翠",
+      "color_group": "绿系",
+      "hex": "#2F8D6B",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "南北朝",
+      "color": "绿",
+      "color_group": "绿系",
+      "hex": "#5E9F58",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "南北朝",
+      "color": "碧",
+      "color_group": "蓝青系",
+      "hex": "#3FA796",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "南北朝",
+      "color": "朱",
+      "color_group": "红系",
+      "hex": "#B74434",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "南北朝",
+      "color": "紫",
+      "color_group": "紫系",
+      "hex": "#7E5796",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "南北朝",
+      "color": "丹",
+      "color_group": "红系",
+      "hex": "#BE4E3C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "南北朝",
+      "color": "银",
+      "color_group": "中性色",
+      "hex": "#C7CCD0",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "南北朝",
+      "color": "素",
+      "color_group": "中性色",
+      "hex": "#E9E2D3",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "唐",
+      "color": "金",
+      "color_group": "橙黄系",
+      "hex": "#C9A23D",
+      "count": 399,
+      "per_thousand_poems": 197.72,
+      "per_ten_thousand_chars": 33.55,
+      "top_poets": [
+        {
+          "poet": "李白",
+          "count": 58
+        },
+        {
+          "poet": "不详",
+          "count": 43
+        },
+        {
+          "poet": "温庭筠",
+          "count": 15
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "马",
+          "count": 28
+        },
+        {
+          "imagery": "风",
+          "count": 22
+        },
+        {
+          "imagery": "天",
+          "count": 17
+        },
+        {
+          "imagery": "月",
+          "count": 16
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_b21f996315a4",
+        "title": "相和歌辞王昭君二首二",
+        "author": "白居易",
+        "dynasty": "唐",
+        "line_text": "汉使却回凭寄语，黄金何日赎蛾眉"
+      }
+    },
+    {
+      "dynasty": "唐",
+      "color": "玉色",
+      "color_group": "绿系",
+      "hex": "#C7D8C4",
+      "count": 386,
+      "per_thousand_poems": 191.28,
+      "per_ten_thousand_chars": 32.46,
+      "top_poets": [
+        {
+          "poet": "李白",
+          "count": 46
+        },
+        {
+          "poet": "不详",
+          "count": 34
+        },
+        {
+          "poet": "太宗皇帝",
+          "count": 22
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "关",
+          "count": 20
+        },
+        {
+          "imagery": "君",
+          "count": 20
+        },
+        {
+          "imagery": "门",
+          "count": 19
+        },
+        {
+          "imagery": "花",
+          "count": 18
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_d62680a87f40",
+        "title": "相和歌辞反白头吟",
+        "author": "白居易",
+        "dynasty": "唐",
+        "line_text": "火不热真玉，蝇不点清冰"
+      }
+    },
+    {
+      "dynasty": "唐",
+      "color": "红",
+      "color_group": "红系",
+      "hex": "#C94C4C",
+      "count": 160,
+      "per_thousand_poems": 79.29,
+      "per_ten_thousand_chars": 13.45,
+      "top_poets": [
+        {
+          "poet": "李贺",
+          "count": 16
+        },
+        {
+          "poet": "太宗皇帝",
+          "count": 14
+        },
+        {
+          "poet": "李白",
+          "count": 10
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "花",
+          "count": 34
+        },
+        {
+          "imagery": "日",
+          "count": 19
+        },
+        {
+          "imagery": "春",
+          "count": 13
+        },
+        {
+          "imagery": "烟",
+          "count": 12
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_74a8669cd2f5",
+        "title": "相和歌辞王昭君二首一",
+        "author": "白居易",
+        "dynasty": "唐",
+        "line_text": "满面胡沙满鬓风，眉销残黛脸销红"
+      }
+    },
+    {
+      "dynasty": "唐",
+      "color": "白",
+      "color_group": "中性色",
+      "hex": "#F2EFE6",
+      "count": 358,
+      "per_thousand_poems": 177.4,
+      "per_ten_thousand_chars": 30.1,
+      "top_poets": [
+        {
+          "poet": "李白",
+          "count": 87
+        },
+        {
+          "poet": "张籍",
+          "count": 16
+        },
+        {
+          "poet": "王建",
+          "count": 11
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "日",
+          "count": 56
+        },
+        {
+          "imagery": "马",
+          "count": 37
+        },
+        {
+          "imagery": "天",
+          "count": 29
+        },
+        {
+          "imagery": "云",
+          "count": 29
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_e1909591848b",
+        "title": "相和歌辞短歌行二首一",
+        "author": "白居易",
+        "dynasty": "唐",
+        "line_text": "出为白昼入为夜，圜转如珠住不得"
+      }
+    },
+    {
+      "dynasty": "唐",
+      "color": "青",
+      "color_group": "蓝青系",
+      "hex": "#337C8C",
+      "count": 220,
+      "per_thousand_poems": 109.02,
+      "per_ten_thousand_chars": 18.5,
+      "top_poets": [
+        {
+          "poet": "李白",
+          "count": 45
+        },
+        {
+          "poet": "张籍",
+          "count": 8
+        },
+        {
+          "poet": "不详",
+          "count": 7
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "天",
+          "count": 27
+        },
+        {
+          "imagery": "云",
+          "count": 24
+        },
+        {
+          "imagery": "楼",
+          "count": 19
+        },
+        {
+          "imagery": "日",
+          "count": 19
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_674aafdedd3e",
+        "title": "横吹曲辞长安道",
+        "author": "白居易",
+        "dynasty": "唐",
+        "line_text": "花枝缺处青楼开，艳歌一曲酒一杯"
+      }
+    },
+    {
+      "dynasty": "唐",
+      "color": "黄",
+      "color_group": "橙黄系",
+      "hex": "#D3A83C",
+      "count": 249,
+      "per_thousand_poems": 123.39,
+      "per_ten_thousand_chars": 20.94,
+      "top_poets": [
+        {
+          "poet": "李白",
+          "count": 40
+        },
+        {
+          "poet": "不详",
+          "count": 16
+        },
+        {
+          "poet": "僧贯休",
+          "count": 11
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "河",
+          "count": 27
+        },
+        {
+          "imagery": "云",
+          "count": 24
+        },
+        {
+          "imagery": "马",
+          "count": 18
+        },
+        {
+          "imagery": "天",
+          "count": 17
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_b21f996315a4",
+        "title": "相和歌辞王昭君二首二",
+        "author": "白居易",
+        "dynasty": "唐",
+        "line_text": "汉使却回凭寄语，黄金何日赎蛾眉"
+      }
+    },
+    {
+      "dynasty": "唐",
+      "color": "翠",
+      "color_group": "绿系",
+      "hex": "#2F8D6B",
+      "count": 119,
+      "per_thousand_poems": 58.97,
+      "per_ten_thousand_chars": 10.01,
+      "top_poets": [
+        {
+          "poet": "太宗皇帝",
+          "count": 28
+        },
+        {
+          "poet": "李白",
+          "count": 5
+        },
+        {
+          "poet": "蜀太后徐氏",
+          "count": 5
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "花",
+          "count": 11
+        },
+        {
+          "imagery": "云",
+          "count": 11
+        },
+        {
+          "imagery": "日",
+          "count": 9
+        },
+        {
+          "imagery": "烟",
+          "count": 9
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_843c9cffd0c4",
+        "title": "赋得古原草送别",
+        "author": "白居易",
+        "dynasty": "唐",
+        "line_text": "远芳侵古道，晴翠接荒城"
+      }
+    },
+    {
+      "dynasty": "唐",
+      "color": "绿",
+      "color_group": "绿系",
+      "hex": "#5E9F58",
+      "count": 123,
+      "per_thousand_poems": 60.95,
+      "per_ten_thousand_chars": 10.34,
+      "top_poets": [
+        {
+          "poet": "李白",
+          "count": 21
+        },
+        {
+          "poet": "李贺",
+          "count": 12
+        },
+        {
+          "poet": "明皇帝",
+          "count": 4
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "花",
+          "count": 17
+        },
+        {
+          "imagery": "水",
+          "count": 16
+        },
+        {
+          "imagery": "春",
+          "count": 13
+        },
+        {
+          "imagery": "草",
+          "count": 11
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_1ad9d02e1fba",
+        "title": "相和歌辞挽歌",
+        "author": "白居易",
+        "dynasty": "唐",
+        "line_text": "春风草绿北邙山，此地年年生死别"
+      }
+    },
+    {
+      "dynasty": "唐",
+      "color": "碧",
+      "color_group": "蓝青系",
+      "hex": "#3FA796",
+      "count": 110,
+      "per_thousand_poems": 54.51,
+      "per_ten_thousand_chars": 9.25,
+      "top_poets": [
+        {
+          "poet": "太宗皇帝",
+          "count": 15
+        },
+        {
+          "poet": "李白",
+          "count": 10
+        },
+        {
+          "poet": "不详",
+          "count": 5
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "水",
+          "count": 15
+        },
+        {
+          "imagery": "春",
+          "count": 13
+        },
+        {
+          "imagery": "云",
+          "count": 13
+        },
+        {
+          "imagery": "天",
+          "count": 12
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_452921af414b",
+        "title": "相和歌辞采莲曲",
+        "author": "白居易",
+        "dynasty": "唐",
+        "line_text": "逢郎欲语低头笑，碧玉搔头落水中"
+      }
+    },
+    {
+      "dynasty": "唐",
+      "color": "朱",
+      "color_group": "红系",
+      "hex": "#B74434",
+      "count": 75,
+      "per_thousand_poems": 37.17,
+      "per_ten_thousand_chars": 6.31,
+      "top_poets": [
+        {
+          "poet": "不详",
+          "count": 7
+        },
+        {
+          "poet": "李白",
+          "count": 7
+        },
+        {
+          "poet": "白居易",
+          "count": 5
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "门",
+          "count": 8
+        },
+        {
+          "imagery": "日",
+          "count": 8
+        },
+        {
+          "imagery": "春",
+          "count": 4
+        },
+        {
+          "imagery": "楼",
+          "count": 4
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_674aafdedd3e",
+        "title": "横吹曲辞长安道",
+        "author": "白居易",
+        "dynasty": "唐",
+        "line_text": "美人劝我急行乐，自古朱颜不再来"
+      }
+    },
+    {
+      "dynasty": "唐",
+      "color": "紫",
+      "color_group": "紫系",
+      "hex": "#7E5796",
+      "count": 99,
+      "per_thousand_poems": 49.06,
+      "per_ten_thousand_chars": 8.32,
+      "top_poets": [
+        {
+          "poet": "李白",
+          "count": 23
+        },
+        {
+          "poet": "不详",
+          "count": 12
+        },
+        {
+          "poet": "明皇帝",
+          "count": 5
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "日",
+          "count": 11
+        },
+        {
+          "imagery": "天",
+          "count": 9
+        },
+        {
+          "imagery": "烟",
+          "count": 9
+        },
+        {
+          "imagery": "马",
+          "count": 8
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_cd9005d94df5",
+        "title": "郊庙歌辞武后大享昊天乐章二",
+        "author": "不详",
+        "dynasty": "唐",
+        "line_text": "瞻紫极，望玄穹"
+      }
+    },
+    {
+      "dynasty": "唐",
+      "color": "丹",
+      "color_group": "红系",
+      "hex": "#BE4E3C",
+      "count": 67,
+      "per_thousand_poems": 33.2,
+      "per_ten_thousand_chars": 5.63,
+      "top_poets": [
+        {
+          "poet": "不详",
+          "count": 12
+        },
+        {
+          "poet": "李白",
+          "count": 8
+        },
+        {
+          "poet": "太宗皇帝",
+          "count": 8
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "霞",
+          "count": 9
+        },
+        {
+          "imagery": "宫",
+          "count": 6
+        },
+        {
+          "imagery": "水",
+          "count": 6
+        },
+        {
+          "imagery": "山",
+          "count": 5
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_1ad9d02e1fba",
+        "title": "相和歌辞挽歌",
+        "author": "白居易",
+        "dynasty": "唐",
+        "line_text": "丹旐何飞扬，素骖亦悲鸣"
+      }
+    },
+    {
+      "dynasty": "唐",
+      "color": "银",
+      "color_group": "中性色",
+      "hex": "#C7CCD0",
+      "count": 43,
+      "per_thousand_poems": 21.31,
+      "per_ten_thousand_chars": 3.62,
+      "top_poets": [
+        {
+          "poet": "李白",
+          "count": 8
+        },
+        {
+          "poet": "杜甫",
+          "count": 3
+        },
+        {
+          "poet": "僧贯休",
+          "count": 3
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "水",
+          "count": 8
+        },
+        {
+          "imagery": "河",
+          "count": 5
+        },
+        {
+          "imagery": "马",
+          "count": 5
+        },
+        {
+          "imagery": "夜",
+          "count": 4
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_34d1a722583f",
+        "title": "杂曲歌辞少年行三首一",
+        "author": "杜甫",
+        "dynasty": "唐",
+        "line_text": "倾银注瓦惊人眼，共醉终同卧竹根"
+      }
+    },
+    {
+      "dynasty": "唐",
+      "color": "素",
+      "color_group": "中性色",
+      "hex": "#E9E2D3",
+      "count": 52,
+      "per_thousand_poems": 25.77,
+      "per_ten_thousand_chars": 4.37,
+      "top_poets": [
+        {
+          "poet": "李白",
+          "count": 13
+        },
+        {
+          "poet": "太宗皇帝",
+          "count": 7
+        },
+        {
+          "poet": "李贺",
+          "count": 5
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "月",
+          "count": 6
+        },
+        {
+          "imagery": "花",
+          "count": 5
+        },
+        {
+          "imagery": "风",
+          "count": 4
+        },
+        {
+          "imagery": "烟",
+          "count": 4
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_1ad9d02e1fba",
+        "title": "相和歌辞挽歌",
+        "author": "白居易",
+        "dynasty": "唐",
+        "line_text": "丹旐何飞扬，素骖亦悲鸣"
+      }
+    },
+    {
+      "dynasty": "五代",
+      "color": "金",
+      "color_group": "橙黄系",
+      "hex": "#C9A23D",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "五代",
+      "color": "玉色",
+      "color_group": "绿系",
+      "hex": "#C7D8C4",
+      "count": 1,
+      "per_thousand_poems": 500,
+      "per_ten_thousand_chars": 93.46,
+      "top_poets": [
+        {
+          "poet": "李煜",
+          "count": 1
+        }
+      ],
+      "top_imageries": [],
+      "sample_line": {
+        "poem_id": "poem_c57d702c4b9c",
+        "title": "虞美人",
+        "author": "李煜",
+        "dynasty": "五代",
+        "line_text": "雕栏玉砌应犹在，只是朱颜改"
+      }
+    },
+    {
+      "dynasty": "五代",
+      "color": "红",
+      "color_group": "红系",
+      "hex": "#C94C4C",
+      "count": 1,
+      "per_thousand_poems": 500,
+      "per_ten_thousand_chars": 93.46,
+      "top_poets": [
+        {
+          "poet": "李煜",
+          "count": 1
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "春",
+          "count": 1
+        },
+        {
+          "imagery": "花",
+          "count": 1
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_73606677f8cd",
+        "title": "相见欢",
+        "author": "李煜",
+        "dynasty": "五代",
+        "line_text": "林花谢了春红，太匆匆"
+      }
+    },
+    {
+      "dynasty": "五代",
+      "color": "白",
+      "color_group": "中性色",
+      "hex": "#F2EFE6",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "五代",
+      "color": "青",
+      "color_group": "蓝青系",
+      "hex": "#337C8C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "五代",
+      "color": "黄",
+      "color_group": "橙黄系",
+      "hex": "#D3A83C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "五代",
+      "color": "翠",
+      "color_group": "绿系",
+      "hex": "#2F8D6B",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "五代",
+      "color": "绿",
+      "color_group": "绿系",
+      "hex": "#5E9F58",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "五代",
+      "color": "碧",
+      "color_group": "蓝青系",
+      "hex": "#3FA796",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "五代",
+      "color": "朱",
+      "color_group": "红系",
+      "hex": "#B74434",
+      "count": 1,
+      "per_thousand_poems": 500,
+      "per_ten_thousand_chars": 93.46,
+      "top_poets": [
+        {
+          "poet": "李煜",
+          "count": 1
+        }
+      ],
+      "top_imageries": [],
+      "sample_line": {
+        "poem_id": "poem_c57d702c4b9c",
+        "title": "虞美人",
+        "author": "李煜",
+        "dynasty": "五代",
+        "line_text": "雕栏玉砌应犹在，只是朱颜改"
+      }
+    },
+    {
+      "dynasty": "五代",
+      "color": "紫",
+      "color_group": "紫系",
+      "hex": "#7E5796",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "五代",
+      "color": "丹",
+      "color_group": "红系",
+      "hex": "#BE4E3C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "五代",
+      "color": "银",
+      "color_group": "中性色",
+      "hex": "#C7CCD0",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "五代",
+      "color": "素",
+      "color_group": "中性色",
+      "hex": "#E9E2D3",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "宋",
+      "color": "金",
+      "color_group": "橙黄系",
+      "hex": "#C9A23D",
+      "count": 411,
+      "per_thousand_poems": 204.78,
+      "per_ten_thousand_chars": 31.72,
+      "top_poets": [
+        {
+          "poet": "柳永",
+          "count": 79
+        },
+        {
+          "poet": "欧阳修",
+          "count": 71
+        },
+        {
+          "poet": "徐铉",
+          "count": 60
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "风",
+          "count": 25
+        },
+        {
+          "imagery": "古",
+          "count": 19
+        },
+        {
+          "imagery": "酒",
+          "count": 17
+        },
+        {
+          "imagery": "衣",
+          "count": 17
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_8b438c9b217e",
+        "title": "内宴奉诏作",
+        "author": "曹翰",
+        "dynasty": "宋",
+        "line_text": "曾因国难披金甲，不为家贫卖宝刀"
+      }
+    },
+    {
+      "dynasty": "宋",
+      "color": "玉色",
+      "color_group": "绿系",
+      "hex": "#C7D8C4",
+      "count": 415,
+      "per_thousand_poems": 206.78,
+      "per_ten_thousand_chars": 32.03,
+      "top_poets": [
+        {
+          "poet": "欧阳修",
+          "count": 77
+        },
+        {
+          "poet": "徐铉",
+          "count": 68
+        },
+        {
+          "poet": "柳永",
+          "count": 55
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "楼",
+          "count": 93
+        },
+        {
+          "imagery": "春",
+          "count": 91
+        },
+        {
+          "imagery": "花",
+          "count": 48
+        },
+        {
+          "imagery": "兰",
+          "count": 33
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_cde4ef69cd0c",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "常饮玉壶浆"
+      }
+    },
+    {
+      "dynasty": "宋",
+      "color": "红",
+      "color_group": "红系",
+      "hex": "#C94C4C",
+      "count": 433,
+      "per_thousand_poems": 215.74,
+      "per_ten_thousand_chars": 33.42,
+      "top_poets": [
+        {
+          "poet": "欧阳修",
+          "count": 112
+        },
+        {
+          "poet": "晏殊",
+          "count": 68
+        },
+        {
+          "poet": "柳永",
+          "count": 66
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "花",
+          "count": 47
+        },
+        {
+          "imagery": "日",
+          "count": 37
+        },
+        {
+          "imagery": "春",
+          "count": 24
+        },
+        {
+          "imagery": "酒",
+          "count": 18
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_88faecf4d996",
+        "title": "一络索・一落萦",
+        "author": "陈凤仪",
+        "dynasty": "宋",
+        "line_text": "海棠也似别君难，一点点、啼红雨"
+      }
+    },
+    {
+      "dynasty": "宋",
+      "color": "白",
+      "color_group": "中性色",
+      "hex": "#F2EFE6",
+      "count": 184,
+      "per_thousand_poems": 91.68,
+      "per_ten_thousand_chars": 14.2,
+      "top_poets": [
+        {
+          "poet": "徐铉",
+          "count": 54
+        },
+        {
+          "poet": "欧阳修",
+          "count": 16
+        },
+        {
+          "poet": "谭用之",
+          "count": 14
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "云",
+          "count": 31
+        },
+        {
+          "imagery": "花",
+          "count": 21
+        },
+        {
+          "imagery": "烟",
+          "count": 11
+        },
+        {
+          "imagery": "山",
+          "count": 10
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_63dcd7b395ff",
+        "title": "句其八",
+        "author": "卞震",
+        "dynasty": "宋",
+        "line_text": "双阙暂随丹诏入，三峰寻与白云归"
+      }
+    },
+    {
+      "dynasty": "宋",
+      "color": "青",
+      "color_group": "蓝青系",
+      "hex": "#337C8C",
+      "count": 224,
+      "per_thousand_poems": 111.61,
+      "per_ten_thousand_chars": 17.29,
+      "top_poets": [
+        {
+          "poet": "张先",
+          "count": 37
+        },
+        {
+          "poet": "徐铉",
+          "count": 36
+        },
+        {
+          "poet": "欧阳修",
+          "count": 33
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "山",
+          "count": 21
+        },
+        {
+          "imagery": "云",
+          "count": 21
+        },
+        {
+          "imagery": "春",
+          "count": 20
+        },
+        {
+          "imagery": "草",
+          "count": 15
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_1c1dc49950f9",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "阳砂赤，阴粉色微青"
+      }
+    },
+    {
+      "dynasty": "宋",
+      "color": "黄",
+      "color_group": "橙黄系",
+      "hex": "#D3A83C",
+      "count": 127,
+      "per_thousand_poems": 63.28,
+      "per_ten_thousand_chars": 9.8,
+      "top_poets": [
+        {
+          "poet": "徐铉",
+          "count": 20
+        },
+        {
+          "poet": "欧阳修",
+          "count": 19
+        },
+        {
+          "poet": "张先",
+          "count": 17
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "花",
+          "count": 15
+        },
+        {
+          "imagery": "雨",
+          "count": 11
+        },
+        {
+          "imagery": "风",
+          "count": 9
+        },
+        {
+          "imagery": "月",
+          "count": 9
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_dd9fed01ebbc",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "中黄宝，须向胆中求"
+      }
+    },
+    {
+      "dynasty": "宋",
+      "color": "翠",
+      "color_group": "绿系",
+      "hex": "#2F8D6B",
+      "count": 216,
+      "per_thousand_poems": 107.62,
+      "per_ten_thousand_chars": 16.67,
+      "top_poets": [
+        {
+          "poet": "柳永",
+          "count": 52
+        },
+        {
+          "poet": "欧阳修",
+          "count": 31
+        },
+        {
+          "poet": "徐铉",
+          "count": 27
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "山",
+          "count": 22
+        },
+        {
+          "imagery": "烟",
+          "count": 17
+        },
+        {
+          "imagery": "云",
+          "count": 13
+        },
+        {
+          "imagery": "春",
+          "count": 12
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_662871081d5d",
+        "title": "题石水涧",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "银河洒落翠光冷，一派回环湛晚晖"
+      }
+    },
+    {
+      "dynasty": "宋",
+      "color": "绿",
+      "color_group": "绿系",
+      "hex": "#5E9F58",
+      "count": 200,
+      "per_thousand_poems": 99.65,
+      "per_ten_thousand_chars": 15.44,
+      "top_poets": [
+        {
+          "poet": "欧阳修",
+          "count": 40
+        },
+        {
+          "poet": "徐铉",
+          "count": 31
+        },
+        {
+          "poet": "晏殊",
+          "count": 29
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "水",
+          "count": 22
+        },
+        {
+          "imagery": "春",
+          "count": 17
+        },
+        {
+          "imagery": "草",
+          "count": 16
+        },
+        {
+          "imagery": "花",
+          "count": 15
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_3ca163fef020",
+        "title": "西峰",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "岩花红作阵，溪水绿成行"
+      }
+    },
+    {
+      "dynasty": "宋",
+      "color": "碧",
+      "color_group": "蓝青系",
+      "hex": "#3FA796",
+      "count": 142,
+      "per_thousand_poems": 70.75,
+      "per_ten_thousand_chars": 10.96,
+      "top_poets": [
+        {
+          "poet": "柳永",
+          "count": 19
+        },
+        {
+          "poet": "徐铉",
+          "count": 19
+        },
+        {
+          "poet": "欧阳修",
+          "count": 16
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "云",
+          "count": 24
+        },
+        {
+          "imagery": "水",
+          "count": 17
+        },
+        {
+          "imagery": "天",
+          "count": 16
+        },
+        {
+          "imagery": "草",
+          "count": 14
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_0023870aa1d3",
+        "title": "查公山",
+        "author": "查元方",
+        "dynasty": "宋",
+        "line_text": "寒藤系舴艋，碧潭澄素舒"
+      }
+    },
+    {
+      "dynasty": "宋",
+      "color": "朱",
+      "color_group": "红系",
+      "hex": "#B74434",
+      "count": 136,
+      "per_thousand_poems": 67.76,
+      "per_ten_thousand_chars": 10.5,
+      "top_poets": [
+        {
+          "poet": "晏殊",
+          "count": 31
+        },
+        {
+          "poet": "徐铉",
+          "count": 30
+        },
+        {
+          "poet": "柳永",
+          "count": 17
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "门",
+          "count": 14
+        },
+        {
+          "imagery": "楼",
+          "count": 10
+        },
+        {
+          "imagery": "花",
+          "count": 9
+        },
+        {
+          "imagery": "帘",
+          "count": 7
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_76ac8333ea40",
+        "title": "归隠",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "紫陌纵荣争及睡，朱门虽贵不如贫"
+      }
+    },
+    {
+      "dynasty": "宋",
+      "color": "紫",
+      "color_group": "紫系",
+      "hex": "#7E5796",
+      "count": 77,
+      "per_thousand_poems": 38.37,
+      "per_ten_thousand_chars": 5.94,
+      "top_poets": [
+        {
+          "poet": "徐铉",
+          "count": 21
+        },
+        {
+          "poet": "晏殊",
+          "count": 10
+        },
+        {
+          "poet": "柳永",
+          "count": 8
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "春",
+          "count": 7
+        },
+        {
+          "imagery": "门",
+          "count": 5
+        },
+        {
+          "imagery": "云",
+          "count": 5
+        },
+        {
+          "imagery": "日",
+          "count": 4
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_0ad63192928e",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "紫电透玲珑"
+      }
+    },
+    {
+      "dynasty": "宋",
+      "color": "丹",
+      "color_group": "红系",
+      "hex": "#BE4E3C",
+      "count": 84,
+      "per_thousand_poems": 41.85,
+      "per_ten_thousand_chars": 6.48,
+      "top_poets": [
+        {
+          "poet": "徐铉",
+          "count": 17
+        },
+        {
+          "poet": "杜安世",
+          "count": 7
+        },
+        {
+          "poet": "李昉",
+          "count": 7
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "花",
+          "count": 4
+        },
+        {
+          "imagery": "山",
+          "count": 4
+        },
+        {
+          "imagery": "城",
+          "count": 3
+        },
+        {
+          "imagery": "秋",
+          "count": 3
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_63dcd7b395ff",
+        "title": "句其八",
+        "author": "卞震",
+        "dynasty": "宋",
+        "line_text": "双阙暂随丹诏入，三峰寻与白云归"
+      }
+    },
+    {
+      "dynasty": "宋",
+      "color": "银",
+      "color_group": "中性色",
+      "hex": "#C7CCD0",
+      "count": 95,
+      "per_thousand_poems": 47.33,
+      "per_ten_thousand_chars": 7.33,
+      "top_poets": [
+        {
+          "poet": "柳永",
+          "count": 21
+        },
+        {
+          "poet": "徐铉",
+          "count": 21
+        },
+        {
+          "poet": "欧阳修",
+          "count": 11
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "河",
+          "count": 13
+        },
+        {
+          "imagery": "灯",
+          "count": 8
+        },
+        {
+          "imagery": "夜",
+          "count": 7
+        },
+        {
+          "imagery": "风",
+          "count": 5
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_a6db9990eac1",
+        "title": "好事近",
+        "author": "蔡襄",
+        "dynasty": "宋",
+        "line_text": "瑞雪满京都，宫殿尽成银阙"
+      }
+    },
+    {
+      "dynasty": "宋",
+      "color": "素",
+      "color_group": "中性色",
+      "hex": "#E9E2D3",
+      "count": 75,
+      "per_thousand_poems": 37.37,
+      "per_ten_thousand_chars": 5.79,
+      "top_poets": [
+        {
+          "poet": "徐铉",
+          "count": 22
+        },
+        {
+          "poet": "柳永",
+          "count": 15
+        },
+        {
+          "poet": "张先",
+          "count": 8
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "云",
+          "count": 7
+        },
+        {
+          "imagery": "风",
+          "count": 6
+        },
+        {
+          "imagery": "秋",
+          "count": 6
+        },
+        {
+          "imagery": "寒",
+          "count": 5
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_a6db9990eac1",
+        "title": "好事近",
+        "author": "蔡襄",
+        "dynasty": "宋",
+        "line_text": "常对素光遥望，是江梅时节"
+      }
+    },
+    {
+      "dynasty": "元",
+      "color": "金",
+      "color_group": "橙黄系",
+      "hex": "#C9A23D",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "元",
+      "color": "玉色",
+      "color_group": "绿系",
+      "hex": "#C7D8C4",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "元",
+      "color": "红",
+      "color_group": "红系",
+      "hex": "#C94C4C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "元",
+      "color": "白",
+      "color_group": "中性色",
+      "hex": "#F2EFE6",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "元",
+      "color": "青",
+      "color_group": "蓝青系",
+      "hex": "#337C8C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "元",
+      "color": "黄",
+      "color_group": "橙黄系",
+      "hex": "#D3A83C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "元",
+      "color": "翠",
+      "color_group": "绿系",
+      "hex": "#2F8D6B",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "元",
+      "color": "绿",
+      "color_group": "绿系",
+      "hex": "#5E9F58",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "元",
+      "color": "碧",
+      "color_group": "蓝青系",
+      "hex": "#3FA796",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "元",
+      "color": "朱",
+      "color_group": "红系",
+      "hex": "#B74434",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "元",
+      "color": "紫",
+      "color_group": "紫系",
+      "hex": "#7E5796",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "元",
+      "color": "丹",
+      "color_group": "红系",
+      "hex": "#BE4E3C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "元",
+      "color": "银",
+      "color_group": "中性色",
+      "hex": "#C7CCD0",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "元",
+      "color": "素",
+      "color_group": "中性色",
+      "hex": "#E9E2D3",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "明",
+      "color": "金",
+      "color_group": "橙黄系",
+      "hex": "#C9A23D",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "明",
+      "color": "玉色",
+      "color_group": "绿系",
+      "hex": "#C7D8C4",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "明",
+      "color": "红",
+      "color_group": "红系",
+      "hex": "#C94C4C",
+      "count": 1,
+      "per_thousand_poems": 333.33,
+      "per_ten_thousand_chars": 94.34,
+      "top_poets": [
+        {
+          "poet": "杨慎",
+          "count": 1
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "山",
+          "count": 1
+        },
+        {
+          "imagery": "夕",
+          "count": 1
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_5f9c4dcab761",
+        "title": "临江仙",
+        "author": "杨慎",
+        "dynasty": "明",
+        "line_text": "青山依旧在，几度夕阳红"
+      }
+    },
+    {
+      "dynasty": "明",
+      "color": "白",
+      "color_group": "中性色",
+      "hex": "#F2EFE6",
+      "count": 2,
+      "per_thousand_poems": 666.67,
+      "per_ten_thousand_chars": 188.68,
+      "top_poets": [
+        {
+          "poet": "杨慎",
+          "count": 1
+        },
+        {
+          "poet": "于谦",
+          "count": 1
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "春",
+          "count": 1
+        },
+        {
+          "imagery": "江",
+          "count": 1
+        },
+        {
+          "imagery": "秋",
+          "count": 1
+        },
+        {
+          "imagery": "月",
+          "count": 1
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_5f9c4dcab761",
+        "title": "临江仙",
+        "author": "杨慎",
+        "dynasty": "明",
+        "line_text": "白发渔樵江渚上，惯看秋月春风"
+      }
+    },
+    {
+      "dynasty": "明",
+      "color": "青",
+      "color_group": "蓝青系",
+      "hex": "#337C8C",
+      "count": 1,
+      "per_thousand_poems": 333.33,
+      "per_ten_thousand_chars": 94.34,
+      "top_poets": [
+        {
+          "poet": "杨慎",
+          "count": 1
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "山",
+          "count": 1
+        },
+        {
+          "imagery": "夕",
+          "count": 1
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_5f9c4dcab761",
+        "title": "临江仙",
+        "author": "杨慎",
+        "dynasty": "明",
+        "line_text": "青山依旧在，几度夕阳红"
+      }
+    },
+    {
+      "dynasty": "明",
+      "color": "黄",
+      "color_group": "橙黄系",
+      "hex": "#D3A83C",
+      "count": 1,
+      "per_thousand_poems": 333.33,
+      "per_ten_thousand_chars": 94.34,
+      "top_poets": [
+        {
+          "poet": "高启",
+          "count": 1
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "风",
+          "count": 1
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_a9c28694cec1",
+        "title": "咏柳",
+        "author": "高启",
+        "dynasty": "明",
+        "line_text": "乱条犹未变初黄，倚得东风势便狂"
+      }
+    },
+    {
+      "dynasty": "明",
+      "color": "翠",
+      "color_group": "绿系",
+      "hex": "#2F8D6B",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "明",
+      "color": "绿",
+      "color_group": "绿系",
+      "hex": "#5E9F58",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "明",
+      "color": "碧",
+      "color_group": "蓝青系",
+      "hex": "#3FA796",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "明",
+      "color": "朱",
+      "color_group": "红系",
+      "hex": "#B74434",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "明",
+      "color": "紫",
+      "color_group": "紫系",
+      "hex": "#7E5796",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "明",
+      "color": "丹",
+      "color_group": "红系",
+      "hex": "#BE4E3C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "明",
+      "color": "银",
+      "color_group": "中性色",
+      "hex": "#C7CCD0",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "明",
+      "color": "素",
+      "color_group": "中性色",
+      "hex": "#E9E2D3",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "清",
+      "color": "金",
+      "color_group": "橙黄系",
+      "hex": "#C9A23D",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "清",
+      "color": "玉色",
+      "color_group": "绿系",
+      "hex": "#C7D8C4",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "清",
+      "color": "红",
+      "color_group": "红系",
+      "hex": "#C94C4C",
+      "count": 1,
+      "per_thousand_poems": 333.33,
+      "per_ten_thousand_chars": 104.17,
+      "top_poets": [
+        {
+          "poet": "龚自珍",
+          "count": 1
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "春",
+          "count": 1
+        },
+        {
+          "imagery": "花",
+          "count": 1
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_91bf85c17450",
+        "title": "己亥杂诗",
+        "author": "龚自珍",
+        "dynasty": "清",
+        "line_text": "落红不是无情物，化作春泥更护花"
+      }
+    },
+    {
+      "dynasty": "清",
+      "color": "白",
+      "color_group": "中性色",
+      "hex": "#F2EFE6",
+      "count": 1,
+      "per_thousand_poems": 333.33,
+      "per_ten_thousand_chars": 104.17,
+      "top_poets": [
+        {
+          "poet": "龚自珍",
+          "count": 1
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "日",
+          "count": 1
+        },
+        {
+          "imagery": "天",
+          "count": 1
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_91bf85c17450",
+        "title": "己亥杂诗",
+        "author": "龚自珍",
+        "dynasty": "清",
+        "line_text": "浩荡离愁白日斜，吟鞭东指即天涯"
+      }
+    },
+    {
+      "dynasty": "清",
+      "color": "青",
+      "color_group": "蓝青系",
+      "hex": "#337C8C",
+      "count": 1,
+      "per_thousand_poems": 333.33,
+      "per_ten_thousand_chars": 104.17,
+      "top_poets": [
+        {
+          "poet": "郑燮",
+          "count": 1
+        }
+      ],
+      "top_imageries": [
+        {
+          "imagery": "山",
+          "count": 1
+        },
+        {
+          "imagery": "松",
+          "count": 1
+        }
+      ],
+      "sample_line": {
+        "poem_id": "poem_44f37baf226e",
+        "title": "竹石",
+        "author": "郑燮",
+        "dynasty": "清",
+        "line_text": "咬定青山不放松，立根原在破岩中"
+      }
+    },
+    {
+      "dynasty": "清",
+      "color": "黄",
+      "color_group": "橙黄系",
+      "hex": "#D3A83C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "清",
+      "color": "翠",
+      "color_group": "绿系",
+      "hex": "#2F8D6B",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "清",
+      "color": "绿",
+      "color_group": "绿系",
+      "hex": "#5E9F58",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "清",
+      "color": "碧",
+      "color_group": "蓝青系",
+      "hex": "#3FA796",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "清",
+      "color": "朱",
+      "color_group": "红系",
+      "hex": "#B74434",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "清",
+      "color": "紫",
+      "color_group": "紫系",
+      "hex": "#7E5796",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "清",
+      "color": "丹",
+      "color_group": "红系",
+      "hex": "#BE4E3C",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "清",
+      "color": "银",
+      "color_group": "中性色",
+      "hex": "#C7CCD0",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    },
+    {
+      "dynasty": "清",
+      "color": "素",
+      "color_group": "中性色",
+      "hex": "#E9E2D3",
+      "count": 0,
+      "per_thousand_poems": 0,
+      "per_ten_thousand_chars": 0,
+      "top_poets": [],
+      "top_imageries": [],
+      "sample_line": null
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "source_id": "chinese_poetry_tang_0",
+    "source_name": "chinese-poetry 全唐诗样本 0",
+    "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.0.json",
+    "license": "MIT License, chinese-poetry/chinese-poetry",
+    "dynasty_coverage": [
+      "唐"
+    ],
+    "downloaded_at": "2026-05-24T09:48:43.121Z",
+    "cached": true,
+    "cache_note": "Network download failed (fetch failed); reused existing data/raw cache.",
+    "file_paths": [
+      "data/raw/chinese_poetry_tang_0.json"
+    ]
+  },
+  {
+    "source_id": "chinese_poetry_tang_1000",
+    "source_name": "chinese-poetry 全唐诗样本 1000",
+    "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/%E5%85%A8%E5%94%90%E8%AF%97/poet.tang.1000.json",
+    "license": "MIT License, chinese-poetry/chinese-poetry",
+    "dynasty_coverage": [
+      "唐"
+    ],
+    "downloaded_at": "2026-05-24T09:48:43.121Z",
+    "cached": true,
+    "cache_note": "Network download failed (fetch failed); reused existing data/raw cache.",
+    "file_paths": [
+      "data/raw/chinese_poetry_tang_1000.json"
+    ]
+  },
+  {
+    "source_id": "chinese_poetry_song_0",
+    "source_name": "chinese-poetry 宋诗样本 0",
+    "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/%E5%85%A8%E5%94%90%E8%AF%97/poet.song.0.json",
+    "license": "MIT License, chinese-poetry/chinese-poetry",
+    "dynasty_coverage": [
+      "宋"
+    ],
+    "downloaded_at": "2026-05-24T09:48:43.121Z",
+    "cached": true,
+    "cache_note": "Network download failed (fetch failed); reused existing data/raw cache.",
+    "file_paths": [
+      "data/raw/chinese_poetry_song_0.json"
+    ]
+  },
+  {
+    "source_id": "chinese_poetry_ci_song_0",
+    "source_name": "chinese-poetry 宋词样本 0",
+    "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/%E5%AE%8B%E8%AF%8D/ci.song.0.json",
+    "license": "MIT License, chinese-poetry/chinese-poetry",
+    "dynasty_coverage": [
+      "宋"
+    ],
+    "downloaded_at": "2026-05-24T09:48:43.121Z",
+    "cached": true,
+    "cache_note": "Network download failed (fetch failed); reused existing data/raw cache.",
+    "file_paths": [
+      "data/raw/chinese_poetry_ci_song_0.json"
+    ]
+  },
+  {
+    "source_id": "seed_public_domain",
+    "source_name": "公版古典诗词离线种子语料",
+    "url": "local:data/seed/seed_poems.json",
+    "license": "Public domain classical texts; curated for reproducible offline demos",
+    "dynasty_coverage": [
+      "先秦",
+      "汉",
+      "魏晋",
+      "南北朝",
+      "唐",
+      "五代",
+      "宋",
+      "元",
+      "明",
+      "清"
+    ],
+    "downloaded_at": "2026-05-24T09:48:43.121Z",
+    "file_paths": [
+      "data/raw/seed_public_domain.json"
+    ]
+  }
+]

@@ -1,0 +1,808 @@
+{
+  "title": "朝代色彩流行度 TOP 10",
+  "description": "选择朝代，查看该朝代诗词中出现最多的色彩词",
+  "dynasties": [
+    "先秦",
+    "汉",
+    "魏晋",
+    "南北朝",
+    "唐",
+    "五代",
+    "宋",
+    "元",
+    "明",
+    "清",
+    "近现代"
+  ],
+  "data": {
+    "先秦": {
+      "dynasty": "先秦",
+      "poem_count": 2,
+      "color_total": 5,
+      "top_colors": [
+        {
+          "color": "白",
+          "color_group": "中性色",
+          "hex": "#F2EFE6",
+          "count": 3,
+          "per_thousand_poems": 1500,
+          "share": 0.6,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 3
+          },
+          "sample_line": {
+            "poem_id": "poem_56a98f3bda8a",
+            "title": "蒹葭",
+            "author": "《诗经》",
+            "dynasty": "先秦",
+            "line_text": "蒹葭苍苍，白露为霜"
+          }
+        },
+        {
+          "color": "苍",
+          "color_group": "蓝青系",
+          "hex": "#6B8A83",
+          "count": 2,
+          "per_thousand_poems": 1000,
+          "share": 0.4,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 2
+          },
+          "sample_line": {
+            "poem_id": "poem_56a98f3bda8a",
+            "title": "蒹葭",
+            "author": "《诗经》",
+            "dynasty": "先秦",
+            "line_text": "蒹葭苍苍，白露为霜"
+          }
+        }
+      ]
+    },
+    "汉": {
+      "dynasty": "汉",
+      "poem_count": 2,
+      "color_total": 6,
+      "top_colors": [
+        {
+          "color": "皎",
+          "color_group": "中性色",
+          "hex": "#EEF1EB",
+          "count": 2,
+          "per_thousand_poems": 1000,
+          "share": 0.3333,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 2
+          },
+          "sample_line": {
+            "poem_id": "poem_cd321d37bc6b",
+            "title": "迢迢牵牛星",
+            "author": "佚名",
+            "dynasty": "汉",
+            "line_text": "迢迢牵牛星，皎皎河汉女"
+          }
+        },
+        {
+          "color": "青",
+          "color_group": "蓝青系",
+          "hex": "#337C8C",
+          "count": 2,
+          "per_thousand_poems": 1000,
+          "share": 0.3333,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 2
+          },
+          "sample_line": {
+            "poem_id": "poem_aa1ab1c4873e",
+            "title": "短歌行",
+            "author": "曹操",
+            "dynasty": "汉",
+            "line_text": "青青子衿，悠悠我心"
+          }
+        },
+        {
+          "color": "素",
+          "color_group": "中性色",
+          "hex": "#E9E2D3",
+          "count": 1,
+          "per_thousand_poems": 500,
+          "share": 0.1667,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 1
+          },
+          "sample_line": {
+            "poem_id": "poem_cd321d37bc6b",
+            "title": "迢迢牵牛星",
+            "author": "佚名",
+            "dynasty": "汉",
+            "line_text": "纤纤擢素手，札札弄机杼"
+          }
+        },
+        {
+          "color": "乌",
+          "color_group": "中性色",
+          "hex": "#303233",
+          "count": 1,
+          "per_thousand_poems": 500,
+          "share": 0.1667,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 1
+          },
+          "sample_line": {
+            "poem_id": "poem_aa1ab1c4873e",
+            "title": "短歌行",
+            "author": "曹操",
+            "dynasty": "汉",
+            "line_text": "月明星稀，乌鹊南飞"
+          }
+        }
+      ]
+    },
+    "魏晋": {
+      "dynasty": "魏晋",
+      "poem_count": 2,
+      "color_total": 0,
+      "top_colors": []
+    },
+    "南北朝": {
+      "dynasty": "南北朝",
+      "poem_count": 2,
+      "color_total": 0,
+      "top_colors": []
+    },
+    "唐": {
+      "dynasty": "唐",
+      "poem_count": 2018,
+      "color_total": 2871,
+      "top_colors": [
+        {
+          "color": "金",
+          "color_group": "橙黄系",
+          "hex": "#C9A23D",
+          "count": 399,
+          "per_thousand_poems": 197.72,
+          "share": 0.139,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 399
+          },
+          "sample_line": {
+            "poem_id": "poem_b21f996315a4",
+            "title": "相和歌辞王昭君二首二",
+            "author": "白居易",
+            "dynasty": "唐",
+            "line_text": "汉使却回凭寄语，黄金何日赎蛾眉"
+          }
+        },
+        {
+          "color": "玉色",
+          "color_group": "绿系",
+          "hex": "#C7D8C4",
+          "count": 386,
+          "per_thousand_poems": 191.28,
+          "share": 0.1344,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 386
+          },
+          "sample_line": {
+            "poem_id": "poem_d62680a87f40",
+            "title": "相和歌辞反白头吟",
+            "author": "白居易",
+            "dynasty": "唐",
+            "line_text": "火不热真玉，蝇不点清冰"
+          }
+        },
+        {
+          "color": "白",
+          "color_group": "中性色",
+          "hex": "#F2EFE6",
+          "count": 358,
+          "per_thousand_poems": 177.4,
+          "share": 0.1247,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 358
+          },
+          "sample_line": {
+            "poem_id": "poem_e1909591848b",
+            "title": "相和歌辞短歌行二首一",
+            "author": "白居易",
+            "dynasty": "唐",
+            "line_text": "出为白昼入为夜，圜转如珠住不得"
+          }
+        },
+        {
+          "color": "黄",
+          "color_group": "橙黄系",
+          "hex": "#D3A83C",
+          "count": 249,
+          "per_thousand_poems": 123.39,
+          "share": 0.0867,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 249
+          },
+          "sample_line": {
+            "poem_id": "poem_b21f996315a4",
+            "title": "相和歌辞王昭君二首二",
+            "author": "白居易",
+            "dynasty": "唐",
+            "line_text": "汉使却回凭寄语，黄金何日赎蛾眉"
+          }
+        },
+        {
+          "color": "青",
+          "color_group": "蓝青系",
+          "hex": "#337C8C",
+          "count": 220,
+          "per_thousand_poems": 109.02,
+          "share": 0.0766,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 220
+          },
+          "sample_line": {
+            "poem_id": "poem_674aafdedd3e",
+            "title": "横吹曲辞长安道",
+            "author": "白居易",
+            "dynasty": "唐",
+            "line_text": "花枝缺处青楼开，艳歌一曲酒一杯"
+          }
+        },
+        {
+          "color": "红",
+          "color_group": "红系",
+          "hex": "#C94C4C",
+          "count": 160,
+          "per_thousand_poems": 79.29,
+          "share": 0.0557,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 160
+          },
+          "sample_line": {
+            "poem_id": "poem_74a8669cd2f5",
+            "title": "相和歌辞王昭君二首一",
+            "author": "白居易",
+            "dynasty": "唐",
+            "line_text": "满面胡沙满鬓风，眉销残黛脸销红"
+          }
+        },
+        {
+          "color": "绿",
+          "color_group": "绿系",
+          "hex": "#5E9F58",
+          "count": 123,
+          "per_thousand_poems": 60.95,
+          "share": 0.0428,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 123
+          },
+          "sample_line": {
+            "poem_id": "poem_1ad9d02e1fba",
+            "title": "相和歌辞挽歌",
+            "author": "白居易",
+            "dynasty": "唐",
+            "line_text": "春风草绿北邙山，此地年年生死别"
+          }
+        },
+        {
+          "color": "翠",
+          "color_group": "绿系",
+          "hex": "#2F8D6B",
+          "count": 119,
+          "per_thousand_poems": 58.97,
+          "share": 0.0414,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 119
+          },
+          "sample_line": {
+            "poem_id": "poem_843c9cffd0c4",
+            "title": "赋得古原草送别",
+            "author": "白居易",
+            "dynasty": "唐",
+            "line_text": "远芳侵古道，晴翠接荒城"
+          }
+        },
+        {
+          "color": "碧",
+          "color_group": "蓝青系",
+          "hex": "#3FA796",
+          "count": 110,
+          "per_thousand_poems": 54.51,
+          "share": 0.0383,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 110
+          },
+          "sample_line": {
+            "poem_id": "poem_452921af414b",
+            "title": "相和歌辞采莲曲",
+            "author": "白居易",
+            "dynasty": "唐",
+            "line_text": "逢郎欲语低头笑，碧玉搔头落水中"
+          }
+        },
+        {
+          "color": "紫",
+          "color_group": "紫系",
+          "hex": "#7E5796",
+          "count": 99,
+          "per_thousand_poems": 49.06,
+          "share": 0.0345,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 99
+          },
+          "sample_line": {
+            "poem_id": "poem_cd9005d94df5",
+            "title": "郊庙歌辞武后大享昊天乐章二",
+            "author": "不详",
+            "dynasty": "唐",
+            "line_text": "瞻紫极，望玄穹"
+          }
+        }
+      ]
+    },
+    "五代": {
+      "dynasty": "五代",
+      "poem_count": 2,
+      "color_total": 4,
+      "top_colors": [
+        {
+          "color": "红",
+          "color_group": "红系",
+          "hex": "#C94C4C",
+          "count": 1,
+          "per_thousand_poems": 500,
+          "share": 0.25,
+          "previous_comparison": {
+            "status": "下降",
+            "delta": -159
+          },
+          "sample_line": {
+            "poem_id": "poem_73606677f8cd",
+            "title": "相见欢",
+            "author": "李煜",
+            "dynasty": "五代",
+            "line_text": "林花谢了春红，太匆匆"
+          }
+        },
+        {
+          "color": "胭脂",
+          "color_group": "红系",
+          "hex": "#B24A5A",
+          "count": 1,
+          "per_thousand_poems": 500,
+          "share": 0.25,
+          "previous_comparison": {
+            "status": "持平",
+            "delta": 0
+          },
+          "sample_line": {
+            "poem_id": "poem_73606677f8cd",
+            "title": "相见欢",
+            "author": "李煜",
+            "dynasty": "五代",
+            "line_text": "胭脂泪，相留醉，几时重"
+          }
+        },
+        {
+          "color": "玉色",
+          "color_group": "绿系",
+          "hex": "#C7D8C4",
+          "count": 1,
+          "per_thousand_poems": 500,
+          "share": 0.25,
+          "previous_comparison": {
+            "status": "下降",
+            "delta": -385
+          },
+          "sample_line": {
+            "poem_id": "poem_c57d702c4b9c",
+            "title": "虞美人",
+            "author": "李煜",
+            "dynasty": "五代",
+            "line_text": "雕栏玉砌应犹在，只是朱颜改"
+          }
+        },
+        {
+          "color": "朱",
+          "color_group": "红系",
+          "hex": "#B74434",
+          "count": 1,
+          "per_thousand_poems": 500,
+          "share": 0.25,
+          "previous_comparison": {
+            "status": "下降",
+            "delta": -74
+          },
+          "sample_line": {
+            "poem_id": "poem_c57d702c4b9c",
+            "title": "虞美人",
+            "author": "李煜",
+            "dynasty": "五代",
+            "line_text": "雕栏玉砌应犹在，只是朱颜改"
+          }
+        }
+      ]
+    },
+    "宋": {
+      "dynasty": "宋",
+      "poem_count": 2007,
+      "color_total": 3146,
+      "top_colors": [
+        {
+          "color": "红",
+          "color_group": "红系",
+          "hex": "#C94C4C",
+          "count": 433,
+          "per_thousand_poems": 215.74,
+          "share": 0.1376,
+          "previous_comparison": {
+            "status": "上升",
+            "delta": 432
+          },
+          "sample_line": {
+            "poem_id": "poem_88faecf4d996",
+            "title": "一络索・一落萦",
+            "author": "陈凤仪",
+            "dynasty": "宋",
+            "line_text": "海棠也似别君难，一点点、啼红雨"
+          }
+        },
+        {
+          "color": "玉色",
+          "color_group": "绿系",
+          "hex": "#C7D8C4",
+          "count": 415,
+          "per_thousand_poems": 206.78,
+          "share": 0.1319,
+          "previous_comparison": {
+            "status": "上升",
+            "delta": 414
+          },
+          "sample_line": {
+            "poem_id": "poem_cde4ef69cd0c",
+            "title": "望江南・忆江南",
+            "author": "陈朴",
+            "dynasty": "宋",
+            "line_text": "常饮玉壶浆"
+          }
+        },
+        {
+          "color": "金",
+          "color_group": "橙黄系",
+          "hex": "#C9A23D",
+          "count": 411,
+          "per_thousand_poems": 204.78,
+          "share": 0.1306,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 411
+          },
+          "sample_line": {
+            "poem_id": "poem_8b438c9b217e",
+            "title": "内宴奉诏作",
+            "author": "曹翰",
+            "dynasty": "宋",
+            "line_text": "曾因国难披金甲，不为家贫卖宝刀"
+          }
+        },
+        {
+          "color": "青",
+          "color_group": "蓝青系",
+          "hex": "#337C8C",
+          "count": 224,
+          "per_thousand_poems": 111.61,
+          "share": 0.0712,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 224
+          },
+          "sample_line": {
+            "poem_id": "poem_1c1dc49950f9",
+            "title": "望江南・忆江南",
+            "author": "陈朴",
+            "dynasty": "宋",
+            "line_text": "阳砂赤，阴粉色微青"
+          }
+        },
+        {
+          "color": "翠",
+          "color_group": "绿系",
+          "hex": "#2F8D6B",
+          "count": 216,
+          "per_thousand_poems": 107.62,
+          "share": 0.0687,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 216
+          },
+          "sample_line": {
+            "poem_id": "poem_662871081d5d",
+            "title": "题石水涧",
+            "author": "陈抟",
+            "dynasty": "宋",
+            "line_text": "银河洒落翠光冷，一派回环湛晚晖"
+          }
+        },
+        {
+          "color": "绿",
+          "color_group": "绿系",
+          "hex": "#5E9F58",
+          "count": 200,
+          "per_thousand_poems": 99.65,
+          "share": 0.0636,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 200
+          },
+          "sample_line": {
+            "poem_id": "poem_3ca163fef020",
+            "title": "西峰",
+            "author": "陈抟",
+            "dynasty": "宋",
+            "line_text": "岩花红作阵，溪水绿成行"
+          }
+        },
+        {
+          "color": "白",
+          "color_group": "中性色",
+          "hex": "#F2EFE6",
+          "count": 184,
+          "per_thousand_poems": 91.68,
+          "share": 0.0585,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 184
+          },
+          "sample_line": {
+            "poem_id": "poem_63dcd7b395ff",
+            "title": "句其八",
+            "author": "卞震",
+            "dynasty": "宋",
+            "line_text": "双阙暂随丹诏入，三峰寻与白云归"
+          }
+        },
+        {
+          "color": "碧",
+          "color_group": "蓝青系",
+          "hex": "#3FA796",
+          "count": 142,
+          "per_thousand_poems": 70.75,
+          "share": 0.0451,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 142
+          },
+          "sample_line": {
+            "poem_id": "poem_0023870aa1d3",
+            "title": "查公山",
+            "author": "查元方",
+            "dynasty": "宋",
+            "line_text": "寒藤系舴艋，碧潭澄素舒"
+          }
+        },
+        {
+          "color": "朱",
+          "color_group": "红系",
+          "hex": "#B74434",
+          "count": 136,
+          "per_thousand_poems": 67.76,
+          "share": 0.0432,
+          "previous_comparison": {
+            "status": "上升",
+            "delta": 135
+          },
+          "sample_line": {
+            "poem_id": "poem_76ac8333ea40",
+            "title": "归隠",
+            "author": "陈抟",
+            "dynasty": "宋",
+            "line_text": "紫陌纵荣争及睡，朱门虽贵不如贫"
+          }
+        },
+        {
+          "color": "黄",
+          "color_group": "橙黄系",
+          "hex": "#D3A83C",
+          "count": 127,
+          "per_thousand_poems": 63.28,
+          "share": 0.0404,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 127
+          },
+          "sample_line": {
+            "poem_id": "poem_dd9fed01ebbc",
+            "title": "望江南・忆江南",
+            "author": "陈朴",
+            "dynasty": "宋",
+            "line_text": "中黄宝，须向胆中求"
+          }
+        }
+      ]
+    },
+    "元": {
+      "dynasty": "元",
+      "poem_count": 2,
+      "color_total": 0,
+      "top_colors": []
+    },
+    "明": {
+      "dynasty": "明",
+      "poem_count": 3,
+      "color_total": 6,
+      "top_colors": [
+        {
+          "color": "白",
+          "color_group": "中性色",
+          "hex": "#F2EFE6",
+          "count": 2,
+          "per_thousand_poems": 666.67,
+          "share": 0.3333,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 2
+          },
+          "sample_line": {
+            "poem_id": "poem_5f9c4dcab761",
+            "title": "临江仙",
+            "author": "杨慎",
+            "dynasty": "明",
+            "line_text": "白发渔樵江渚上，惯看秋月春风"
+          }
+        },
+        {
+          "color": "红",
+          "color_group": "红系",
+          "hex": "#C94C4C",
+          "count": 1,
+          "per_thousand_poems": 333.33,
+          "share": 0.1667,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 1
+          },
+          "sample_line": {
+            "poem_id": "poem_5f9c4dcab761",
+            "title": "临江仙",
+            "author": "杨慎",
+            "dynasty": "明",
+            "line_text": "青山依旧在，几度夕阳红"
+          }
+        },
+        {
+          "color": "黄",
+          "color_group": "橙黄系",
+          "hex": "#D3A83C",
+          "count": 1,
+          "per_thousand_poems": 333.33,
+          "share": 0.1667,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 1
+          },
+          "sample_line": {
+            "poem_id": "poem_a9c28694cec1",
+            "title": "咏柳",
+            "author": "高启",
+            "dynasty": "明",
+            "line_text": "乱条犹未变初黄，倚得东风势便狂"
+          }
+        },
+        {
+          "color": "灰",
+          "color_group": "中性色",
+          "hex": "#8E8D88",
+          "count": 1,
+          "per_thousand_poems": 333.33,
+          "share": 0.1667,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 1
+          },
+          "sample_line": {
+            "poem_id": "poem_97b61c320914",
+            "title": "石灰吟",
+            "author": "于谦",
+            "dynasty": "明",
+            "line_text": "石灰吟"
+          }
+        },
+        {
+          "color": "青",
+          "color_group": "蓝青系",
+          "hex": "#337C8C",
+          "count": 1,
+          "per_thousand_poems": 333.33,
+          "share": 0.1667,
+          "previous_comparison": {
+            "status": "新出现",
+            "delta": 1
+          },
+          "sample_line": {
+            "poem_id": "poem_5f9c4dcab761",
+            "title": "临江仙",
+            "author": "杨慎",
+            "dynasty": "明",
+            "line_text": "青山依旧在，几度夕阳红"
+          }
+        }
+      ]
+    },
+    "清": {
+      "dynasty": "清",
+      "poem_count": 3,
+      "color_total": 3,
+      "top_colors": [
+        {
+          "color": "白",
+          "color_group": "中性色",
+          "hex": "#F2EFE6",
+          "count": 1,
+          "per_thousand_poems": 333.33,
+          "share": 0.3333,
+          "previous_comparison": {
+            "status": "持平",
+            "delta": -1
+          },
+          "sample_line": {
+            "poem_id": "poem_91bf85c17450",
+            "title": "己亥杂诗",
+            "author": "龚自珍",
+            "dynasty": "清",
+            "line_text": "浩荡离愁白日斜，吟鞭东指即天涯"
+          }
+        },
+        {
+          "color": "红",
+          "color_group": "红系",
+          "hex": "#C94C4C",
+          "count": 1,
+          "per_thousand_poems": 333.33,
+          "share": 0.3333,
+          "previous_comparison": {
+            "status": "持平",
+            "delta": 0
+          },
+          "sample_line": {
+            "poem_id": "poem_91bf85c17450",
+            "title": "己亥杂诗",
+            "author": "龚自珍",
+            "dynasty": "清",
+            "line_text": "落红不是无情物，化作春泥更护花"
+          }
+        },
+        {
+          "color": "青",
+          "color_group": "蓝青系",
+          "hex": "#337C8C",
+          "count": 1,
+          "per_thousand_poems": 333.33,
+          "share": 0.3333,
+          "previous_comparison": {
+            "status": "持平",
+            "delta": 0
+          },
+          "sample_line": {
+            "poem_id": "poem_44f37baf226e",
+            "title": "竹石",
+            "author": "郑燮",
+            "dynasty": "清",
+            "line_text": "咬定青山不放松，立根原在破岩中"
+          }
+        }
+      ]
+    }
+  }
+}

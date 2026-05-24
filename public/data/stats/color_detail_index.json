@@ -1,0 +1,9071 @@
+{
+  "青": {
+    "color_word": "青",
+    "normalized_color": "青",
+    "color_group": "蓝青系",
+    "hex": "#337C8C",
+    "total_count": 448,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 224
+      },
+      {
+        "dynasty": "唐",
+        "count": 220
+      },
+      {
+        "dynasty": "汉",
+        "count": 2
+      },
+      {
+        "dynasty": "明",
+        "count": 1
+      },
+      {
+        "dynasty": "清",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "李白",
+        "dynasty": "唐",
+        "count": 45
+      },
+      {
+        "poet": "张先",
+        "dynasty": "宋",
+        "count": 37
+      },
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 36
+      },
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 33
+      },
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 17
+      },
+      {
+        "poet": "晏殊",
+        "dynasty": "宋",
+        "count": 16
+      },
+      {
+        "poet": "谭用之",
+        "dynasty": "宋",
+        "count": 11
+      },
+      {
+        "poet": "杜安世",
+        "dynasty": "宋",
+        "count": 9
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "云",
+        "category": "自然",
+        "count": 45
+      },
+      {
+        "imagery": "山",
+        "category": "自然",
+        "count": 41
+      },
+      {
+        "imagery": "春",
+        "category": "季节",
+        "count": 37
+      },
+      {
+        "imagery": "天",
+        "category": "自然",
+        "count": 37
+      },
+      {
+        "imagery": "楼",
+        "category": "空间",
+        "count": 34
+      },
+      {
+        "imagery": "草",
+        "category": "植物",
+        "count": 33
+      },
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 26
+      },
+      {
+        "imagery": "日",
+        "category": "自然",
+        "count": 25
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 22
+      },
+      {
+        "imagery": "月",
+        "category": "自然",
+        "count": 21
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "自然",
+        "count": 217
+      },
+      {
+        "emotion": "喜庆",
+        "count": 138
+      },
+      {
+        "emotion": "高洁",
+        "count": 92
+      },
+      {
+        "emotion": "相思",
+        "count": 68
+      },
+      {
+        "emotion": "清新",
+        "count": 65
+      },
+      {
+        "emotion": "离愁",
+        "count": 60
+      },
+      {
+        "emotion": "柔美",
+        "count": 60
+      },
+      {
+        "emotion": "壮美",
+        "count": 54
+      },
+      {
+        "emotion": "孤独",
+        "count": 39
+      },
+      {
+        "emotion": "思乡",
+        "count": 28
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_aa1ab1c4873e",
+        "title": "短歌行",
+        "author": "曹操",
+        "dynasty": "汉",
+        "line_text": "青青子衿，悠悠我心"
+      },
+      {
+        "poem_id": "poem_5f9c4dcab761",
+        "title": "临江仙",
+        "author": "杨慎",
+        "dynasty": "明",
+        "line_text": "青山依旧在，几度夕阳红"
+      },
+      {
+        "poem_id": "poem_44f37baf226e",
+        "title": "竹石",
+        "author": "郑燮",
+        "dynasty": "清",
+        "line_text": "咬定青山不放松，立根原在破岩中"
+      },
+      {
+        "poem_id": "poem_1c1dc49950f9",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "阳砂赤，阴粉色微青"
+      },
+      {
+        "poem_id": "poem_9937ab9d9f2a",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "青阙诏，玉简赐金环"
+      },
+      {
+        "poem_id": "poem_76ac8333ea40",
+        "title": "归隠",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "十年踪迹走红尘，回首青山入梦频"
+      },
+      {
+        "poem_id": "poem_58ab121323fc",
+        "title": "对御歌",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "三四君子只是争些闲气，争如臣向青山顶头"
+      },
+      {
+        "poem_id": "poem_594d9a02c1de",
+        "title": "句其一",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "蚕月桑叶青，鶑时柳花白"
+      },
+      {
+        "poem_id": "poem_79ce6f12540f",
+        "title": "踏莎行",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "青楼几处歌声丽"
+      },
+      {
+        "poem_id": "poem_9db2cc945c06",
+        "title": "踏莎行",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "绿苔遍地青春老"
+      },
+      {
+        "poem_id": "poem_2e845cd094da",
+        "title": "菩萨蛮",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "青梅细雨枝"
+      },
+      {
+        "poem_id": "poem_457a2146803b",
+        "title": "河满子",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "独倚青楼吟赏，目前无限轻盈"
+      }
+    ]
+  },
+  "乌": {
+    "color_word": "乌",
+    "normalized_color": "乌",
+    "color_group": "中性色",
+    "hex": "#303233",
+    "total_count": 92,
+    "dynasty_distribution": [
+      {
+        "dynasty": "唐",
+        "count": 68
+      },
+      {
+        "dynasty": "宋",
+        "count": 23
+      },
+      {
+        "dynasty": "汉",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "李白",
+        "dynasty": "唐",
+        "count": 10
+      },
+      {
+        "poet": "王建",
+        "dynasty": "唐",
+        "count": 8
+      },
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 6
+      },
+      {
+        "poet": "张籍",
+        "dynasty": "唐",
+        "count": 6
+      },
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 4
+      },
+      {
+        "poet": "太宗皇帝",
+        "dynasty": "唐",
+        "count": 4
+      },
+      {
+        "poet": "张先",
+        "dynasty": "宋",
+        "count": 4
+      },
+      {
+        "poet": "朱存",
+        "dynasty": "宋",
+        "count": 4
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "夜",
+        "category": "时间",
+        "count": 21
+      },
+      {
+        "imagery": "城",
+        "category": "空间",
+        "count": 5
+      },
+      {
+        "imagery": "山",
+        "category": "自然",
+        "count": 5
+      },
+      {
+        "imagery": "衣",
+        "category": "器物",
+        "count": 5
+      },
+      {
+        "imagery": "月",
+        "category": "自然",
+        "count": 5
+      },
+      {
+        "imagery": "云",
+        "category": "自然",
+        "count": 5
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 4
+      },
+      {
+        "imagery": "柳",
+        "category": "植物",
+        "count": 4
+      },
+      {
+        "imagery": "天",
+        "category": "自然",
+        "count": 4
+      },
+      {
+        "imagery": "宫",
+        "category": "空间",
+        "count": 3
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "自然",
+        "count": 29
+      },
+      {
+        "emotion": "喜庆",
+        "count": 12
+      },
+      {
+        "emotion": "孤独",
+        "count": 10
+      },
+      {
+        "emotion": "相思",
+        "count": 10
+      },
+      {
+        "emotion": "清新",
+        "count": 9
+      },
+      {
+        "emotion": "高洁",
+        "count": 8
+      },
+      {
+        "emotion": "思乡",
+        "count": 8
+      },
+      {
+        "emotion": "壮美",
+        "count": 8
+      },
+      {
+        "emotion": "悲凉",
+        "count": 6
+      },
+      {
+        "emotion": "离愁",
+        "count": 5
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_aa1ab1c4873e",
+        "title": "短歌行",
+        "author": "曹操",
+        "dynasty": "汉",
+        "line_text": "月明星稀，乌鹊南飞"
+      },
+      {
+        "poem_id": "poem_11c44f4f90ff",
+        "title": "玉楼春",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "乌龙未睡定惊猜，鹦鹉能言防漏泄"
+      },
+      {
+        "poem_id": "poem_0788557b93cf",
+        "title": "凤归云",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "又是晓鸡声断，阳乌光动，渐分山路迢迢"
+      },
+      {
+        "poem_id": "poem_65d77c31935f",
+        "title": "塞孤",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "瑶珂响、起栖乌，金镫冷、敲残月"
+      },
+      {
+        "poem_id": "poem_475dee4e15e8",
+        "title": "长寿乐",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "愿长绳、且把飞乌系"
+      },
+      {
+        "poem_id": "poem_a40c695128e9",
+        "title": "凤栖梧・蝶恋花",
+        "author": "卢氏",
+        "dynasty": "宋",
+        "line_text": "凤钗斜亸乌云腻"
+      },
+      {
+        "poem_id": "poem_e02aa1041798",
+        "title": "渔家傲",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "乌鹊桥边新雨霁"
+      },
+      {
+        "poem_id": "poem_71f4d42a2360",
+        "title": "圣无忧・乌夜啼",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "圣无忧・乌夜啼"
+      },
+      {
+        "poem_id": "poem_4c2874d47bb9",
+        "title": "蓦山溪",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "楼台上下，歌管咽春风，驾香轮，停宝马，只待金乌晚"
+      },
+      {
+        "poem_id": "poem_0635207833fb",
+        "title": "圣无忧・乌夜啼",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "圣无忧・乌夜啼"
+      },
+      {
+        "poem_id": "poem_79a2af136b05",
+        "title": "圣无忧・乌夜啼",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "圣无忧・乌夜啼"
+      },
+      {
+        "poem_id": "poem_45bb67041520",
+        "title": "南乡子",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "半亸乌云金凤钗"
+      }
+    ]
+  },
+  "皎": {
+    "color_word": "皎",
+    "normalized_color": "皎",
+    "color_group": "中性色",
+    "hex": "#EEF1EB",
+    "total_count": 28,
+    "dynasty_distribution": [
+      {
+        "dynasty": "唐",
+        "count": 19
+      },
+      {
+        "dynasty": "宋",
+        "count": 7
+      },
+      {
+        "dynasty": "汉",
+        "count": 2
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "太宗皇帝",
+        "dynasty": "唐",
+        "count": 4
+      },
+      {
+        "poet": "顾况",
+        "dynasty": "唐",
+        "count": 3
+      },
+      {
+        "poet": "鲍溶",
+        "dynasty": "唐",
+        "count": 2
+      },
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 2
+      },
+      {
+        "poet": "谭用之",
+        "dynasty": "宋",
+        "count": 2
+      },
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 2
+      },
+      {
+        "poet": "佚名",
+        "dynasty": "汉",
+        "count": 2
+      },
+      {
+        "poet": "张籍",
+        "dynasty": "唐",
+        "count": 2
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "月",
+        "category": "自然",
+        "count": 11
+      },
+      {
+        "imagery": "日",
+        "category": "自然",
+        "count": 4
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 3
+      },
+      {
+        "imagery": "江",
+        "category": "自然",
+        "count": 3
+      },
+      {
+        "imagery": "天",
+        "category": "自然",
+        "count": 3
+      },
+      {
+        "imagery": "星",
+        "category": "自然",
+        "count": 3
+      },
+      {
+        "imagery": "烟",
+        "category": "自然",
+        "count": 3
+      },
+      {
+        "imagery": "云",
+        "category": "自然",
+        "count": 3
+      },
+      {
+        "imagery": "春",
+        "category": "季节",
+        "count": 2
+      },
+      {
+        "imagery": "河",
+        "category": "自然",
+        "count": 2
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "自然",
+        "count": 17
+      },
+      {
+        "emotion": "相思",
+        "count": 12
+      },
+      {
+        "emotion": "高洁",
+        "count": 9
+      },
+      {
+        "emotion": "清新",
+        "count": 9
+      },
+      {
+        "emotion": "离愁",
+        "count": 8
+      },
+      {
+        "emotion": "喜庆",
+        "count": 6
+      },
+      {
+        "emotion": "悲凉",
+        "count": 5
+      },
+      {
+        "emotion": "禅意",
+        "count": 4
+      },
+      {
+        "emotion": "孤独",
+        "count": 3
+      },
+      {
+        "emotion": "壮美",
+        "count": 3
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_cd321d37bc6b",
+        "title": "迢迢牵牛星",
+        "author": "佚名",
+        "dynasty": "汉",
+        "line_text": "迢迢牵牛星，皎皎河汉女"
+      },
+      {
+        "poem_id": "poem_b5dd18b1d5fb",
+        "title": "长相思",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "画鼓喧街，兰灯满市，皎月初照严城"
+      },
+      {
+        "poem_id": "poem_5c7fab6209f4",
+        "title": "彩云归",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "当暮天、霁色如晴昼，江练静、皎月飞光"
+      },
+      {
+        "poem_id": "poem_6748fdb8578a",
+        "title": "秋日圃田送人随计",
+        "author": "谭用之",
+        "dynasty": "宋",
+        "line_text": "向日迥飞驹皎皎，临风谁和鹿呦呦"
+      },
+      {
+        "poem_id": "poem_922354f87f49",
+        "title": "送长社胡明府",
+        "author": "徐铉",
+        "dynasty": "宋",
+        "line_text": "皎皎凉秋月，飘飘清路尘"
+      },
+      {
+        "poem_id": "poem_c695b5d8bb95",
+        "title": "定风波",
+        "author": "张先",
+        "dynasty": "宋",
+        "line_text": "皎洁"
+      },
+      {
+        "poem_id": "poem_cd9c454df18a",
+        "title": "相和歌辞怨诗",
+        "author": "鲍溶",
+        "dynasty": "唐",
+        "line_text": "皎日不留景，良时如逝川"
+      },
+      {
+        "poem_id": "poem_2e7d45b20594",
+        "title": "杂曲歌辞夜寒吟",
+        "author": "鲍溶",
+        "dynasty": "唐",
+        "line_text": "罗幕画堂深皎洁，兰烟对酒客几人"
+      },
+      {
+        "poem_id": "poem_2f679ca97631",
+        "title": "丰年多庆九日示怀",
+        "author": "德宗皇帝",
+        "dynasty": "唐",
+        "line_text": "皎洁暮潭色，芬敷新菊丛"
+      },
+      {
+        "poem_id": "poem_34c07c19ee04",
+        "title": "相和歌辞短歌行六首一",
+        "author": "顾况",
+        "dynasty": "唐",
+        "line_text": "明月皎皎入华池，白云离离度清汉"
+      },
+      {
+        "poem_id": "poem_b4f9fc1893f2",
+        "title": "相和歌辞短歌行六首三",
+        "author": "顾况",
+        "dynasty": "唐",
+        "line_text": "我心皎洁君不知，辘轳一转一惆怅"
+      },
+      {
+        "poem_id": "poem_ffe9094293a6",
+        "title": "相和歌辞长信怨",
+        "author": "李白",
+        "dynasty": "唐",
+        "line_text": "月皎昭阳殿，霜清长信宫"
+      }
+    ]
+  },
+  "素": {
+    "color_word": "素",
+    "normalized_color": "素",
+    "color_group": "中性色",
+    "hex": "#E9E2D3",
+    "total_count": 128,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 75
+      },
+      {
+        "dynasty": "唐",
+        "count": 52
+      },
+      {
+        "dynasty": "汉",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 22
+      },
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 15
+      },
+      {
+        "poet": "李白",
+        "dynasty": "唐",
+        "count": 13
+      },
+      {
+        "poet": "张先",
+        "dynasty": "宋",
+        "count": 8
+      },
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 7
+      },
+      {
+        "poet": "太宗皇帝",
+        "dynasty": "唐",
+        "count": 7
+      },
+      {
+        "poet": "李贺",
+        "dynasty": "唐",
+        "count": 5
+      },
+      {
+        "poet": "范质",
+        "dynasty": "宋",
+        "count": 3
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "云",
+        "category": "自然",
+        "count": 11
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 10
+      },
+      {
+        "imagery": "月",
+        "category": "自然",
+        "count": 9
+      },
+      {
+        "imagery": "天",
+        "category": "自然",
+        "count": 8
+      },
+      {
+        "imagery": "烟",
+        "category": "自然",
+        "count": 8
+      },
+      {
+        "imagery": "秋",
+        "category": "季节",
+        "count": 7
+      },
+      {
+        "imagery": "寒",
+        "category": "季节",
+        "count": 6
+      },
+      {
+        "imagery": "江",
+        "category": "自然",
+        "count": 6
+      },
+      {
+        "imagery": "日",
+        "category": "自然",
+        "count": 6
+      },
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 5
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "高洁",
+        "count": 126
+      },
+      {
+        "emotion": "自然",
+        "count": 46
+      },
+      {
+        "emotion": "喜庆",
+        "count": 37
+      },
+      {
+        "emotion": "清新",
+        "count": 25
+      },
+      {
+        "emotion": "柔美",
+        "count": 19
+      },
+      {
+        "emotion": "离愁",
+        "count": 16
+      },
+      {
+        "emotion": "悲凉",
+        "count": 15
+      },
+      {
+        "emotion": "相思",
+        "count": 14
+      },
+      {
+        "emotion": "孤独",
+        "count": 13
+      },
+      {
+        "emotion": "忧郁",
+        "count": 10
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_cd321d37bc6b",
+        "title": "迢迢牵牛星",
+        "author": "佚名",
+        "dynasty": "汉",
+        "line_text": "纤纤擢素手，札札弄机杼"
+      },
+      {
+        "poem_id": "poem_a6db9990eac1",
+        "title": "好事近",
+        "author": "蔡襄",
+        "dynasty": "宋",
+        "line_text": "常对素光遥望，是江梅时节"
+      },
+      {
+        "poem_id": "poem_0023870aa1d3",
+        "title": "查公山",
+        "author": "查元方",
+        "dynasty": "宋",
+        "line_text": "寒藤系舴艋，碧潭澄素舒"
+      },
+      {
+        "poem_id": "poem_63bf708bd807",
+        "title": "端正好",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "透素光、穿朱户"
+      },
+      {
+        "poem_id": "poem_5001ef9c37be",
+        "title": "诫儿姪八百字",
+        "author": "范质",
+        "dynasty": "宋",
+        "line_text": "吾家本寒素，门地寡公侯"
+      },
+      {
+        "poem_id": "poem_5001ef9c37be",
+        "title": "诫儿姪八百字",
+        "author": "范质",
+        "dynasty": "宋",
+        "line_text": "天子未遐弃，日益素餐忧"
+      },
+      {
+        "poem_id": "poem_5001ef9c37be",
+        "title": "诫儿姪八百字",
+        "author": "范质",
+        "dynasty": "宋",
+        "line_text": "举世贱清素，奉身好华侈"
+      },
+      {
+        "poem_id": "poem_1247b326b2f8",
+        "title": "望江南・忆江南",
+        "author": "韩琦",
+        "dynasty": "宋",
+        "line_text": "千点真珠擎素蕊，一环名玉破香葩"
+      },
+      {
+        "poem_id": "poem_908e8db7ea64",
+        "title": "桐庐员外出勋德之门以儒素为业泊来仪于京阙久飞誉于缙绅今则膺凤诏于朝端奏牛刀于江表会承旨尚书赋琼章于丹地饯兰櫂于清流愚虽不才敢继其作",
+        "author": "扈蒙",
+        "dynasty": "宋",
+        "line_text": "桐庐员外出勋德之门以儒素为业泊来仪于京阙久飞誉于缙绅今则膺凤诏于朝端奏牛刀于江表会承旨尚书赋琼章于丹地饯兰櫂于清流愚虽不才敢继其作"
+      },
+      {
+        "poem_id": "poem_3d80dbfaae4b",
+        "title": "阳台梦",
+        "author": "解",
+        "dynasty": "宋",
+        "line_text": "诬诞人心素"
+      },
+      {
+        "poem_id": "poem_96607fc21fff",
+        "title": "花发状元红慢",
+        "author": "刘几",
+        "dynasty": "宋",
+        "line_text": "上苑晴昼暄，千素万红尤奇特"
+      },
+      {
+        "poem_id": "poem_96607fc21fff",
+        "title": "花发状元红慢",
+        "author": "刘几",
+        "dynasty": "宋",
+        "line_text": "与紫鸳鸯、素蛱蝶"
+      }
+    ]
+  },
+  "黄": {
+    "color_word": "黄",
+    "normalized_color": "黄",
+    "color_group": "橙黄系",
+    "hex": "#D3A83C",
+    "total_count": 377,
+    "dynasty_distribution": [
+      {
+        "dynasty": "唐",
+        "count": 249
+      },
+      {
+        "dynasty": "宋",
+        "count": 127
+      },
+      {
+        "dynasty": "明",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "李白",
+        "dynasty": "唐",
+        "count": 40
+      },
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 20
+      },
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 19
+      },
+      {
+        "poet": "张先",
+        "dynasty": "宋",
+        "count": 17
+      },
+      {
+        "poet": "不详",
+        "dynasty": "唐",
+        "count": 16
+      },
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 16
+      },
+      {
+        "poet": "晏殊",
+        "dynasty": "宋",
+        "count": 14
+      },
+      {
+        "poet": "杜安世",
+        "dynasty": "宋",
+        "count": 11
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "河",
+        "category": "自然",
+        "count": 28
+      },
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 27
+      },
+      {
+        "imagery": "云",
+        "category": "自然",
+        "count": 26
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 20
+      },
+      {
+        "imagery": "天",
+        "category": "自然",
+        "count": 20
+      },
+      {
+        "imagery": "水",
+        "category": "自然",
+        "count": 19
+      },
+      {
+        "imagery": "马",
+        "category": "动物",
+        "count": 18
+      },
+      {
+        "imagery": "君",
+        "category": "人物",
+        "count": 17
+      },
+      {
+        "imagery": "秋",
+        "category": "季节",
+        "count": 15
+      },
+      {
+        "imagery": "月",
+        "category": "自然",
+        "count": 15
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "自然",
+        "count": 139
+      },
+      {
+        "emotion": "喜庆",
+        "count": 100
+      },
+      {
+        "emotion": "高洁",
+        "count": 72
+      },
+      {
+        "emotion": "悲凉",
+        "count": 63
+      },
+      {
+        "emotion": "清新",
+        "count": 51
+      },
+      {
+        "emotion": "相思",
+        "count": 47
+      },
+      {
+        "emotion": "壮美",
+        "count": 47
+      },
+      {
+        "emotion": "离愁",
+        "count": 40
+      },
+      {
+        "emotion": "柔美",
+        "count": 31
+      },
+      {
+        "emotion": "孤独",
+        "count": 30
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_a9c28694cec1",
+        "title": "咏柳",
+        "author": "高启",
+        "dynasty": "明",
+        "line_text": "乱条犹未变初黄，倚得东风势便狂"
+      },
+      {
+        "poem_id": "poem_dd9fed01ebbc",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "中黄宝，须向胆中求"
+      },
+      {
+        "poem_id": "poem_5f20262f7d33",
+        "title": "惜春令",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "小庭杨柳黄金翠，桃脸两三枝"
+      },
+      {
+        "poem_id": "poem_688bbc0eca1e",
+        "title": "少年游",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "小楼归燕又黄昏"
+      },
+      {
+        "poem_id": "poem_cea31573e227",
+        "title": "行香子",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "黄金叶细，碧玉枝纤"
+      },
+      {
+        "poem_id": "poem_1fac14567d29",
+        "title": "渔家傲",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "巢栖燕子欲黄昏"
+      },
+      {
+        "poem_id": "poem_2bb86e099b32",
+        "title": "临江仙",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "太史占天云物好，初阳律合黄锺"
+      },
+      {
+        "poem_id": "poem_0423af9db697",
+        "title": "朝玉阶・朝天子",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "黄金才钺掩银屏"
+      },
+      {
+        "poem_id": "poem_9bd91fc234c9",
+        "title": "瑞鹧鸪",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "独立黄昏绣帘外，可堪新月露圆光"
+      },
+      {
+        "poem_id": "poem_a81638e05d77",
+        "title": "鹊桥仙",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "阴阴亭榭，暖烟轻柳，万缕黄金窣地"
+      },
+      {
+        "poem_id": "poem_0a5e0bcc6829",
+        "title": "凤栖梧・蝶恋花",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "深院黄昏人独自"
+      },
+      {
+        "poem_id": "poem_8842f6953837",
+        "title": "凤栖梧・蝶恋花",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "窗外芭蕉，数点黄昏雨"
+      }
+    ]
+  },
+  "红": {
+    "color_word": "红",
+    "normalized_color": "红",
+    "color_group": "红系",
+    "hex": "#C94C4C",
+    "total_count": 596,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 433
+      },
+      {
+        "dynasty": "唐",
+        "count": 160
+      },
+      {
+        "dynasty": "明",
+        "count": 1
+      },
+      {
+        "dynasty": "清",
+        "count": 1
+      },
+      {
+        "dynasty": "五代",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 112
+      },
+      {
+        "poet": "晏殊",
+        "dynasty": "宋",
+        "count": 68
+      },
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 66
+      },
+      {
+        "poet": "张先",
+        "dynasty": "宋",
+        "count": 51
+      },
+      {
+        "poet": "杜安世",
+        "dynasty": "宋",
+        "count": 24
+      },
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 21
+      },
+      {
+        "poet": "李贺",
+        "dynasty": "唐",
+        "count": 16
+      },
+      {
+        "poet": "太宗皇帝",
+        "dynasty": "唐",
+        "count": 14
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 83
+      },
+      {
+        "imagery": "日",
+        "category": "自然",
+        "count": 56
+      },
+      {
+        "imagery": "春",
+        "category": "季节",
+        "count": 39
+      },
+      {
+        "imagery": "烟",
+        "category": "自然",
+        "count": 28
+      },
+      {
+        "imagery": "酒",
+        "category": "器物",
+        "count": 22
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 21
+      },
+      {
+        "imagery": "桃",
+        "category": "植物",
+        "count": 21
+      },
+      {
+        "imagery": "霞",
+        "category": "自然",
+        "count": 21
+      },
+      {
+        "imagery": "秋",
+        "category": "季节",
+        "count": 20
+      },
+      {
+        "imagery": "水",
+        "category": "自然",
+        "count": 20
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "柔美",
+        "count": 579
+      },
+      {
+        "emotion": "喜庆",
+        "count": 244
+      },
+      {
+        "emotion": "自然",
+        "count": 238
+      },
+      {
+        "emotion": "清新",
+        "count": 191
+      },
+      {
+        "emotion": "高洁",
+        "count": 70
+      },
+      {
+        "emotion": "悲凉",
+        "count": 49
+      },
+      {
+        "emotion": "离愁",
+        "count": 45
+      },
+      {
+        "emotion": "相思",
+        "count": 40
+      },
+      {
+        "emotion": "忧郁",
+        "count": 40
+      },
+      {
+        "emotion": "孤独",
+        "count": 36
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_5f9c4dcab761",
+        "title": "临江仙",
+        "author": "杨慎",
+        "dynasty": "明",
+        "line_text": "青山依旧在，几度夕阳红"
+      },
+      {
+        "poem_id": "poem_91bf85c17450",
+        "title": "己亥杂诗",
+        "author": "龚自珍",
+        "dynasty": "清",
+        "line_text": "落红不是无情物，化作春泥更护花"
+      },
+      {
+        "poem_id": "poem_88faecf4d996",
+        "title": "一络索・一落萦",
+        "author": "陈凤仪",
+        "dynasty": "宋",
+        "line_text": "海棠也似别君难，一点点、啼红雨"
+      },
+      {
+        "poem_id": "poem_cde4ef69cd0c",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "胎色渐红阴渐小，推移岁运助干刚"
+      },
+      {
+        "poem_id": "poem_76ac8333ea40",
+        "title": "归隠",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "十年踪迹走红尘，回首青山入梦频"
+      },
+      {
+        "poem_id": "poem_3ca163fef020",
+        "title": "西峰",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "岩花红作阵，溪水绿成行"
+      },
+      {
+        "poem_id": "poem_58ab121323fc",
+        "title": "对御歌",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "管什玉兔东升，红轮西坠"
+      },
+      {
+        "poem_id": "poem_f2f76d34ba97",
+        "title": "踏莎行",
+        "author": "陈尧佐",
+        "dynasty": "宋",
+        "line_text": "乱入红楼，低飞绿岸"
+      },
+      {
+        "poem_id": "poem_c7d904aa69a2",
+        "title": "鹤冲天",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "石榴美艳，一撮红绡比"
+      },
+      {
+        "poem_id": "poem_1db0f8f2266d",
+        "title": "踏莎行",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "红笺写尽寄无因，想伊不信人成病"
+      },
+      {
+        "poem_id": "poem_9db2cc945c06",
+        "title": "踏莎行",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "画楼日晚燕归巢，红稀翠盛梅初小"
+      },
+      {
+        "poem_id": "poem_d11806f53d00",
+        "title": "丑奴儿・采桑子",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "樱桃谢了梨花发，红白相催"
+      }
+    ]
+  },
+  "白": {
+    "color_word": "白",
+    "normalized_color": "白",
+    "color_group": "中性色",
+    "hex": "#F2EFE6",
+    "total_count": 548,
+    "dynasty_distribution": [
+      {
+        "dynasty": "唐",
+        "count": 358
+      },
+      {
+        "dynasty": "宋",
+        "count": 184
+      },
+      {
+        "dynasty": "先秦",
+        "count": 3
+      },
+      {
+        "dynasty": "明",
+        "count": 2
+      },
+      {
+        "dynasty": "清",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "李白",
+        "dynasty": "唐",
+        "count": 87
+      },
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 54
+      },
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 16
+      },
+      {
+        "poet": "张籍",
+        "dynasty": "唐",
+        "count": 16
+      },
+      {
+        "poet": "谭用之",
+        "dynasty": "宋",
+        "count": 14
+      },
+      {
+        "poet": "释延寿",
+        "dynasty": "宋",
+        "count": 13
+      },
+      {
+        "poet": "王建",
+        "dynasty": "唐",
+        "count": 11
+      },
+      {
+        "poet": "张先",
+        "dynasty": "宋",
+        "count": 11
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "日",
+        "category": "自然",
+        "count": 63
+      },
+      {
+        "imagery": "云",
+        "category": "自然",
+        "count": 60
+      },
+      {
+        "imagery": "马",
+        "category": "动物",
+        "count": 41
+      },
+      {
+        "imagery": "天",
+        "category": "自然",
+        "count": 39
+      },
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 37
+      },
+      {
+        "imagery": "山",
+        "category": "自然",
+        "count": 31
+      },
+      {
+        "imagery": "水",
+        "category": "自然",
+        "count": 31
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 29
+      },
+      {
+        "imagery": "年",
+        "category": "时间",
+        "count": 26
+      },
+      {
+        "imagery": "雪",
+        "category": "自然",
+        "count": 23
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "高洁",
+        "count": 504
+      },
+      {
+        "emotion": "自然",
+        "count": 215
+      },
+      {
+        "emotion": "喜庆",
+        "count": 115
+      },
+      {
+        "emotion": "悲凉",
+        "count": 76
+      },
+      {
+        "emotion": "相思",
+        "count": 75
+      },
+      {
+        "emotion": "壮美",
+        "count": 67
+      },
+      {
+        "emotion": "清新",
+        "count": 64
+      },
+      {
+        "emotion": "离愁",
+        "count": 54
+      },
+      {
+        "emotion": "孤独",
+        "count": 49
+      },
+      {
+        "emotion": "柔美",
+        "count": 46
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_5f9c4dcab761",
+        "title": "临江仙",
+        "author": "杨慎",
+        "dynasty": "明",
+        "line_text": "白发渔樵江渚上，惯看秋月春风"
+      },
+      {
+        "poem_id": "poem_97b61c320914",
+        "title": "石灰吟",
+        "author": "于谦",
+        "dynasty": "明",
+        "line_text": "粉骨碎身浑不怕，要留清白在人间"
+      },
+      {
+        "poem_id": "poem_91bf85c17450",
+        "title": "己亥杂诗",
+        "author": "龚自珍",
+        "dynasty": "清",
+        "line_text": "浩荡离愁白日斜，吟鞭东指即天涯"
+      },
+      {
+        "poem_id": "poem_63dcd7b395ff",
+        "title": "句其八",
+        "author": "卞震",
+        "dynasty": "宋",
+        "line_text": "双阙暂随丹诏入，三峰寻与白云归"
+      },
+      {
+        "poem_id": "poem_3bf6119c7e58",
+        "title": "句其九",
+        "author": "卞震",
+        "dynasty": "宋",
+        "line_text": "芳草又牵为客恨，白云空寄未闲心"
+      },
+      {
+        "poem_id": "poem_8ca38b73a03c",
+        "title": "贫女",
+        "author": "曹衍",
+        "dynasty": "宋",
+        "line_text": "满头白发为新妇，笑杀豪家年少儿"
+      },
+      {
+        "poem_id": "poem_58ab121323fc",
+        "title": "对御歌",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "白云堆里，展开眉头"
+      },
+      {
+        "poem_id": "poem_ba1573141a5a",
+        "title": "诗一首",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "台殿不将金锁闭，来时自有白云封"
+      },
+      {
+        "poem_id": "poem_594d9a02c1de",
+        "title": "句其一",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "蚕月桑叶青，鶑时柳花白"
+      },
+      {
+        "poem_id": "poem_1e37d2809abc",
+        "title": "句其二",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "万顷白云独自有，一枝仙桂阿谁无"
+      },
+      {
+        "poem_id": "poem_4400af7f158e",
+        "title": "生查子",
+        "author": "陈亚",
+        "dynasty": "宋",
+        "line_text": "相思意已深，白纸书难足"
+      },
+      {
+        "poem_id": "poem_d11806f53d00",
+        "title": "丑奴儿・采桑子",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "樱桃谢了梨花发，红白相催"
+      }
+    ]
+  },
+  "灰": {
+    "color_word": "灰",
+    "normalized_color": "灰",
+    "color_group": "中性色",
+    "hex": "#8E8D88",
+    "total_count": 33,
+    "dynasty_distribution": [
+      {
+        "dynasty": "唐",
+        "count": 23
+      },
+      {
+        "dynasty": "宋",
+        "count": 9
+      },
+      {
+        "dynasty": "明",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "李白",
+        "dynasty": "唐",
+        "count": 4
+      },
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 3
+      },
+      {
+        "poet": "释延寿",
+        "dynasty": "宋",
+        "count": 3
+      },
+      {
+        "poet": "太宗皇帝",
+        "dynasty": "唐",
+        "count": 3
+      },
+      {
+        "poet": "崔颢",
+        "dynasty": "唐",
+        "count": 2
+      },
+      {
+        "poet": "程氏长文",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "顾况",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "胡曾",
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "寒",
+        "category": "季节",
+        "count": 5
+      },
+      {
+        "imagery": "春",
+        "category": "季节",
+        "count": 3
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 3
+      },
+      {
+        "imagery": "秋",
+        "category": "季节",
+        "count": 2
+      },
+      {
+        "imagery": "日",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "山",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "水",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "冬",
+        "category": "季节",
+        "count": 1
+      },
+      {
+        "imagery": "宫",
+        "category": "空间",
+        "count": 1
+      },
+      {
+        "imagery": "古",
+        "category": "时间",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "自然",
+        "count": 12
+      },
+      {
+        "emotion": "悲凉",
+        "count": 8
+      },
+      {
+        "emotion": "孤独",
+        "count": 6
+      },
+      {
+        "emotion": "喜庆",
+        "count": 6
+      },
+      {
+        "emotion": "柔美",
+        "count": 4
+      },
+      {
+        "emotion": "怀古",
+        "count": 3
+      },
+      {
+        "emotion": "离愁",
+        "count": 3
+      },
+      {
+        "emotion": "相思",
+        "count": 3
+      },
+      {
+        "emotion": "高洁",
+        "count": 2
+      },
+      {
+        "emotion": "思乡",
+        "count": 2
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_97b61c320914",
+        "title": "石灰吟",
+        "author": "于谦",
+        "dynasty": "明",
+        "line_text": "石灰吟"
+      },
+      {
+        "poem_id": "poem_8445dc7b4ea2",
+        "title": "渔家傲",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "炉灰剔尽痕无数"
+      },
+      {
+        "poem_id": "poem_72c06a9990ba",
+        "title": "桃源忆故人",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "小炉独守寒灰尽"
+      },
+      {
+        "poem_id": "poem_a1be1718542c",
+        "title": "少年游",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "玉壶冰莹兽炉灰"
+      },
+      {
+        "poem_id": "poem_8006edf76c18",
+        "title": "扫市舞",
+        "author": "潘阆",
+        "dynasty": "宋",
+        "line_text": "赢得拨灰兼弄火"
+      },
+      {
+        "poem_id": "poem_5452e6ddcffc",
+        "title": "山居诗其四",
+        "author": "释延寿",
+        "dynasty": "宋",
+        "line_text": "石炉香尽寒灰薄，铁磬声微古锈浓"
+      },
+      {
+        "poem_id": "poem_49d7cd24800f",
+        "title": "山居诗其五",
+        "author": "释延寿",
+        "dynasty": "宋",
+        "line_text": "心地须教合死灰，藏机泯迹绝梯媒"
+      },
+      {
+        "poem_id": "poem_1ca5d57f8ad4",
+        "title": "山居诗其五八",
+        "author": "释延寿",
+        "dynasty": "宋",
+        "line_text": "析法尚嫌灰断果，烧丹堪愍地行仙"
+      },
+      {
+        "poem_id": "poem_446e21218c32",
+        "title": "偈",
+        "author": "释志端",
+        "dynasty": "宋",
+        "line_text": "烧灰散长江，勿占檀那地"
+      },
+      {
+        "poem_id": "poem_d56188d7b0ab",
+        "title": "和钱秘监旅居秋怀二首其一",
+        "author": "徐铉",
+        "dynasty": "宋",
+        "line_text": "凉风入书幌，时动水沉灰"
+      },
+      {
+        "poem_id": "poem_e9ff2d751b72",
+        "title": "相和歌辞雀台怨",
+        "author": "程氏长文",
+        "dynasty": "唐",
+        "line_text": "当时歌舞人不回，化为今日西陵灰"
+      },
+      {
+        "poem_id": "poem_6f6bb42a0897",
+        "title": "横吹曲辞长安道",
+        "author": "崔颢",
+        "dynasty": "唐",
+        "line_text": "莫言炙手手可热，须臾火尽灰亦灭"
+      }
+    ]
+  },
+  "苍": {
+    "color_word": "苍",
+    "normalized_color": "苍",
+    "color_group": "蓝青系",
+    "hex": "#6B8A83",
+    "total_count": 112,
+    "dynasty_distribution": [
+      {
+        "dynasty": "唐",
+        "count": 86
+      },
+      {
+        "dynasty": "宋",
+        "count": 24
+      },
+      {
+        "dynasty": "先秦",
+        "count": 2
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "李白",
+        "dynasty": "唐",
+        "count": 12
+      },
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 10
+      },
+      {
+        "poet": "不详",
+        "dynasty": "唐",
+        "count": 6
+      },
+      {
+        "poet": "魏征",
+        "dynasty": "唐",
+        "count": 4
+      },
+      {
+        "poet": "白居易",
+        "dynasty": "唐",
+        "count": 3
+      },
+      {
+        "poet": "刘商",
+        "dynasty": "唐",
+        "count": 3
+      },
+      {
+        "poet": "卢照邻",
+        "dynasty": "唐",
+        "count": 3
+      },
+      {
+        "poet": "骆宾王",
+        "dynasty": "唐",
+        "count": 3
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "云",
+        "category": "自然",
+        "count": 13
+      },
+      {
+        "imagery": "月",
+        "category": "自然",
+        "count": 8
+      },
+      {
+        "imagery": "日",
+        "category": "自然",
+        "count": 7
+      },
+      {
+        "imagery": "山",
+        "category": "自然",
+        "count": 7
+      },
+      {
+        "imagery": "天",
+        "category": "自然",
+        "count": 7
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 6
+      },
+      {
+        "imagery": "露",
+        "category": "自然",
+        "count": 6
+      },
+      {
+        "imagery": "年",
+        "category": "时间",
+        "count": 6
+      },
+      {
+        "imagery": "水",
+        "category": "自然",
+        "count": 6
+      },
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 5
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "自然",
+        "count": 51
+      },
+      {
+        "emotion": "喜庆",
+        "count": 30
+      },
+      {
+        "emotion": "相思",
+        "count": 17
+      },
+      {
+        "emotion": "离愁",
+        "count": 15
+      },
+      {
+        "emotion": "高洁",
+        "count": 14
+      },
+      {
+        "emotion": "清新",
+        "count": 14
+      },
+      {
+        "emotion": "壮美",
+        "count": 14
+      },
+      {
+        "emotion": "孤独",
+        "count": 11
+      },
+      {
+        "emotion": "禅意",
+        "count": 6
+      },
+      {
+        "emotion": "思乡",
+        "count": 6
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_46057bcb8070",
+        "title": "句其五",
+        "author": "卞震",
+        "dynasty": "宋",
+        "line_text": "积雨生残稻，苍苔入旧笼"
+      },
+      {
+        "poem_id": "poem_f8c6e18d6825",
+        "title": "六州",
+        "author": "和岘",
+        "dynasty": "宋",
+        "line_text": "荐苍璧，郊祀神祗"
+      },
+      {
+        "poem_id": "poem_0e9cfe898b74",
+        "title": "十二时・忆少年",
+        "author": "和岘",
+        "dynasty": "宋",
+        "line_text": "动苍冥"
+      },
+      {
+        "poem_id": "poem_611d7f2c6f4e",
+        "title": "伏蒙侍郎见示蓬阁多余暇诗十首调高情逸无以咏歌篇篇实为绝伦一一尤难次韵强率鄙思别奉五章却以秘阁清虚地为首句所谓效西子之颦也惟工拙之不同岂天壤之相接莞尔而笑其敢逃乎其四",
+        "author": "李昉",
+        "dynasty": "宋",
+        "line_text": "苍生待康济，未用忆云林"
+      },
+      {
+        "poem_id": "poem_43bd482b5c0b",
+        "title": "齿疾未平灸疮正作新诗又至奇韵难当暗忍呻吟强思酬和别披小简盖念短才更竭病怀甘输降款其一",
+        "author": "李昉",
+        "dynasty": "宋",
+        "line_text": "苍翠一丛湘岸色，问僧求得不嫌多"
+      },
+      {
+        "poem_id": "poem_6b69ce3c6d36",
+        "title": "题处士林亭",
+        "author": "李涛",
+        "dynasty": "宋",
+        "line_text": "帝里高人宅，苍苔遶径深"
+      },
+      {
+        "poem_id": "poem_21ccb6dbb9a8",
+        "title": "西江月",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "幸自苍皇未款，新词写处多磨"
+      },
+      {
+        "poem_id": "poem_96446069f75a",
+        "title": "霜叶飞",
+        "author": "沈唐",
+        "dynasty": "宋",
+        "line_text": "又观珠露，碎点苍苔，败梧飘砌"
+      },
+      {
+        "poem_id": "poem_3f020ce42d7b",
+        "title": "偶因团聚思想仙岩诣就观瞻龛龛礼谒推砂扫窟之次忽睹南大像北边一所古窟摧残岁久毁坏年深去戊申岁末发其心愿至己酉岁中方乃修全以咨推砂扫窟崇饰功德所申意者先奉为龙天〔八〕部拥护河湟梵释四王安人静塞伏愿当今帝主永坐蓬莱十道争钦八方慕化次为我府主令公长隆宝位命寿延年为绝塞之人王作苍生之父母荣同舜日化布尧时继叶临人承桃秉世观音院主道真等十人悟四大而无实睹丘井以悬腾虑□地以火风恐强象而煎逼道真等唯见牛车火宅空然劝时侣发无上之善心誓坚修于胜果今因作罢略述数行拙解舖舒用留于壁余才亏翰墨学寡三坟不但荒芜辄成短句",
+        "author": "释道真",
+        "dynasty": "宋",
+        "line_text": "偶因团聚思想仙岩诣就观瞻龛龛礼谒推砂扫窟之次忽睹南大像北边一所古窟摧残岁久毁坏年深去戊申岁末发其心愿至己酉岁中方乃修全以咨推砂扫窟崇饰功德所申意者先奉为龙天〔八〕部拥护河湟梵释四王安人静塞伏愿当今帝主永坐蓬莱十道争钦八方慕化次为我府主令公长隆宝位命寿延年为绝塞之人王作苍生之父母荣同舜日化布尧时继叶临人承桃秉世观音院主道真等十人悟四大而无实睹丘井以悬腾虑□地以火风恐强象而煎逼道真等唯见牛车火宅空然劝时侣发无上之善心誓坚修于胜果今因作罢略述数行拙解舖舒用留于壁余才亏翰墨学寡三坟不但荒芜辄成短句"
+      },
+      {
+        "poem_id": "poem_5452e6ddcffc",
+        "title": "山居诗其四",
+        "author": "释延寿",
+        "dynasty": "宋",
+        "line_text": "寂寂虚怀无一念，任从苍藓没行踪"
+      },
+      {
+        "poem_id": "poem_04a50139c059",
+        "title": "山居诗其三四",
+        "author": "释延寿",
+        "dynasty": "宋",
+        "line_text": "冷烟寒月真吾侣，瘦竹苍松是我曹"
+      },
+      {
+        "poem_id": "poem_8f817259a9a3",
+        "title": "诗三首其一",
+        "author": "释遇贤",
+        "dynasty": "宋",
+        "line_text": "门前绿树无啼鸟，庭下苍苔有落花"
+      }
+    ]
+  },
+  "丹": {
+    "color_word": "丹",
+    "normalized_color": "丹",
+    "color_group": "红系",
+    "hex": "#BE4E3C",
+    "total_count": 151,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 84
+      },
+      {
+        "dynasty": "唐",
+        "count": 67
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 17
+      },
+      {
+        "poet": "不详",
+        "dynasty": "唐",
+        "count": 12
+      },
+      {
+        "poet": "李白",
+        "dynasty": "唐",
+        "count": 8
+      },
+      {
+        "poet": "太宗皇帝",
+        "dynasty": "唐",
+        "count": 8
+      },
+      {
+        "poet": "杜安世",
+        "dynasty": "宋",
+        "count": 7
+      },
+      {
+        "poet": "李昉",
+        "dynasty": "宋",
+        "count": 7
+      },
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 7
+      },
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 7
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "霞",
+        "category": "自然",
+        "count": 11
+      },
+      {
+        "imagery": "山",
+        "category": "自然",
+        "count": 9
+      },
+      {
+        "imagery": "宫",
+        "category": "空间",
+        "count": 8
+      },
+      {
+        "imagery": "水",
+        "category": "自然",
+        "count": 6
+      },
+      {
+        "imagery": "烟",
+        "category": "自然",
+        "count": 6
+      },
+      {
+        "imagery": "云",
+        "category": "自然",
+        "count": 6
+      },
+      {
+        "imagery": "城",
+        "category": "空间",
+        "count": 5
+      },
+      {
+        "imagery": "秋",
+        "category": "季节",
+        "count": 5
+      },
+      {
+        "imagery": "桂",
+        "category": "植物",
+        "count": 4
+      },
+      {
+        "imagery": "荷",
+        "category": "植物",
+        "count": 4
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "喜庆",
+        "count": 38
+      },
+      {
+        "emotion": "自然",
+        "count": 37
+      },
+      {
+        "emotion": "高洁",
+        "count": 29
+      },
+      {
+        "emotion": "清新",
+        "count": 27
+      },
+      {
+        "emotion": "思乡",
+        "count": 17
+      },
+      {
+        "emotion": "离愁",
+        "count": 15
+      },
+      {
+        "emotion": "相思",
+        "count": 12
+      },
+      {
+        "emotion": "悲凉",
+        "count": 8
+      },
+      {
+        "emotion": "孤独",
+        "count": 8
+      },
+      {
+        "emotion": "壮美",
+        "count": 8
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_63dcd7b395ff",
+        "title": "句其八",
+        "author": "卞震",
+        "dynasty": "宋",
+        "line_text": "双阙暂随丹诏入，三峰寻与白云归"
+      },
+      {
+        "poem_id": "poem_d9d1e58694a4",
+        "title": "赠缘德",
+        "author": "曹翰",
+        "dynasty": "宋",
+        "line_text": "炉里有丹欣得遇，法中无语幸相亲"
+      },
+      {
+        "poem_id": "poem_0ad63192928e",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "玄珠降，丹窟在中宫"
+      },
+      {
+        "poem_id": "poem_cde4ef69cd0c",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "毛发落，丹左运行阳"
+      },
+      {
+        "poem_id": "poem_57ac500177e5",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "丹往右，四转运行阴"
+      },
+      {
+        "poem_id": "poem_31d2be5e92a5",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "珠自右，飞电入丹城"
+      },
+      {
+        "poem_id": "poem_915bfcd1a06a",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "丹火发来烧内境，冷泉深处浴猴孙"
+      },
+      {
+        "poem_id": "poem_9937ab9d9f2a",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "丹九转，纯一太初颜"
+      },
+      {
+        "poem_id": "poem_ddca6a311434",
+        "title": "玉阑干",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "小雨牡丹零欲尽"
+      },
+      {
+        "poem_id": "poem_b13c16bb0a84",
+        "title": "玉楼春",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "三月牡丹呈艳态"
+      },
+      {
+        "poem_id": "poem_457a2146803b",
+        "title": "河满子",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "相次牡丹芍药，王孙谁道多情"
+      },
+      {
+        "poem_id": "poem_b525fd8a42d3",
+        "title": "杜韦娘",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "初牡丹谢了，秋千搭起，垂杨暗锁深深陌"
+      }
+    ]
+  },
+  "银": {
+    "color_word": "银",
+    "normalized_color": "银",
+    "color_group": "中性色",
+    "hex": "#C7CCD0",
+    "total_count": 138,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 95
+      },
+      {
+        "dynasty": "唐",
+        "count": 43
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 21
+      },
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 21
+      },
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 11
+      },
+      {
+        "poet": "杜安世",
+        "dynasty": "宋",
+        "count": 9
+      },
+      {
+        "poet": "李白",
+        "dynasty": "唐",
+        "count": 8
+      },
+      {
+        "poet": "晏殊",
+        "dynasty": "宋",
+        "count": 8
+      },
+      {
+        "poet": "张先",
+        "dynasty": "宋",
+        "count": 7
+      },
+      {
+        "poet": "杜甫",
+        "dynasty": "唐",
+        "count": 3
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "河",
+        "category": "自然",
+        "count": 18
+      },
+      {
+        "imagery": "水",
+        "category": "自然",
+        "count": 13
+      },
+      {
+        "imagery": "夜",
+        "category": "时间",
+        "count": 11
+      },
+      {
+        "imagery": "灯",
+        "category": "器物",
+        "count": 9
+      },
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 8
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 6
+      },
+      {
+        "imagery": "楼",
+        "category": "空间",
+        "count": 6
+      },
+      {
+        "imagery": "马",
+        "category": "动物",
+        "count": 5
+      },
+      {
+        "imagery": "台",
+        "category": "空间",
+        "count": 5
+      },
+      {
+        "imagery": "天",
+        "category": "自然",
+        "count": 5
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "自然",
+        "count": 47
+      },
+      {
+        "emotion": "喜庆",
+        "count": 46
+      },
+      {
+        "emotion": "清新",
+        "count": 26
+      },
+      {
+        "emotion": "高洁",
+        "count": 23
+      },
+      {
+        "emotion": "相思",
+        "count": 22
+      },
+      {
+        "emotion": "孤独",
+        "count": 20
+      },
+      {
+        "emotion": "思乡",
+        "count": 15
+      },
+      {
+        "emotion": "悲凉",
+        "count": 10
+      },
+      {
+        "emotion": "禅意",
+        "count": 10
+      },
+      {
+        "emotion": "壮美",
+        "count": 10
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_a6db9990eac1",
+        "title": "好事近",
+        "author": "蔡襄",
+        "dynasty": "宋",
+        "line_text": "瑞雪满京都，宫殿尽成银阙"
+      },
+      {
+        "poem_id": "poem_662871081d5d",
+        "title": "题石水涧",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "银河洒落翠光冷，一派回环湛晚晖"
+      },
+      {
+        "poem_id": "poem_5f20262f7d33",
+        "title": "惜春令",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "银烛尽、画帘低垂"
+      },
+      {
+        "poem_id": "poem_aceca8a92ac6",
+        "title": "端正好",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "孤眠帐外银缸耿"
+      },
+      {
+        "poem_id": "poem_2b12dd358e55",
+        "title": "河满子",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "年年依旧无情绪，镇长冷落银屏"
+      },
+      {
+        "poem_id": "poem_6643db8da8d9",
+        "title": "浪淘沙",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "银釭烬冷锦帏中"
+      },
+      {
+        "poem_id": "poem_34f449dd7a30",
+        "title": "剔银灯",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "剔银灯"
+      },
+      {
+        "poem_id": "poem_420ad83e0004",
+        "title": "剔银灯",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "剔银灯"
+      },
+      {
+        "poem_id": "poem_5a9117fba436",
+        "title": "剔银灯",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "剔银灯"
+      },
+      {
+        "poem_id": "poem_0423af9db697",
+        "title": "朝玉阶・朝天子",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "黄金才钺掩银屏"
+      },
+      {
+        "poem_id": "poem_8842f6953837",
+        "title": "凤栖梧・蝶恋花",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "一点银釭扃绣户"
+      },
+      {
+        "poem_id": "poem_69875bbf89f1",
+        "title": "御街行",
+        "author": "范仲淹",
+        "dynasty": "宋",
+        "line_text": "真珠帘卷玉楼空，天淡银河垂地"
+      }
+    ]
+  },
+  "金": {
+    "color_word": "金",
+    "normalized_color": "金",
+    "color_group": "橙黄系",
+    "hex": "#C9A23D",
+    "total_count": 810,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 411
+      },
+      {
+        "dynasty": "唐",
+        "count": 399
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 79
+      },
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 71
+      },
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 60
+      },
+      {
+        "poet": "李白",
+        "dynasty": "唐",
+        "count": 58
+      },
+      {
+        "poet": "晏殊",
+        "dynasty": "宋",
+        "count": 49
+      },
+      {
+        "poet": "不详",
+        "dynasty": "唐",
+        "count": 43
+      },
+      {
+        "poet": "张先",
+        "dynasty": "宋",
+        "count": 25
+      },
+      {
+        "poet": "杜安世",
+        "dynasty": "宋",
+        "count": 20
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 47
+      },
+      {
+        "imagery": "马",
+        "category": "动物",
+        "count": 38
+      },
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 30
+      },
+      {
+        "imagery": "天",
+        "category": "自然",
+        "count": 30
+      },
+      {
+        "imagery": "酒",
+        "category": "器物",
+        "count": 28
+      },
+      {
+        "imagery": "衣",
+        "category": "器物",
+        "count": 27
+      },
+      {
+        "imagery": "月",
+        "category": "自然",
+        "count": 27
+      },
+      {
+        "imagery": "君",
+        "category": "人物",
+        "count": 24
+      },
+      {
+        "imagery": "古",
+        "category": "时间",
+        "count": 23
+      },
+      {
+        "imagery": "门",
+        "category": "空间",
+        "count": 22
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "喜庆",
+        "count": 274
+      },
+      {
+        "emotion": "自然",
+        "count": 231
+      },
+      {
+        "emotion": "清新",
+        "count": 115
+      },
+      {
+        "emotion": "相思",
+        "count": 93
+      },
+      {
+        "emotion": "壮美",
+        "count": 78
+      },
+      {
+        "emotion": "高洁",
+        "count": 72
+      },
+      {
+        "emotion": "离愁",
+        "count": 63
+      },
+      {
+        "emotion": "柔美",
+        "count": 63
+      },
+      {
+        "emotion": "思乡",
+        "count": 48
+      },
+      {
+        "emotion": "孤独",
+        "count": 45
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_8b438c9b217e",
+        "title": "内宴奉诏作",
+        "author": "曹翰",
+        "dynasty": "宋",
+        "line_text": "曾因国难披金甲，不为家贫卖宝刀"
+      },
+      {
+        "poem_id": "poem_9937ab9d9f2a",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "青阙诏，玉简赐金环"
+      },
+      {
+        "poem_id": "poem_59b683aea93c",
+        "title": "赠金励睡诗其一",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "赠金励睡诗其一"
+      },
+      {
+        "poem_id": "poem_60340d7630d4",
+        "title": "赠金励睡诗其二",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "赠金励睡诗其二"
+      },
+      {
+        "poem_id": "poem_bb8cdde9596b",
+        "title": "赠张乖崖",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "乞得金陵养闲散，也须多谢鬓边疮"
+      },
+      {
+        "poem_id": "poem_ba1573141a5a",
+        "title": "诗一首",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "台殿不将金锁闭，来时自有白云封"
+      },
+      {
+        "poem_id": "poem_5f20262f7d33",
+        "title": "惜春令",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "小庭杨柳黄金翠，桃脸两三枝"
+      },
+      {
+        "poem_id": "poem_acb076eed1c3",
+        "title": "惜春令",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "篱边散、嫩菊开金"
+      },
+      {
+        "poem_id": "poem_da6bae38a937",
+        "title": "踏莎行",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "香肌瘦尽宽金缕"
+      },
+      {
+        "poem_id": "poem_d11806f53d00",
+        "title": "丑奴儿・采桑子",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "人生乐事知多少，且酌金杯"
+      },
+      {
+        "poem_id": "poem_66c8131c9620",
+        "title": "凤衔杯",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "金钵小，玉槽悭"
+      },
+      {
+        "poem_id": "poem_372c0d999e8e",
+        "title": "凤衔杯",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "凭朱槛，把金卮"
+      }
+    ]
+  },
+  "碧": {
+    "color_word": "碧",
+    "normalized_color": "碧",
+    "color_group": "蓝青系",
+    "hex": "#3FA796",
+    "total_count": 252,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 142
+      },
+      {
+        "dynasty": "唐",
+        "count": 110
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 19
+      },
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 19
+      },
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 16
+      },
+      {
+        "poet": "太宗皇帝",
+        "dynasty": "唐",
+        "count": 15
+      },
+      {
+        "poet": "晏殊",
+        "dynasty": "宋",
+        "count": 11
+      },
+      {
+        "poet": "张先",
+        "dynasty": "宋",
+        "count": 11
+      },
+      {
+        "poet": "李白",
+        "dynasty": "唐",
+        "count": 10
+      },
+      {
+        "poet": "谭用之",
+        "dynasty": "宋",
+        "count": 10
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "云",
+        "category": "自然",
+        "count": 37
+      },
+      {
+        "imagery": "水",
+        "category": "自然",
+        "count": 32
+      },
+      {
+        "imagery": "天",
+        "category": "自然",
+        "count": 28
+      },
+      {
+        "imagery": "烟",
+        "category": "自然",
+        "count": 26
+      },
+      {
+        "imagery": "草",
+        "category": "植物",
+        "count": 25
+      },
+      {
+        "imagery": "山",
+        "category": "自然",
+        "count": 20
+      },
+      {
+        "imagery": "春",
+        "category": "季节",
+        "count": 19
+      },
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 15
+      },
+      {
+        "imagery": "海",
+        "category": "自然",
+        "count": 13
+      },
+      {
+        "imagery": "日",
+        "category": "自然",
+        "count": 13
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "清新",
+        "count": 245
+      },
+      {
+        "emotion": "自然",
+        "count": 143
+      },
+      {
+        "emotion": "喜庆",
+        "count": 77
+      },
+      {
+        "emotion": "柔美",
+        "count": 48
+      },
+      {
+        "emotion": "孤独",
+        "count": 39
+      },
+      {
+        "emotion": "壮美",
+        "count": 36
+      },
+      {
+        "emotion": "禅意",
+        "count": 31
+      },
+      {
+        "emotion": "离愁",
+        "count": 31
+      },
+      {
+        "emotion": "思乡",
+        "count": 28
+      },
+      {
+        "emotion": "悲凉",
+        "count": 26
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_0023870aa1d3",
+        "title": "查公山",
+        "author": "查元方",
+        "dynasty": "宋",
+        "line_text": "寒藤系舴艋，碧潭澄素舒"
+      },
+      {
+        "poem_id": "poem_1c1dc49950f9",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "每遇月圆开北户，神龟时饮碧瑶玲"
+      },
+      {
+        "poem_id": "poem_ab41ad021834",
+        "title": "华山",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "空爱掌痕侵碧汉，无人曾叹巨灵仙"
+      },
+      {
+        "poem_id": "poem_775132515b03",
+        "title": "两同心",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "入碧云际"
+      },
+      {
+        "poem_id": "poem_98faac57ca08",
+        "title": "玉楼春",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "红旆碧幢春色里"
+      },
+      {
+        "poem_id": "poem_b525fd8a42d3",
+        "title": "杜韦娘",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "间嫩叶题诗哨梅小，乍遍水、新萍圆碧"
+      },
+      {
+        "poem_id": "poem_6ad2d6412789",
+        "title": "浪淘沙",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "碧池惊散睡鸳鸯，当初容易分飞去"
+      },
+      {
+        "poem_id": "poem_cea31573e227",
+        "title": "行香子",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "黄金叶细，碧玉枝纤"
+      },
+      {
+        "poem_id": "poem_50877e9dcf91",
+        "title": "生查子",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "归傍碧纱窗，说向人人道"
+      },
+      {
+        "poem_id": "poem_f9722f76caae",
+        "title": "虞美人",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "故生芳草碧云连"
+      },
+      {
+        "poem_id": "poem_3ccf13b37d4e",
+        "title": "诉衷情",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "碧云又阻来信，廊上月侵门"
+      },
+      {
+        "poem_id": "poem_1761d6ddf753",
+        "title": "苏幕遮",
+        "author": "范仲淹",
+        "dynasty": "宋",
+        "line_text": "碧云天，黄叶地"
+      }
+    ]
+  },
+  "玄": {
+    "color_word": "玄",
+    "normalized_color": "玄",
+    "color_group": "中性色",
+    "hex": "#252A33",
+    "total_count": 112,
+    "dynasty_distribution": [
+      {
+        "dynasty": "唐",
+        "count": 71
+      },
+      {
+        "dynasty": "宋",
+        "count": 41
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "不详",
+        "dynasty": "唐",
+        "count": 22
+      },
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 15
+      },
+      {
+        "poet": "则天皇后",
+        "dynasty": "唐",
+        "count": 9
+      },
+      {
+        "poet": "释延寿",
+        "dynasty": "宋",
+        "count": 8
+      },
+      {
+        "poet": "明皇帝",
+        "dynasty": "唐",
+        "count": 6
+      },
+      {
+        "poet": "太宗皇帝",
+        "dynasty": "唐",
+        "count": 6
+      },
+      {
+        "poet": "张说",
+        "dynasty": "唐",
+        "count": 5
+      },
+      {
+        "poet": "陈抟",
+        "dynasty": "宋",
+        "count": 2
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "门",
+        "category": "空间",
+        "count": 8
+      },
+      {
+        "imagery": "日",
+        "category": "自然",
+        "count": 5
+      },
+      {
+        "imagery": "荷",
+        "category": "植物",
+        "count": 4
+      },
+      {
+        "imagery": "秋",
+        "category": "季节",
+        "count": 4
+      },
+      {
+        "imagery": "山",
+        "category": "自然",
+        "count": 4
+      },
+      {
+        "imagery": "天",
+        "category": "自然",
+        "count": 4
+      },
+      {
+        "imagery": "云",
+        "category": "自然",
+        "count": 4
+      },
+      {
+        "imagery": "春",
+        "category": "季节",
+        "count": 3
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 3
+      },
+      {
+        "imagery": "关",
+        "category": "空间",
+        "count": 3
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "喜庆",
+        "count": 48
+      },
+      {
+        "emotion": "自然",
+        "count": 30
+      },
+      {
+        "emotion": "壮美",
+        "count": 22
+      },
+      {
+        "emotion": "清新",
+        "count": 17
+      },
+      {
+        "emotion": "高洁",
+        "count": 13
+      },
+      {
+        "emotion": "相思",
+        "count": 13
+      },
+      {
+        "emotion": "孤独",
+        "count": 12
+      },
+      {
+        "emotion": "离愁",
+        "count": 11
+      },
+      {
+        "emotion": "思乡",
+        "count": 10
+      },
+      {
+        "emotion": "悲凉",
+        "count": 7
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_0ad63192928e",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "玄珠降，丹窟在中宫"
+      },
+      {
+        "poem_id": "poem_60340d7630d4",
+        "title": "赠金励睡诗其二",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "欲知睡梦里，人间第一玄"
+      },
+      {
+        "poem_id": "poem_6c5bd3e21397",
+        "title": "石刻诗",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "因聆玄论冥冥理，转觉尘寰一梦中"
+      },
+      {
+        "poem_id": "poem_f41096829206",
+        "title": "敬礼瓦屋和尚塔偈",
+        "author": "勾令玄",
+        "dynasty": "宋",
+        "line_text": "大空无尽劫成尘，玄步孤高物外人"
+      },
+      {
+        "poem_id": "poem_9a92d64ad49a",
+        "title": "青羊宫",
+        "author": "郭忠恕",
+        "dynasty": "宋",
+        "line_text": "久知玄牝是根原，谁道长生别有门"
+      },
+      {
+        "poem_id": "poem_f8c6e18d6825",
+        "title": "六州",
+        "author": "和岘",
+        "dynasty": "宋",
+        "line_text": "敷玄化，荡荡无为"
+      },
+      {
+        "poem_id": "poem_bffea9682458",
+        "title": "题义门胡氏华林书院",
+        "author": "阮思道",
+        "dynasty": "宋",
+        "line_text": "高阳旬爽里，通德郑玄门"
+      },
+      {
+        "poem_id": "poem_7b16d01aeb30",
+        "title": "偈",
+        "author": "释德韶",
+        "dynasty": "宋",
+        "line_text": "通玄峰顶，不是人门"
+      },
+      {
+        "poem_id": "poem_8909335eaf17",
+        "title": "山居诗其一五",
+        "author": "释延寿",
+        "dynasty": "宋",
+        "line_text": "尘网休重织是非，冥心何不合玄微"
+      },
+      {
+        "poem_id": "poem_f999508e47bf",
+        "title": "山居诗其二六",
+        "author": "释延寿",
+        "dynasty": "宋",
+        "line_text": "搜玄偈里真风远，招隠诗中野思长"
+      },
+      {
+        "poem_id": "poem_cbdc8574db17",
+        "title": "山居诗其二九",
+        "author": "释延寿",
+        "dynasty": "宋",
+        "line_text": "吟里有声皆实相，定中无境不虚玄"
+      },
+      {
+        "poem_id": "poem_3af7f32fd65c",
+        "title": "山居诗其四四",
+        "author": "释延寿",
+        "dynasty": "宋",
+        "line_text": "当时白业无门入，今日玄关有路归"
+      }
+    ]
+  },
+  "赤": {
+    "color_word": "赤",
+    "normalized_color": "赤",
+    "color_group": "红系",
+    "hex": "#B64035",
+    "total_count": 55,
+    "dynasty_distribution": [
+      {
+        "dynasty": "唐",
+        "count": 37
+      },
+      {
+        "dynasty": "宋",
+        "count": 18
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "李白",
+        "dynasty": "唐",
+        "count": 7
+      },
+      {
+        "poet": "陈朴",
+        "dynasty": "宋",
+        "count": 4
+      },
+      {
+        "poet": "魏征",
+        "dynasty": "唐",
+        "count": 4
+      },
+      {
+        "poet": "张昭",
+        "dynasty": "唐",
+        "count": 3
+      },
+      {
+        "poet": "不详",
+        "dynasty": "唐",
+        "count": 2
+      },
+      {
+        "poet": "符昭远",
+        "dynasty": "宋",
+        "count": 2
+      },
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 2
+      },
+      {
+        "poet": "褚亮",
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "日",
+        "category": "自然",
+        "count": 7
+      },
+      {
+        "imagery": "云",
+        "category": "自然",
+        "count": 5
+      },
+      {
+        "imagery": "山",
+        "category": "自然",
+        "count": 4
+      },
+      {
+        "imagery": "水",
+        "category": "自然",
+        "count": 4
+      },
+      {
+        "imagery": "城",
+        "category": "空间",
+        "count": 3
+      },
+      {
+        "imagery": "夜",
+        "category": "时间",
+        "count": 3
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "海",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "江",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "马",
+        "category": "动物",
+        "count": 2
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "自然",
+        "count": 14
+      },
+      {
+        "emotion": "喜庆",
+        "count": 13
+      },
+      {
+        "emotion": "高洁",
+        "count": 10
+      },
+      {
+        "emotion": "壮美",
+        "count": 7
+      },
+      {
+        "emotion": "离愁",
+        "count": 4
+      },
+      {
+        "emotion": "清新",
+        "count": 3
+      },
+      {
+        "emotion": "柔美",
+        "count": 2
+      },
+      {
+        "emotion": "思乡",
+        "count": 2
+      },
+      {
+        "emotion": "相思",
+        "count": 2
+      },
+      {
+        "emotion": "孤独",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_0ad63192928e",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "九候息调重九数，赤波忽迸太阳东"
+      },
+      {
+        "poem_id": "poem_1c1dc49950f9",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "阳砂赤，阴粉色微青"
+      },
+      {
+        "poem_id": "poem_915bfcd1a06a",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "纯一体，黑赤气常喷"
+      },
+      {
+        "poem_id": "poem_915bfcd1a06a",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "神水赤龟吞"
+      },
+      {
+        "poem_id": "poem_4fa1d8379c61",
+        "title": "句",
+        "author": "符昭远",
+        "dynasty": "宋",
+        "line_text": "圣胎初出赤志翁，丑杖旁扶赤志翁"
+      },
+      {
+        "poem_id": "poem_24eb640a4c8a",
+        "title": "将就十章更献三首词虽愈拙诚即可矜或歌执事之风猷或导鄙人之情志愿宽捷给稍赐披寻其三",
+        "author": "李昉",
+        "dynasty": "宋",
+        "line_text": "清风明月三间屋，赤轴黄签一架书"
+      },
+      {
+        "poem_id": "poem_1fa2d342bacb",
+        "title": "御街行",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "赤霜袍烂飘香雾"
+      },
+      {
+        "poem_id": "poem_d6725f1f6e23",
+        "title": "盐角儿",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "施朱太赤，施粉太白，倾城颜色"
+      },
+      {
+        "poem_id": "poem_7af39846679f",
+        "title": "送崇教大师回天台",
+        "author": "阮思道",
+        "dynasty": "宋",
+        "line_text": "闻说赤城终未见，画图何日寄京华"
+      },
+      {
+        "poem_id": "poem_446329d702e6",
+        "title": "念奴娇·赤壁怀古",
+        "author": "苏轼",
+        "dynasty": "宋",
+        "line_text": "念奴娇·赤壁怀古"
+      },
+      {
+        "poem_id": "poem_6e643c591bf9",
+        "title": "杨柳枝词四首其一",
+        "author": "孙光宪",
+        "dynasty": "宋",
+        "line_text": "独有晚来临水驿，闲人多凭赤栏干"
+      },
+      {
+        "poem_id": "poem_45087dbeb327",
+        "title": "诗一首",
+        "author": "王溥",
+        "dynasty": "宋",
+        "line_text": "白社遽当宗伯选，赤心旋遇圣人知"
+      }
+    ]
+  },
+  "紫": {
+    "color_word": "紫",
+    "normalized_color": "紫",
+    "color_group": "紫系",
+    "hex": "#7E5796",
+    "total_count": 176,
+    "dynasty_distribution": [
+      {
+        "dynasty": "唐",
+        "count": 99
+      },
+      {
+        "dynasty": "宋",
+        "count": 77
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "李白",
+        "dynasty": "唐",
+        "count": 23
+      },
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 21
+      },
+      {
+        "poet": "不详",
+        "dynasty": "唐",
+        "count": 12
+      },
+      {
+        "poet": "晏殊",
+        "dynasty": "宋",
+        "count": 10
+      },
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 8
+      },
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 8
+      },
+      {
+        "poet": "张先",
+        "dynasty": "宋",
+        "count": 7
+      },
+      {
+        "poet": "明皇帝",
+        "dynasty": "唐",
+        "count": 5
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "日",
+        "category": "自然",
+        "count": 15
+      },
+      {
+        "imagery": "天",
+        "category": "自然",
+        "count": 13
+      },
+      {
+        "imagery": "烟",
+        "category": "自然",
+        "count": 12
+      },
+      {
+        "imagery": "春",
+        "category": "季节",
+        "count": 11
+      },
+      {
+        "imagery": "宫",
+        "category": "空间",
+        "count": 9
+      },
+      {
+        "imagery": "马",
+        "category": "动物",
+        "count": 9
+      },
+      {
+        "imagery": "云",
+        "category": "自然",
+        "count": 9
+      },
+      {
+        "imagery": "门",
+        "category": "空间",
+        "count": 7
+      },
+      {
+        "imagery": "秋",
+        "category": "季节",
+        "count": 7
+      },
+      {
+        "imagery": "霞",
+        "category": "自然",
+        "count": 7
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "喜庆",
+        "count": 58
+      },
+      {
+        "emotion": "自然",
+        "count": 50
+      },
+      {
+        "emotion": "壮美",
+        "count": 31
+      },
+      {
+        "emotion": "清新",
+        "count": 27
+      },
+      {
+        "emotion": "高洁",
+        "count": 26
+      },
+      {
+        "emotion": "柔美",
+        "count": 24
+      },
+      {
+        "emotion": "离愁",
+        "count": 20
+      },
+      {
+        "emotion": "悲凉",
+        "count": 14
+      },
+      {
+        "emotion": "思乡",
+        "count": 13
+      },
+      {
+        "emotion": "孤独",
+        "count": 12
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_0ad63192928e",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "紫电透玲珑"
+      },
+      {
+        "poem_id": "poem_31d2be5e92a5",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "烧鬼岳，紫殿势峥嵘"
+      },
+      {
+        "poem_id": "poem_76ac8333ea40",
+        "title": "归隠",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "紫陌纵荣争及睡，朱门虽贵不如贫"
+      },
+      {
+        "poem_id": "poem_f8ab7cbe9140",
+        "title": "巫山一段云",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "惜恐尘埃染，惊疑紫府来"
+      },
+      {
+        "poem_id": "poem_5001ef9c37be",
+        "title": "诫儿姪八百字",
+        "author": "范质",
+        "dynasty": "宋",
+        "line_text": "门内无白丁，森森朱绿紫"
+      },
+      {
+        "poem_id": "poem_6b170b1e7f73",
+        "title": "奉扬英公大师诗匠",
+        "author": "韩溥",
+        "dynasty": "宋",
+        "line_text": "晴望野云生紫阁，夜吟兰烛滴花牋"
+      },
+      {
+        "poem_id": "poem_eef4a4a455b6",
+        "title": "独赏牡丹因而成咏",
+        "author": "李昉",
+        "dynasty": "宋",
+        "line_text": "遶东丛了遶西丛，为爱丛丛紫闲红"
+      },
+      {
+        "poem_id": "poem_270e396639a2",
+        "title": "昉着灸数朝废吟累日继披佳什莫匪正声亦贡七章补为十首学颦之诮诚所甘心其四",
+        "author": "李昉",
+        "dynasty": "宋",
+        "line_text": "五载滥批黄纸𠡠，半生曾典紫泥书"
+      },
+      {
+        "poem_id": "poem_e4a2cf9544f3",
+        "title": "六州歌头",
+        "author": "李冠",
+        "dynasty": "宋",
+        "line_text": "香瘗紫囊犹有，鸿都客、钿合应讹"
+      },
+      {
+        "poem_id": "poem_1faab5e42089",
+        "title": "千秋万岁・千秋岁引",
+        "author": "李冠",
+        "dynasty": "宋",
+        "line_text": "蜡融紫萼重重现"
+      },
+      {
+        "poem_id": "poem_073d3de228ee",
+        "title": "梅花曲",
+        "author": "刘几",
+        "dynasty": "宋",
+        "line_text": "偶先红紫，度韶华、玉笛占年芳"
+      },
+      {
+        "poem_id": "poem_96607fc21fff",
+        "title": "花发状元红慢",
+        "author": "刘几",
+        "dynasty": "宋",
+        "line_text": "与紫鸳鸯、素蛱蝶"
+      }
+    ]
+  },
+  "玉色": {
+    "color_word": "玉",
+    "normalized_color": "玉色",
+    "color_group": "绿系",
+    "hex": "#C7D8C4",
+    "total_count": 802,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 415
+      },
+      {
+        "dynasty": "唐",
+        "count": 386
+      },
+      {
+        "dynasty": "五代",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 77
+      },
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 68
+      },
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 55
+      },
+      {
+        "poet": "晏殊",
+        "dynasty": "宋",
+        "count": 54
+      },
+      {
+        "poet": "李白",
+        "dynasty": "唐",
+        "count": 46
+      },
+      {
+        "poet": "张先",
+        "dynasty": "宋",
+        "count": 44
+      },
+      {
+        "poet": "不详",
+        "dynasty": "唐",
+        "count": 34
+      },
+      {
+        "poet": "杜安世",
+        "dynasty": "宋",
+        "count": 32
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "楼",
+        "category": "空间",
+        "count": 107
+      },
+      {
+        "imagery": "春",
+        "category": "季节",
+        "count": 106
+      },
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 66
+      },
+      {
+        "imagery": "兰",
+        "category": "植物",
+        "count": 44
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 33
+      },
+      {
+        "imagery": "天",
+        "category": "自然",
+        "count": 28
+      },
+      {
+        "imagery": "云",
+        "category": "自然",
+        "count": 27
+      },
+      {
+        "imagery": "山",
+        "category": "自然",
+        "count": 26
+      },
+      {
+        "imagery": "朝",
+        "category": "时间",
+        "count": 25
+      },
+      {
+        "imagery": "酒",
+        "category": "器物",
+        "count": 25
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "喜庆",
+        "count": 244
+      },
+      {
+        "emotion": "自然",
+        "count": 209
+      },
+      {
+        "emotion": "清新",
+        "count": 106
+      },
+      {
+        "emotion": "高洁",
+        "count": 94
+      },
+      {
+        "emotion": "相思",
+        "count": 77
+      },
+      {
+        "emotion": "壮美",
+        "count": 64
+      },
+      {
+        "emotion": "柔美",
+        "count": 63
+      },
+      {
+        "emotion": "孤独",
+        "count": 58
+      },
+      {
+        "emotion": "离愁",
+        "count": 52
+      },
+      {
+        "emotion": "悲凉",
+        "count": 48
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_cde4ef69cd0c",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "常饮玉壶浆"
+      },
+      {
+        "poem_id": "poem_57ac500177e5",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "逢六闭藏阳户气，玉关泉透合丁壬"
+      },
+      {
+        "poem_id": "poem_9937ab9d9f2a",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "青阙诏，玉简赐金环"
+      },
+      {
+        "poem_id": "poem_662871081d5d",
+        "title": "题石水涧",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "几恨却为顽石碍，琉璃滑处玉花飞"
+      },
+      {
+        "poem_id": "poem_58ab121323fc",
+        "title": "对御歌",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "管什玉兔东升，红轮西坠"
+      },
+      {
+        "poem_id": "poem_0d6629283e39",
+        "title": "凤栖梧・蝶恋花",
+        "author": "丁谓",
+        "dynasty": "宋",
+        "line_text": "玉梯相对开蓬岛"
+      },
+      {
+        "poem_id": "poem_2ca88fc184ad",
+        "title": "凤栖梧・蝶恋花",
+        "author": "丁谓",
+        "dynasty": "宋",
+        "line_text": "朱阙玉城通阆苑"
+      },
+      {
+        "poem_id": "poem_c7d904aa69a2",
+        "title": "鹤冲天",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "单夹衣裳，半栊软玉肌体"
+      },
+      {
+        "poem_id": "poem_ddca6a311434",
+        "title": "玉阑干",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "玉阑干"
+      },
+      {
+        "poem_id": "poem_a5e02e2c9865",
+        "title": "浣溪沙",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "云如双鬓玉如颜"
+      },
+      {
+        "poem_id": "poem_5f20262f7d33",
+        "title": "惜春令",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "闷无绪、玉箫抛掷"
+      },
+      {
+        "poem_id": "poem_79ce6f12540f",
+        "title": "踏莎行",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "画梁新燕一双双，玉笼鹦鹉爱孤睡"
+      }
+    ]
+  },
+  "黑": {
+    "color_word": "黑",
+    "normalized_color": "黑",
+    "color_group": "中性色",
+    "hex": "#2B2C2D",
+    "total_count": 28,
+    "dynasty_distribution": [
+      {
+        "dynasty": "唐",
+        "count": 21
+      },
+      {
+        "dynasty": "宋",
+        "count": 7
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "魏征",
+        "dynasty": "唐",
+        "count": 4
+      },
+      {
+        "poet": "不详",
+        "dynasty": "唐",
+        "count": 3
+      },
+      {
+        "poet": "李贺",
+        "dynasty": "唐",
+        "count": 2
+      },
+      {
+        "poet": "朱存",
+        "dynasty": "宋",
+        "count": 2
+      },
+      {
+        "poet": "白居易",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "陈朴",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "褚亮",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "李白",
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "云",
+        "category": "自然",
+        "count": 5
+      },
+      {
+        "imagery": "山",
+        "category": "自然",
+        "count": 4
+      },
+      {
+        "imagery": "天",
+        "category": "自然",
+        "count": 3
+      },
+      {
+        "imagery": "海",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "河",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "日",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "水",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "雨",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "月",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "朝",
+        "category": "时间",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "自然",
+        "count": 12
+      },
+      {
+        "emotion": "喜庆",
+        "count": 6
+      },
+      {
+        "emotion": "相思",
+        "count": 5
+      },
+      {
+        "emotion": "离愁",
+        "count": 4
+      },
+      {
+        "emotion": "高洁",
+        "count": 3
+      },
+      {
+        "emotion": "壮美",
+        "count": 3
+      },
+      {
+        "emotion": "爱国",
+        "count": 2
+      },
+      {
+        "emotion": "禅意",
+        "count": 2
+      },
+      {
+        "emotion": "怀古",
+        "count": 2
+      },
+      {
+        "emotion": "柔美",
+        "count": 2
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_915bfcd1a06a",
+        "title": "望江南・忆江南",
+        "author": "陈朴",
+        "dynasty": "宋",
+        "line_text": "纯一体，黑赤气常喷"
+      },
+      {
+        "poem_id": "poem_2c3cd3b18890",
+        "title": "依韵奉和见贻之什且以答来章而歌盛美也",
+        "author": "李昉",
+        "dynasty": "宋",
+        "line_text": "共说圣君偏注意，朝昏须作黑头公"
+      },
+      {
+        "poem_id": "poem_d9ff01747489",
+        "title": "水调歌头",
+        "author": "刘潜",
+        "dynasty": "宋",
+        "line_text": "翩翩数骑闲猎，深入黑山头"
+      },
+      {
+        "poem_id": "poem_8b8c399f58d5",
+        "title": "寄题明月禅院二首其二",
+        "author": "释赞宁",
+        "dynasty": "宋",
+        "line_text": "鸟行黑点波涛白，枫叶红连橘柚黄"
+      },
+      {
+        "poem_id": "poem_0a72a747da69",
+        "title": "句",
+        "author": "宋太祖",
+        "dynasty": "宋",
+        "line_text": "未离海底千山黑，才到天中万国明"
+      },
+      {
+        "poem_id": "poem_5b94eacb1247",
+        "title": "金陵览古北渠",
+        "author": "朱存",
+        "dynasty": "宋",
+        "line_text": "金殿分来玉砌流，黑龙湖彻凤池头"
+      },
+      {
+        "poem_id": "poem_743899aae6ea",
+        "title": "金陵览古后湖",
+        "author": "朱存",
+        "dynasty": "宋",
+        "line_text": "惊起黑龙眠不得，狂风猛雨下多时"
+      },
+      {
+        "poem_id": "poem_201d4e633d5c",
+        "title": "杂曲歌辞潜别离",
+        "author": "白居易",
+        "dynasty": "唐",
+        "line_text": "河水虽浊有清日，乌头虽黑有白时"
+      },
+      {
+        "poem_id": "poem_9e298342eca4",
+        "title": "郊庙歌辞五郊乐章黑郊迎神",
+        "author": "不详",
+        "dynasty": "唐",
+        "line_text": "郊庙歌辞五郊乐章黑郊迎神"
+      },
+      {
+        "poem_id": "poem_9e298342eca4",
+        "title": "郊庙歌辞五郊乐章黑郊迎神",
+        "author": "不详",
+        "dynasty": "唐",
+        "line_text": "玄英戒序，黑郊临候"
+      },
+      {
+        "poem_id": "poem_4f8726143eec",
+        "title": "郊庙歌辞祀九宫贵神乐章豫和二",
+        "author": "不详",
+        "dynasty": "唐",
+        "line_text": "黑帝旋驭，青躔导日"
+      },
+      {
+        "poem_id": "poem_e8d04e034d99",
+        "title": "郊庙歌辞祀圜丘乐章凯安",
+        "author": "褚亮",
+        "dynasty": "唐",
+        "line_text": "酆郊赤乌见，邙山黑云上"
+      }
+    ]
+  },
+  "朱": {
+    "color_word": "朱",
+    "normalized_color": "朱",
+    "color_group": "红系",
+    "hex": "#B74434",
+    "total_count": 212,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 136
+      },
+      {
+        "dynasty": "唐",
+        "count": 75
+      },
+      {
+        "dynasty": "五代",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "晏殊",
+        "dynasty": "宋",
+        "count": 31
+      },
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 30
+      },
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 17
+      },
+      {
+        "poet": "张先",
+        "dynasty": "宋",
+        "count": 17
+      },
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 13
+      },
+      {
+        "poet": "杜安世",
+        "dynasty": "宋",
+        "count": 8
+      },
+      {
+        "poet": "不详",
+        "dynasty": "唐",
+        "count": 7
+      },
+      {
+        "poet": "李白",
+        "dynasty": "唐",
+        "count": 7
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "门",
+        "category": "空间",
+        "count": 22
+      },
+      {
+        "imagery": "楼",
+        "category": "空间",
+        "count": 14
+      },
+      {
+        "imagery": "日",
+        "category": "自然",
+        "count": 12
+      },
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 11
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 9
+      },
+      {
+        "imagery": "春",
+        "category": "季节",
+        "count": 7
+      },
+      {
+        "imagery": "帘",
+        "category": "器物",
+        "count": 7
+      },
+      {
+        "imagery": "水",
+        "category": "自然",
+        "count": 7
+      },
+      {
+        "imagery": "云",
+        "category": "自然",
+        "count": 7
+      },
+      {
+        "imagery": "柳",
+        "category": "植物",
+        "count": 6
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "喜庆",
+        "count": 79
+      },
+      {
+        "emotion": "自然",
+        "count": 68
+      },
+      {
+        "emotion": "清新",
+        "count": 53
+      },
+      {
+        "emotion": "柔美",
+        "count": 26
+      },
+      {
+        "emotion": "高洁",
+        "count": 25
+      },
+      {
+        "emotion": "相思",
+        "count": 18
+      },
+      {
+        "emotion": "离愁",
+        "count": 17
+      },
+      {
+        "emotion": "思乡",
+        "count": 12
+      },
+      {
+        "emotion": "悲凉",
+        "count": 8
+      },
+      {
+        "emotion": "豪放",
+        "count": 8
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_76ac8333ea40",
+        "title": "归隠",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "紫陌纵荣争及睡，朱门虽贵不如贫"
+      },
+      {
+        "poem_id": "poem_a035ab153db8",
+        "title": "生查子",
+        "author": "陈亚",
+        "dynasty": "宋",
+        "line_text": "琵琶闲抱理相思，必拨朱弦断"
+      },
+      {
+        "poem_id": "poem_a035ab153db8",
+        "title": "生查子",
+        "author": "陈亚",
+        "dynasty": "宋",
+        "line_text": "拟续断朱弦，待这冤家看"
+      },
+      {
+        "poem_id": "poem_2ca88fc184ad",
+        "title": "凤栖梧・蝶恋花",
+        "author": "丁谓",
+        "dynasty": "宋",
+        "line_text": "朱阙玉城通阆苑"
+      },
+      {
+        "poem_id": "poem_63bf708bd807",
+        "title": "端正好",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "透素光、穿朱户"
+      },
+      {
+        "poem_id": "poem_372c0d999e8e",
+        "title": "凤衔杯",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "凭朱槛，把金卮"
+      },
+      {
+        "poem_id": "poem_50831e4b7ad2",
+        "title": "山亭柳",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "纷纷絮飞院宇，燕子过朱阁"
+      },
+      {
+        "poem_id": "poem_7dbcc62489a2",
+        "title": "喜迁莺",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "朱弦悄"
+      },
+      {
+        "poem_id": "poem_b525fd8a42d3",
+        "title": "杜韦娘",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "倚朱扉，泪眼滴损、红绡数尺"
+      },
+      {
+        "poem_id": "poem_a93f3b38e684",
+        "title": "苏幕遮",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "凭暖朱阑，这意无人会"
+      },
+      {
+        "poem_id": "poem_1fac14567d29",
+        "title": "渔家傲",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "朱明近"
+      },
+      {
+        "poem_id": "poem_f64423673db9",
+        "title": "卜算子",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "水榭风亭朱明景，又别是、愁情味"
+      }
+    ]
+  },
+  "翠": {
+    "color_word": "翠",
+    "normalized_color": "翠",
+    "color_group": "绿系",
+    "hex": "#2F8D6B",
+    "total_count": 335,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 216
+      },
+      {
+        "dynasty": "唐",
+        "count": 119
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 52
+      },
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 31
+      },
+      {
+        "poet": "太宗皇帝",
+        "dynasty": "唐",
+        "count": 28
+      },
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 27
+      },
+      {
+        "poet": "张先",
+        "dynasty": "宋",
+        "count": 24
+      },
+      {
+        "poet": "晏殊",
+        "dynasty": "宋",
+        "count": 16
+      },
+      {
+        "poet": "杜安世",
+        "dynasty": "宋",
+        "count": 9
+      },
+      {
+        "poet": "李昉",
+        "dynasty": "宋",
+        "count": 7
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "山",
+        "category": "自然",
+        "count": 26
+      },
+      {
+        "imagery": "烟",
+        "category": "自然",
+        "count": 26
+      },
+      {
+        "imagery": "云",
+        "category": "自然",
+        "count": 24
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 18
+      },
+      {
+        "imagery": "春",
+        "category": "季节",
+        "count": 17
+      },
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 15
+      },
+      {
+        "imagery": "水",
+        "category": "自然",
+        "count": 15
+      },
+      {
+        "imagery": "日",
+        "category": "自然",
+        "count": 14
+      },
+      {
+        "imagery": "柳",
+        "category": "植物",
+        "count": 13
+      },
+      {
+        "imagery": "楼",
+        "category": "空间",
+        "count": 12
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "清新",
+        "count": 331
+      },
+      {
+        "emotion": "自然",
+        "count": 133
+      },
+      {
+        "emotion": "喜庆",
+        "count": 107
+      },
+      {
+        "emotion": "柔美",
+        "count": 74
+      },
+      {
+        "emotion": "离愁",
+        "count": 44
+      },
+      {
+        "emotion": "高洁",
+        "count": 37
+      },
+      {
+        "emotion": "思乡",
+        "count": 31
+      },
+      {
+        "emotion": "孤独",
+        "count": 29
+      },
+      {
+        "emotion": "悲凉",
+        "count": 25
+      },
+      {
+        "emotion": "禅意",
+        "count": 23
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_662871081d5d",
+        "title": "题石水涧",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "银河洒落翠光冷，一派回环湛晚晖"
+      },
+      {
+        "poem_id": "poem_d216f4de489e",
+        "title": "与毛女游",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "回指归去路，相将入翠烟"
+      },
+      {
+        "poem_id": "poem_5f20262f7d33",
+        "title": "惜春令",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "小庭杨柳黄金翠，桃脸两三枝"
+      },
+      {
+        "poem_id": "poem_79ce6f12540f",
+        "title": "踏莎行",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "蓦然旧事上心头，无言敛皱眉山翠"
+      },
+      {
+        "poem_id": "poem_9db2cc945c06",
+        "title": "踏莎行",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "画楼日晚燕归巢，红稀翠盛梅初小"
+      },
+      {
+        "poem_id": "poem_3bf19a5873f4",
+        "title": "端正好",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "敛愁在、双蛾翠"
+      },
+      {
+        "poem_id": "poem_33674f9fd10e",
+        "title": "玉楼春",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "庭树枝枯笼翠萼"
+      },
+      {
+        "poem_id": "poem_4ff6c01399de",
+        "title": "更漏子",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "眉翠袅，眼波长"
+      },
+      {
+        "poem_id": "poem_420ad83e0004",
+        "title": "剔银灯",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "翠屏共、绣帏灯照"
+      },
+      {
+        "poem_id": "poem_334a56ca1bd2",
+        "title": "临江仙",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "眉山敛翠近秋波"
+      },
+      {
+        "poem_id": "poem_32d020f39bd7",
+        "title": "菊花新",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "罗帏翠屏空，风微动、玉炉烟飐"
+      },
+      {
+        "poem_id": "poem_5001ef9c37be",
+        "title": "诫儿姪八百字",
+        "author": "范质",
+        "dynasty": "宋",
+        "line_text": "迟迟涧畔松，鬰鬰含晚翠"
+      }
+    ]
+  },
+  "绿": {
+    "color_word": "绿",
+    "normalized_color": "绿",
+    "color_group": "绿系",
+    "hex": "#5E9F58",
+    "total_count": 323,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 200
+      },
+      {
+        "dynasty": "唐",
+        "count": 123
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 40
+      },
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 31
+      },
+      {
+        "poet": "晏殊",
+        "dynasty": "宋",
+        "count": 29
+      },
+      {
+        "poet": "李白",
+        "dynasty": "唐",
+        "count": 21
+      },
+      {
+        "poet": "张先",
+        "dynasty": "宋",
+        "count": 20
+      },
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 18
+      },
+      {
+        "poet": "杜安世",
+        "dynasty": "宋",
+        "count": 14
+      },
+      {
+        "poet": "李昉",
+        "dynasty": "宋",
+        "count": 14
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "水",
+        "category": "自然",
+        "count": 38
+      },
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 32
+      },
+      {
+        "imagery": "春",
+        "category": "季节",
+        "count": 30
+      },
+      {
+        "imagery": "草",
+        "category": "植物",
+        "count": 27
+      },
+      {
+        "imagery": "云",
+        "category": "自然",
+        "count": 23
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 19
+      },
+      {
+        "imagery": "日",
+        "category": "自然",
+        "count": 16
+      },
+      {
+        "imagery": "酒",
+        "category": "器物",
+        "count": 15
+      },
+      {
+        "imagery": "柳",
+        "category": "植物",
+        "count": 15
+      },
+      {
+        "imagery": "天",
+        "category": "自然",
+        "count": 15
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "清新",
+        "count": 322
+      },
+      {
+        "emotion": "自然",
+        "count": 163
+      },
+      {
+        "emotion": "喜庆",
+        "count": 138
+      },
+      {
+        "emotion": "柔美",
+        "count": 86
+      },
+      {
+        "emotion": "高洁",
+        "count": 33
+      },
+      {
+        "emotion": "离愁",
+        "count": 29
+      },
+      {
+        "emotion": "相思",
+        "count": 29
+      },
+      {
+        "emotion": "悲凉",
+        "count": 28
+      },
+      {
+        "emotion": "孤独",
+        "count": 27
+      },
+      {
+        "emotion": "壮美",
+        "count": 21
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_3ca163fef020",
+        "title": "西峰",
+        "author": "陈抟",
+        "dynasty": "宋",
+        "line_text": "岩花红作阵，溪水绿成行"
+      },
+      {
+        "poem_id": "poem_f2f76d34ba97",
+        "title": "踏莎行",
+        "author": "陈尧佐",
+        "dynasty": "宋",
+        "line_text": "乱入红楼，低飞绿岸"
+      },
+      {
+        "poem_id": "poem_0d6629283e39",
+        "title": "凤栖梧・蝶恋花",
+        "author": "丁谓",
+        "dynasty": "宋",
+        "line_text": "太液微波，绿斗王孙草"
+      },
+      {
+        "poem_id": "poem_c7d904aa69a2",
+        "title": "鹤冲天",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "台榭绿阴浓，薰风细"
+      },
+      {
+        "poem_id": "poem_ddca6a311434",
+        "title": "玉阑干",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "庭轩悄悄燕高空，风飘絮、绿苔侵径"
+      },
+      {
+        "poem_id": "poem_9db2cc945c06",
+        "title": "踏莎行",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "绿苔遍地青春老"
+      },
+      {
+        "poem_id": "poem_457a2146803b",
+        "title": "河满子",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "东君何事交来早，更无绿叶同荣"
+      },
+      {
+        "poem_id": "poem_50831e4b7ad2",
+        "title": "山亭柳",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "时时闷饮绿醑，甚转转、思量着"
+      },
+      {
+        "poem_id": "poem_c7061575cc9a",
+        "title": "合欢带",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "斗芳草、绿阴浓"
+      },
+      {
+        "poem_id": "poem_c794457f1550",
+        "title": "更漏子",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "暖日春郊，绿柳红杏，香迳舞燕流莺"
+      },
+      {
+        "poem_id": "poem_076edc786750",
+        "title": "贺圣朝",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "绿丛金朵，枝长叶细"
+      },
+      {
+        "poem_id": "poem_3dafc844e5ef",
+        "title": "安公子",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "天气有时阴淡淡，绿杨轻软"
+      }
+    ]
+  },
+  "茜": {
+    "color_word": "茜",
+    "normalized_color": "茜",
+    "color_group": "红系",
+    "hex": "#A94345",
+    "total_count": 1,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "杜安世",
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_imageries": [],
+    "top_emotions": [
+      {
+        "emotion": "柔美",
+        "count": 1
+      },
+      {
+        "emotion": "喜庆",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_a94cc2f5cca5",
+        "title": "玉楼春",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "茜罗揉出碎英繁，红蜡缕成香萼润"
+      }
+    ]
+  },
+  "绛": {
+    "color_word": "绛",
+    "normalized_color": "绛",
+    "color_group": "红系",
+    "hex": "#8F3445",
+    "total_count": 34,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 26
+      },
+      {
+        "dynasty": "唐",
+        "count": 8
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 9
+      },
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 4
+      },
+      {
+        "poet": "杜安世",
+        "dynasty": "宋",
+        "count": 2
+      },
+      {
+        "poet": "晏殊",
+        "dynasty": "宋",
+        "count": 2
+      },
+      {
+        "poet": "鲍溶",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "不详",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "韩琦",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "韩王从善",
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 3
+      },
+      {
+        "imagery": "荷",
+        "category": "植物",
+        "count": 2
+      },
+      {
+        "imagery": "衣",
+        "category": "器物",
+        "count": 2
+      },
+      {
+        "imagery": "河",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 1
+      },
+      {
+        "imagery": "酒",
+        "category": "器物",
+        "count": 1
+      },
+      {
+        "imagery": "露",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "水",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "台",
+        "category": "空间",
+        "count": 1
+      },
+      {
+        "imagery": "天",
+        "category": "自然",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "喜庆",
+        "count": 10
+      },
+      {
+        "emotion": "自然",
+        "count": 9
+      },
+      {
+        "emotion": "清新",
+        "count": 8
+      },
+      {
+        "emotion": "高洁",
+        "count": 3
+      },
+      {
+        "emotion": "思乡",
+        "count": 3
+      },
+      {
+        "emotion": "忧郁",
+        "count": 3
+      },
+      {
+        "emotion": "离愁",
+        "count": 2
+      },
+      {
+        "emotion": "柔美",
+        "count": 2
+      },
+      {
+        "emotion": "相思",
+        "count": 2
+      },
+      {
+        "emotion": "豪放",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_688bbc0eca1e",
+        "title": "少年游",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "画堂无绪，初燃绛蜡，罗帐掩馀薰"
+      },
+      {
+        "poem_id": "poem_3ccf13b37d4e",
+        "title": "诉衷情",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "烧残绛蜡泪成痕"
+      },
+      {
+        "poem_id": "poem_c46e51b26308",
+        "title": "点绛唇",
+        "author": "韩琦",
+        "dynasty": "宋",
+        "line_text": "点绛唇"
+      },
+      {
+        "poem_id": "poem_8f6ee0f263ac",
+        "title": "点绛唇",
+        "author": "寇准",
+        "dynasty": "宋",
+        "line_text": "点绛唇"
+      },
+      {
+        "poem_id": "poem_0d0a6cebaf1b",
+        "title": "将就十章更献三首词虽愈拙诚即可矜或歌执事之风猷或导鄙人之情志愿宽捷给稍赐披寻其一",
+        "author": "李昉",
+        "dynasty": "宋",
+        "line_text": "只恐欲闲闲不得，绛驺重引入宸居"
+      },
+      {
+        "poem_id": "poem_4535be1cc742",
+        "title": "点绛唇",
+        "author": "林逋",
+        "dynasty": "宋",
+        "line_text": "点绛唇"
+      },
+      {
+        "poem_id": "poem_d0a763736289",
+        "title": "迎新春",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "十里然绛树"
+      },
+      {
+        "poem_id": "poem_b5dd18b1d5fb",
+        "title": "长相思",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "清都绛阙夜景，风传银箭，露叆金茎"
+      },
+      {
+        "poem_id": "poem_175b4acf6961",
+        "title": "戚氏",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "长天净，绛河清浅，皓月婵娟"
+      },
+      {
+        "poem_id": "poem_238a7c5464dc",
+        "title": "如鱼水",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "绛唇启、歌发清幽"
+      },
+      {
+        "poem_id": "poem_5371655a3ce5",
+        "title": "玉蝴蝶",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "绛唇轻、笑歌尽雅，莲步稳、举措皆奇"
+      },
+      {
+        "poem_id": "poem_c7d810272104",
+        "title": "瑞鹧鸪",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "瑶台绛阙，依约蓬丘"
+      }
+    ]
+  },
+  "黛": {
+    "color_word": "黛",
+    "normalized_color": "黛",
+    "color_group": "蓝青系",
+    "hex": "#425466",
+    "total_count": 43,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 35
+      },
+      {
+        "dynasty": "唐",
+        "count": 8
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 10
+      },
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 7
+      },
+      {
+        "poet": "张先",
+        "dynasty": "宋",
+        "count": 7
+      },
+      {
+        "poet": "杜安世",
+        "dynasty": "宋",
+        "count": 3
+      },
+      {
+        "poet": "晏殊",
+        "dynasty": "宋",
+        "count": 2
+      },
+      {
+        "poet": "白居易",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "董思恭",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "后主煜",
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "山",
+        "category": "自然",
+        "count": 9
+      },
+      {
+        "imagery": "春",
+        "category": "季节",
+        "count": 7
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 3
+      },
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 2
+      },
+      {
+        "imagery": "雪",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "烟",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "宫",
+        "category": "空间",
+        "count": 1
+      },
+      {
+        "imagery": "江",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "楼",
+        "category": "空间",
+        "count": 1
+      },
+      {
+        "imagery": "日",
+        "category": "自然",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "自然",
+        "count": 18
+      },
+      {
+        "emotion": "喜庆",
+        "count": 16
+      },
+      {
+        "emotion": "清新",
+        "count": 8
+      },
+      {
+        "emotion": "思乡",
+        "count": 8
+      },
+      {
+        "emotion": "离愁",
+        "count": 6
+      },
+      {
+        "emotion": "忧郁",
+        "count": 6
+      },
+      {
+        "emotion": "柔美",
+        "count": 5
+      },
+      {
+        "emotion": "孤独",
+        "count": 4
+      },
+      {
+        "emotion": "壮美",
+        "count": 3
+      },
+      {
+        "emotion": "禅意",
+        "count": 2
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_7ce8c42779d7",
+        "title": "凤栖梧・蝶恋花",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "叠秀危横，黛拨山千朵"
+      },
+      {
+        "poem_id": "poem_6ad2d6412789",
+        "title": "浪淘沙",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "黛眉长聚"
+      },
+      {
+        "poem_id": "poem_3dafc844e5ef",
+        "title": "安公子",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "残黛敛、独倚阑干遍"
+      },
+      {
+        "poem_id": "poem_b6a0f98750c1",
+        "title": "浪淘沙令",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "应是西施娇困也，眉黛双颦"
+      },
+      {
+        "poem_id": "poem_78613c73b606",
+        "title": "倾杯・倾杯乐",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "惨黛蛾、盈盈无绪"
+      },
+      {
+        "poem_id": "poem_83c44d2dbb53",
+        "title": "少年游",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "修眉敛黛，遥山横翠，相对结春愁"
+      },
+      {
+        "poem_id": "poem_36012c230a41",
+        "title": "迷神引",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "天际遥山小，黛眉浅"
+      },
+      {
+        "poem_id": "poem_a3d03239e646",
+        "title": "促拍满路花",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "起来贪颠耍，只恁残却黛眉，不整花钿"
+      },
+      {
+        "poem_id": "poem_8260a4b7576e",
+        "title": "河传",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "愁娥黛蹙，娇波刀翦"
+      },
+      {
+        "poem_id": "poem_c147cb607701",
+        "title": "瑞鹧鸪",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "时恁回眸敛黛，空役五陵心"
+      },
+      {
+        "poem_id": "poem_c99cde8c0113",
+        "title": "阮郎归",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "浅螺黛，淡燕脂"
+      },
+      {
+        "poem_id": "poem_5c01eea6f45d",
+        "title": "蝶恋花",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "不念芳时，眉黛无人画"
+      }
+    ]
+  },
+  "彤": {
+    "color_word": "彤",
+    "normalized_color": "彤",
+    "color_group": "红系",
+    "hex": "#C85A4D",
+    "total_count": 18,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 9
+      },
+      {
+        "dynasty": "唐",
+        "count": 9
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 5
+      },
+      {
+        "poet": "不详",
+        "dynasty": "唐",
+        "count": 2
+      },
+      {
+        "poet": "德宗皇帝",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "杜安世",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "盖嘉运",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "贾至",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "僧齐己",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "宋温舒",
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "庭",
+        "category": "空间",
+        "count": 7
+      },
+      {
+        "imagery": "霞",
+        "category": "自然",
+        "count": 4
+      },
+      {
+        "imagery": "云",
+        "category": "自然",
+        "count": 3
+      },
+      {
+        "imagery": "露",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "台",
+        "category": "空间",
+        "count": 2
+      },
+      {
+        "imagery": "晓",
+        "category": "时间",
+        "count": 2
+      },
+      {
+        "imagery": "夜",
+        "category": "时间",
+        "count": 2
+      },
+      {
+        "imagery": "衣",
+        "category": "器物",
+        "count": 2
+      },
+      {
+        "imagery": "春",
+        "category": "季节",
+        "count": 1
+      },
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "喜庆",
+        "count": 10
+      },
+      {
+        "emotion": "自然",
+        "count": 6
+      },
+      {
+        "emotion": "离愁",
+        "count": 3
+      },
+      {
+        "emotion": "清新",
+        "count": 3
+      },
+      {
+        "emotion": "禅意",
+        "count": 2
+      },
+      {
+        "emotion": "柔美",
+        "count": 2
+      },
+      {
+        "emotion": "壮美",
+        "count": 2
+      },
+      {
+        "emotion": "孤独",
+        "count": 1
+      },
+      {
+        "emotion": "相思",
+        "count": 1
+      },
+      {
+        "emotion": "忧郁",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_693b6561b5b7",
+        "title": "虞美人",
+        "author": "杜安世",
+        "dynasty": "宋",
+        "line_text": "彤庭早晚瞻虞舜"
+      },
+      {
+        "poem_id": "poem_74b45b9ef537",
+        "title": "送征衣",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "彤庭舜张大乐，禹会群方"
+      },
+      {
+        "poem_id": "poem_e711e63aa2d9",
+        "title": "巫山一段云",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "令赍瑶检降彤霞"
+      },
+      {
+        "poem_id": "poem_107f3ae54bb0",
+        "title": "永遇乐",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "藩侯瞻望彤庭，亲携僚吏，竞歌元首"
+      },
+      {
+        "poem_id": "poem_fdb289c79d90",
+        "title": "轮台子",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "彤霞衬遥天，掩映断续，半空残月"
+      },
+      {
+        "poem_id": "poem_beed60235a95",
+        "title": "望远行",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "须信幽兰歌断，彤云收尽，别有瑶台琼榭"
+      },
+      {
+        "poem_id": "poem_09f5a92fa494",
+        "title": "赠英公上人",
+        "author": "宋温舒",
+        "dynasty": "宋",
+        "line_text": "粹钟衡岳诞吾师，十九彤廷赐紫衣"
+      },
+      {
+        "poem_id": "poem_8617d053d114",
+        "title": "光穆皇后挽歌三首其二",
+        "author": "徐铉",
+        "dynasty": "宋",
+        "line_text": "唯应彤史在，不与露花晞"
+      },
+      {
+        "poem_id": "poem_55ac9865bfa8",
+        "title": "武陵春",
+        "author": "张先",
+        "dynasty": "宋",
+        "line_text": "谁掬彤霞露染衣"
+      },
+      {
+        "poem_id": "poem_3b5a2b80b974",
+        "title": "郊庙歌辞享太庙乐章崇德舞",
+        "author": "不详",
+        "dynasty": "唐",
+        "line_text": "彤云晓聚，黄星夜映"
+      },
+      {
+        "poem_id": "poem_99884501a94b",
+        "title": "郊庙歌辞周朝飨乐章忠顺",
+        "author": "不详",
+        "dynasty": "唐",
+        "line_text": "共离金戺，复列彤庭"
+      },
+      {
+        "poem_id": "poem_f161f260d1fa",
+        "title": "麟德殿宴百僚",
+        "author": "德宗皇帝",
+        "dynasty": "唐",
+        "line_text": "紫殿初筵列，彤庭广乐张"
+      }
+    ]
+  },
+  "黯": {
+    "color_word": "黯",
+    "normalized_color": "黯",
+    "color_group": "中性色",
+    "hex": "#3B3D40",
+    "total_count": 35,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 31
+      },
+      {
+        "dynasty": "唐",
+        "count": 4
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 15
+      },
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 5
+      },
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 5
+      },
+      {
+        "poet": "寇准",
+        "dynasty": "宋",
+        "count": 2
+      },
+      {
+        "poet": "明皇帝",
+        "dynasty": "唐",
+        "count": 2
+      },
+      {
+        "poet": "范仲淹",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "沈唐",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "王勃",
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "天",
+        "category": "自然",
+        "count": 7
+      },
+      {
+        "imagery": "云",
+        "category": "自然",
+        "count": 6
+      },
+      {
+        "imagery": "春",
+        "category": "季节",
+        "count": 3
+      },
+      {
+        "imagery": "楼",
+        "category": "空间",
+        "count": 3
+      },
+      {
+        "imagery": "门",
+        "category": "空间",
+        "count": 3
+      },
+      {
+        "imagery": "暮",
+        "category": "时间",
+        "count": 3
+      },
+      {
+        "imagery": "山",
+        "category": "自然",
+        "count": 3
+      },
+      {
+        "imagery": "夕",
+        "category": "时间",
+        "count": 3
+      },
+      {
+        "imagery": "寒",
+        "category": "季节",
+        "count": 2
+      },
+      {
+        "imagery": "柳",
+        "category": "植物",
+        "count": 2
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "忧郁",
+        "count": 35
+      },
+      {
+        "emotion": "自然",
+        "count": 21
+      },
+      {
+        "emotion": "离愁",
+        "count": 12
+      },
+      {
+        "emotion": "喜庆",
+        "count": 12
+      },
+      {
+        "emotion": "壮美",
+        "count": 8
+      },
+      {
+        "emotion": "禅意",
+        "count": 5
+      },
+      {
+        "emotion": "悲凉",
+        "count": 4
+      },
+      {
+        "emotion": "孤独",
+        "count": 4
+      },
+      {
+        "emotion": "高洁",
+        "count": 3
+      },
+      {
+        "emotion": "柔美",
+        "count": 3
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_1761d6ddf753",
+        "title": "苏幕遮",
+        "author": "范仲淹",
+        "dynasty": "宋",
+        "line_text": "黯乡魂，追旅思"
+      },
+      {
+        "poem_id": "poem_26a76daa9e04",
+        "title": "踏莎行",
+        "author": "寇准",
+        "dynasty": "宋",
+        "line_text": "倚楼无语欲销魂，长空黯淡连芳草"
+      },
+      {
+        "poem_id": "poem_c276fa89cd9c",
+        "title": "阳关引",
+        "author": "寇准",
+        "dynasty": "宋",
+        "line_text": "动黯然、知有后会甚时节"
+      },
+      {
+        "poem_id": "poem_a6abfdbe1188",
+        "title": "曲玉管",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "每登山临水，惹起平生心事，一场消黯，永日无言，却下层楼"
+      },
+      {
+        "poem_id": "poem_0c1db44a6bf7",
+        "title": "西平乐",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "黯凝伫"
+      },
+      {
+        "poem_id": "poem_4435fb9d8874",
+        "title": "凤栖梧・蝶恋花",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "望极春愁，黯黯生天际"
+      },
+      {
+        "poem_id": "poem_f670a652e133",
+        "title": "鹊桥仙",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "但黯然凝伫"
+      },
+      {
+        "poem_id": "poem_78613c73b606",
+        "title": "倾杯・倾杯乐",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "共黯然消魂，重携纤手，话别临行，犹自再三、问道君须去"
+      },
+      {
+        "poem_id": "poem_d06a4fbd5821",
+        "title": "诉衷情近",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "黯然情绪，未饮先如醉"
+      },
+      {
+        "poem_id": "poem_175b4acf6961",
+        "title": "戚氏",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "飞云黯淡夕阳间"
+      },
+      {
+        "poem_id": "poem_b8762fda97c5",
+        "title": "轮台子",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "但黯黯魂消，寸肠凭谁表"
+      },
+      {
+        "poem_id": "poem_974d60d189de",
+        "title": "引驾行",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "背都门、动消黯，西风片帆轻举"
+      }
+    ]
+  },
+  "胭脂": {
+    "color_word": "胭脂",
+    "normalized_color": "胭脂",
+    "color_group": "红系",
+    "hex": "#B24A5A",
+    "total_count": 22,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 20
+      },
+      {
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "dynasty": "五代",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 9
+      },
+      {
+        "poet": "晏殊",
+        "dynasty": "宋",
+        "count": 3
+      },
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 2
+      },
+      {
+        "poet": "韩琦",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "李冠",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "李煜",
+        "dynasty": "五代",
+        "count": 1
+      },
+      {
+        "poet": "刘氏瑶",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "沈唐",
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "燕",
+        "category": "动物",
+        "count": 4
+      },
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 3
+      },
+      {
+        "imagery": "朝",
+        "category": "时间",
+        "count": 2
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "雨",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "江",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "秋",
+        "category": "季节",
+        "count": 1
+      },
+      {
+        "imagery": "日",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "霜",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "天",
+        "category": "自然",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "柔美",
+        "count": 19
+      },
+      {
+        "emotion": "自然",
+        "count": 9
+      },
+      {
+        "emotion": "忧郁",
+        "count": 7
+      },
+      {
+        "emotion": "喜庆",
+        "count": 6
+      },
+      {
+        "emotion": "思乡",
+        "count": 5
+      },
+      {
+        "emotion": "悲凉",
+        "count": 3
+      },
+      {
+        "emotion": "离愁",
+        "count": 3
+      },
+      {
+        "emotion": "高洁",
+        "count": 2
+      },
+      {
+        "emotion": "清新",
+        "count": 1
+      },
+      {
+        "emotion": "壮美",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_c46e51b26308",
+        "title": "点绛唇",
+        "author": "韩琦",
+        "dynasty": "宋",
+        "line_text": "滴尽胭脂泪"
+      },
+      {
+        "poem_id": "poem_1faab5e42089",
+        "title": "千秋万岁・千秋岁引",
+        "author": "李冠",
+        "dynasty": "宋",
+        "line_text": "倚天真、艳冶轻朱粉，分明洗出胭脂面"
+      },
+      {
+        "poem_id": "poem_893e88a6cdd9",
+        "title": "瑞鹧鸪",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "暗想花神、巧作江南信，鲜染燕脂细翦裁"
+      },
+      {
+        "poem_id": "poem_213e8c833c93",
+        "title": "木兰花・玉楼春",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "日高梳洗甚时忺，点滴燕脂匀未遍"
+      },
+      {
+        "poem_id": "poem_c99cde8c0113",
+        "title": "阮郎归",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "浅螺黛，淡燕脂"
+      },
+      {
+        "poem_id": "poem_1ecf9bd7c25b",
+        "title": "渔家傲",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "朝阳借出胭脂色"
+      },
+      {
+        "poem_id": "poem_e8a38ac20e5a",
+        "title": "渔家傲",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "胭脂泪洒梨花雨"
+      },
+      {
+        "poem_id": "poem_09222a4a295e",
+        "title": "凉州令・梁州令",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "离离秋实弄轻霜，娇红脉脉，似见胭脂脸"
+      },
+      {
+        "poem_id": "poem_ad6e7360a66d",
+        "title": "渔家傲",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "归来剩把胭脂衬"
+      },
+      {
+        "poem_id": "poem_60b60b25e39c",
+        "title": "阮郎归",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "泪红满面湿胭脂"
+      },
+      {
+        "poem_id": "poem_d21e32b010ce",
+        "title": "南乡子",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "洒着胭脂红扑面，须知"
+      },
+      {
+        "poem_id": "poem_773c38f6e9e2",
+        "title": "定风波",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "粉痕匀却湿胭脂"
+      }
+    ]
+  },
+  "皓": {
+    "color_word": "皓",
+    "normalized_color": "皓",
+    "color_group": "中性色",
+    "hex": "#F0EEE6",
+    "total_count": 27,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 15
+      },
+      {
+        "dynasty": "唐",
+        "count": 12
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 7
+      },
+      {
+        "poet": "李白",
+        "dynasty": "唐",
+        "count": 4
+      },
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 3
+      },
+      {
+        "poet": "元稹",
+        "dynasty": "唐",
+        "count": 2
+      },
+      {
+        "poet": "韩琦",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "李贺",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "刘潜",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "刘希夷",
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "月",
+        "category": "自然",
+        "count": 10
+      },
+      {
+        "imagery": "云",
+        "category": "自然",
+        "count": 8
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "鹤",
+        "category": "动物",
+        "count": 2
+      },
+      {
+        "imagery": "君",
+        "category": "人物",
+        "count": 2
+      },
+      {
+        "imagery": "秋",
+        "category": "季节",
+        "count": 2
+      },
+      {
+        "imagery": "霜",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "天",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "雪",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "烟",
+        "category": "自然",
+        "count": 2
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "自然",
+        "count": 17
+      },
+      {
+        "emotion": "相思",
+        "count": 12
+      },
+      {
+        "emotion": "喜庆",
+        "count": 9
+      },
+      {
+        "emotion": "高洁",
+        "count": 8
+      },
+      {
+        "emotion": "清新",
+        "count": 8
+      },
+      {
+        "emotion": "禅意",
+        "count": 4
+      },
+      {
+        "emotion": "离愁",
+        "count": 4
+      },
+      {
+        "emotion": "悲凉",
+        "count": 3
+      },
+      {
+        "emotion": "孤独",
+        "count": 3
+      },
+      {
+        "emotion": "怀古",
+        "count": 3
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_1247b326b2f8",
+        "title": "望江南・忆江南",
+        "author": "韩琦",
+        "dynasty": "宋",
+        "line_text": "疑是八仙乘皓月，羽衣摇曳上云车"
+      },
+      {
+        "poem_id": "poem_d9ff01747489",
+        "title": "水调歌头",
+        "author": "刘潜",
+        "dynasty": "宋",
+        "line_text": "玉颜皓齿，深锁三十六宫秋"
+      },
+      {
+        "poem_id": "poem_cf200d29f559",
+        "title": "玉女摇仙佩",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "须信画堂绣阁，皓月清风，忍把光阴轻弃"
+      },
+      {
+        "poem_id": "poem_3cc45bcbcd40",
+        "title": "倾杯乐",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "皓月初圆，暮云飘散，分明夜色如晴昼"
+      },
+      {
+        "poem_id": "poem_78613c73b606",
+        "title": "倾杯・倾杯乐",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "情知道世上，难使皓月长圆，彩云镇聚"
+      },
+      {
+        "poem_id": "poem_142fa8898fd2",
+        "title": "思归乐",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "皓齿善歌长袖舞"
+      },
+      {
+        "poem_id": "poem_175b4acf6961",
+        "title": "戚氏",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "长天净，绛河清浅，皓月婵娟"
+      },
+      {
+        "poem_id": "poem_beed60235a95",
+        "title": "望远行",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "皓鹤夺鲜，白鹇失素，千里广铺寒野"
+      },
+      {
+        "poem_id": "poem_c8d612d536b4",
+        "title": "倾杯・倾杯乐",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "小院新晴天气，轻烟乍敛，皓月当轩练净"
+      },
+      {
+        "poem_id": "poem_7a3773a7f2fe",
+        "title": "渔家傲",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "皓月十分光正满"
+      },
+      {
+        "poem_id": "poem_5c6c26b229e3",
+        "title": "闻查建州陷贼寄钟郎中",
+        "author": "徐铉",
+        "dynasty": "宋",
+        "line_text": "皓首应全苏武节，故人谁得李陵书"
+      },
+      {
+        "poem_id": "poem_c8809527849a",
+        "title": "送王监丞之历阳",
+        "author": "徐铉",
+        "dynasty": "宋",
+        "line_text": "青襟空皓首，往事似前生"
+      }
+    ]
+  },
+  "朱砂": {
+    "color_word": "丹砂",
+    "normalized_color": "朱砂",
+    "color_group": "红系",
+    "hex": "#C4473D",
+    "total_count": 8,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 5
+      },
+      {
+        "dynasty": "唐",
+        "count": 3
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 3
+      },
+      {
+        "poet": "李白",
+        "dynasty": "唐",
+        "count": 2
+      },
+      {
+        "poet": "李昉",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "则天皇后",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "张伯端",
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "鹤",
+        "category": "动物",
+        "count": 1
+      },
+      {
+        "imagery": "暮",
+        "category": "时间",
+        "count": 1
+      },
+      {
+        "imagery": "山",
+        "category": "自然",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "孤独",
+        "count": 3
+      },
+      {
+        "emotion": "清新",
+        "count": 3
+      },
+      {
+        "emotion": "禅意",
+        "count": 2
+      },
+      {
+        "emotion": "高洁",
+        "count": 2
+      },
+      {
+        "emotion": "相思",
+        "count": 2
+      },
+      {
+        "emotion": "自然",
+        "count": 2
+      },
+      {
+        "emotion": "离愁",
+        "count": 1
+      },
+      {
+        "emotion": "壮美",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_eef4a4a455b6",
+        "title": "独赏牡丹因而成咏",
+        "author": "李昉",
+        "dynasty": "宋",
+        "line_text": "香苞半绽丹砂吐，细朵齐开烈焰烘"
+      },
+      {
+        "poem_id": "poem_eba4b34964a1",
+        "title": "题白鹤庙",
+        "author": "徐铉",
+        "dynasty": "宋",
+        "line_text": "白鹤唳空晴眇眇，丹砂流涧暮潺潺"
+      },
+      {
+        "poem_id": "poem_fccdffe34f19",
+        "title": "又题白鹭洲江鸥送陈君",
+        "author": "徐铉",
+        "dynasty": "宋",
+        "line_text": "同心携手今如此，金鼎丹砂何寂寞"
+      },
+      {
+        "poem_id": "poem_deec329b7865",
+        "title": "代书寄谈炼师",
+        "author": "徐铉",
+        "dynasty": "宋",
+        "line_text": "密养丹砂存正气，静披琼蕴诵真文"
+      },
+      {
+        "poem_id": "poem_26b88d3ac991",
+        "title": "西江月",
+        "author": "张伯端",
+        "dynasty": "宋",
+        "line_text": "七返朱砂反本，九还金液还真"
+      },
+      {
+        "poem_id": "poem_987ca4c3f011",
+        "title": "琴曲歌辞飞龙引二首一",
+        "author": "李白",
+        "dynasty": "唐",
+        "line_text": "黄帝铸鼎于荆山，炼丹砂"
+      },
+      {
+        "poem_id": "poem_987ca4c3f011",
+        "title": "琴曲歌辞飞龙引二首一",
+        "author": "李白",
+        "dynasty": "唐",
+        "line_text": "丹砂成黄金，骑龙飞上太清家"
+      },
+      {
+        "poem_id": "poem_1caf022aa9fe",
+        "title": "赠胡天师",
+        "author": "则天皇后",
+        "dynasty": "唐",
+        "line_text": "碧岫窥玄洞，玉灶炼丹砂"
+      }
+    ]
+  },
+  "赭黄": {
+    "color_word": "赭黄",
+    "normalized_color": "赭黄",
+    "color_group": "橙黄系",
+    "hex": "#B2773B",
+    "total_count": 1,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "李昉",
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "君",
+        "category": "人物",
+        "count": 1
+      },
+      {
+        "imagery": "袍",
+        "category": "器物",
+        "count": 1
+      },
+      {
+        "imagery": "日",
+        "category": "自然",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "喜庆",
+        "count": 1
+      },
+      {
+        "emotion": "相思",
+        "count": 1
+      },
+      {
+        "emotion": "自然",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_8e83476966f1",
+        "title": "和喜雨",
+        "author": "李昉",
+        "dynasty": "宋",
+        "line_text": "昨日君王倚栏看，东风吹湿赭黄袍"
+      }
+    ]
+  },
+  "蓝": {
+    "color_word": "蓝",
+    "normalized_color": "蓝",
+    "color_group": "蓝青系",
+    "hex": "#2F6FA3",
+    "total_count": 12,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 9
+      },
+      {
+        "dynasty": "唐",
+        "count": 3
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "李昉",
+        "dynasty": "宋",
+        "count": 2
+      },
+      {
+        "poet": "南昌老翁媪",
+        "dynasty": "宋",
+        "count": 2
+      },
+      {
+        "poet": "张先",
+        "dynasty": "宋",
+        "count": 2
+      },
+      {
+        "poet": "白居易",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "李商隐",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "宣宗皇帝",
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "江",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "水",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "烟",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "春",
+        "category": "季节",
+        "count": 1
+      },
+      {
+        "imagery": "桂",
+        "category": "植物",
+        "count": 1
+      },
+      {
+        "imagery": "海",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 1
+      },
+      {
+        "imagery": "马",
+        "category": "动物",
+        "count": 1
+      },
+      {
+        "imagery": "门",
+        "category": "空间",
+        "count": 1
+      },
+      {
+        "imagery": "暮",
+        "category": "时间",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "清新",
+        "count": 5
+      },
+      {
+        "emotion": "自然",
+        "count": 4
+      },
+      {
+        "emotion": "离愁",
+        "count": 2
+      },
+      {
+        "emotion": "禅意",
+        "count": 1
+      },
+      {
+        "emotion": "孤独",
+        "count": 1
+      },
+      {
+        "emotion": "柔美",
+        "count": 1
+      },
+      {
+        "emotion": "思乡",
+        "count": 1
+      },
+      {
+        "emotion": "喜庆",
+        "count": 1
+      },
+      {
+        "emotion": "相思",
+        "count": 1
+      },
+      {
+        "emotion": "忧郁",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_a4bfcd2bcb00",
+        "title": "侍郎吟思愈清逸才无敌唱弥高而和弥寡我已竭而彼转盈欲罢不能盖彰其余刃知难而退甘竖于降旗五章强振于芜音三鼓那成于勇气暂希解甲少遂息肩庶重整其懦兵愿别当其坚阵此时胜负期一决焉却以地僻尘埃少为首希垂采览其五",
+        "author": "李昉",
+        "dynasty": "宋",
+        "line_text": "门前多野景，墙外是精蓝"
+      },
+      {
+        "poem_id": "poem_c1891e4eb703",
+        "title": "吊邓洵美",
+        "author": "李昉",
+        "dynasty": "宋",
+        "line_text": "高掇桂枝曾遂志，假拖蓝绶至终身"
+      },
+      {
+        "poem_id": "poem_fdb289c79d90",
+        "title": "轮台子",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "雾敛澄江，烟消蓝光碧"
+      },
+      {
+        "poem_id": "poem_47052877fb36",
+        "title": "歌",
+        "author": "南昌老翁媪",
+        "dynasty": "宋",
+        "line_text": "蓝采禾，蓝采禾，尘世纷纷事更多"
+      },
+      {
+        "poem_id": "poem_d8f42ab133f0",
+        "title": "送周味道秀才东归见别依韵",
+        "author": "徐铉",
+        "dynasty": "宋",
+        "line_text": "骏马犹论价，荆蓝且抱还"
+      },
+      {
+        "poem_id": "poem_94c3cb6f7081",
+        "title": "行香子",
+        "author": "张先",
+        "dynasty": "宋",
+        "line_text": "蓝溪水、深染轻裙"
+      },
+      {
+        "poem_id": "poem_403c9e9bbfe4",
+        "title": "碧牡丹",
+        "author": "张先",
+        "dynasty": "宋",
+        "line_text": "望极蓝桥，但暮云千里"
+      },
+      {
+        "poem_id": "poem_1c97795aa9b3",
+        "title": "题狗蚤",
+        "author": "朱贞白",
+        "dynasty": "宋",
+        "line_text": "忽然管着一蓝子，有甚心情那你何"
+      },
+      {
+        "poem_id": "poem_b78989d14534",
+        "title": "忆江南",
+        "author": "白居易",
+        "dynasty": "唐",
+        "line_text": "日出江花红胜火，春来江水绿如蓝"
+      },
+      {
+        "poem_id": "poem_f5b9474e2367",
+        "title": "锦瑟",
+        "author": "李商隐",
+        "dynasty": "唐",
+        "line_text": "沧海月明珠有泪，蓝田日暖玉生烟"
+      },
+      {
+        "poem_id": "poem_02ce84120da8",
+        "title": "幸华严寺",
+        "author": "宣宗皇帝",
+        "dynasty": "唐",
+        "line_text": "帐殿出空登碧汉，遐川俯望色蓝笼"
+      }
+    ]
+  },
+  "葱": {
+    "color_word": "葱",
+    "normalized_color": "葱",
+    "color_group": "绿系",
+    "hex": "#5A9C68",
+    "total_count": 17,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 9
+      },
+      {
+        "dynasty": "唐",
+        "count": 8
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 3
+      },
+      {
+        "poet": "明皇帝",
+        "dynasty": "唐",
+        "count": 3
+      },
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 2
+      },
+      {
+        "poet": "王勃",
+        "dynasty": "唐",
+        "count": 2
+      },
+      {
+        "poet": "张先",
+        "dynasty": "宋",
+        "count": 2
+      },
+      {
+        "poet": "岑参",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "李白",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "太宗皇帝",
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "水",
+        "category": "自然",
+        "count": 3
+      },
+      {
+        "imagery": "春",
+        "category": "季节",
+        "count": 2
+      },
+      {
+        "imagery": "台",
+        "category": "空间",
+        "count": 2
+      },
+      {
+        "imagery": "天",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "雪",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "烟",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "宫",
+        "category": "空间",
+        "count": 1
+      },
+      {
+        "imagery": "海",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "河",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "自然",
+        "count": 7
+      },
+      {
+        "emotion": "喜庆",
+        "count": 6
+      },
+      {
+        "emotion": "悲凉",
+        "count": 3
+      },
+      {
+        "emotion": "清新",
+        "count": 3
+      },
+      {
+        "emotion": "高洁",
+        "count": 2
+      },
+      {
+        "emotion": "孤独",
+        "count": 2
+      },
+      {
+        "emotion": "离愁",
+        "count": 2
+      },
+      {
+        "emotion": "思乡",
+        "count": 2
+      },
+      {
+        "emotion": "壮美",
+        "count": 2
+      },
+      {
+        "emotion": "禅意",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_994b3addd1c3",
+        "title": "倾杯乐",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "耸皇居丽，嘉气瑞烟葱蒨"
+      },
+      {
+        "poem_id": "poem_0d8c25fd369a",
+        "title": "醉蓬莱",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "华阙中天，锁葱葱佳气"
+      },
+      {
+        "poem_id": "poem_5b750ec25319",
+        "title": "减字木兰花",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "玉指纤纤嫩剥葱"
+      },
+      {
+        "poem_id": "poem_893a3ad897ea",
+        "title": "玉楼春",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "春葱指甲轻拢拈"
+      },
+      {
+        "poem_id": "poem_785065697b98",
+        "title": "使浙西先寄献燕王侍中",
+        "author": "徐铉",
+        "dynasty": "宋",
+        "line_text": "喜气茏葱甘露晚，水烟波淡海门秋"
+      },
+      {
+        "poem_id": "poem_56f27b41ab9b",
+        "title": "木兰花・玉楼春",
+        "author": "晏殊",
+        "dynasty": "宋",
+        "line_text": "春葱指甲轻拢拈"
+      },
+      {
+        "poem_id": "poem_4993e1ec61a7",
+        "title": "夜厌厌・夜行船",
+        "author": "张先",
+        "dynasty": "宋",
+        "line_text": "争拂雕鞍葱葱去，万千恨、不能相送"
+      },
+      {
+        "poem_id": "poem_f1f8d4c75ec0",
+        "title": "鼓吹曲辞凯歌六首二",
+        "author": "岑参",
+        "dynasty": "唐",
+        "line_text": "蒲海晓霜凝劒尾，葱山夜雪扑旌竿"
+      },
+      {
+        "poem_id": "poem_161ff254d038",
+        "title": "鼓吹曲辞战城南",
+        "author": "李白",
+        "dynasty": "唐",
+        "line_text": "去年战桑干源，今年战葱河道"
+      },
+      {
+        "poem_id": "poem_fadaa23f3cc0",
+        "title": "初入秦川路逢寒食",
+        "author": "明皇帝",
+        "dynasty": "唐",
+        "line_text": "渭水长桥今欲渡，葱葱渐见新丰树"
+      },
+      {
+        "poem_id": "poem_69cc90932050",
+        "title": "鹡鸰颂",
+        "author": "明皇帝",
+        "dynasty": "唐",
+        "line_text": "伊我轩宫，奇树青葱"
+      },
+      {
+        "poem_id": "poem_0f0fb6abe4b7",
+        "title": "执契静三边",
+        "author": "太宗皇帝",
+        "dynasty": "唐",
+        "line_text": "花销葱岭雪，縠尽流沙雾"
+      }
+    ]
+  },
+  "丁香": {
+    "color_word": "丁香",
+    "normalized_color": "丁香",
+    "color_group": "紫系",
+    "hex": "#B59CC8",
+    "total_count": 6,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 4
+      },
+      {
+        "dynasty": "唐",
+        "count": 2
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "李贺",
+        "dynasty": "唐",
+        "count": 2
+      },
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "孙光宪",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "张佖",
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "春",
+        "category": "季节",
+        "count": 1
+      },
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 1
+      },
+      {
+        "imagery": "年",
+        "category": "时间",
+        "count": 1
+      },
+      {
+        "imagery": "水",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "夕",
+        "category": "时间",
+        "count": 1
+      },
+      {
+        "imagery": "晓",
+        "category": "时间",
+        "count": 1
+      },
+      {
+        "imagery": "夜",
+        "category": "时间",
+        "count": 1
+      },
+      {
+        "imagery": "竹",
+        "category": "植物",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "喜庆",
+        "count": 3
+      },
+      {
+        "emotion": "自然",
+        "count": 3
+      },
+      {
+        "emotion": "离愁",
+        "count": 2
+      },
+      {
+        "emotion": "思乡",
+        "count": 2
+      },
+      {
+        "emotion": "高洁",
+        "count": 1
+      },
+      {
+        "emotion": "清新",
+        "count": 1
+      },
+      {
+        "emotion": "相思",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_fbfcf2ec065d",
+        "title": "西施",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "要识愁肠，但看丁香树，渐结尽春梢"
+      },
+      {
+        "poem_id": "poem_7964f491b71c",
+        "title": "惜芳时・思归乐",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "丁香嚼碎偎人睡，犹记恨、夜来些个"
+      },
+      {
+        "poem_id": "poem_0acef5bb9c1f",
+        "title": "八拍蛮",
+        "author": "孙光宪",
+        "dynasty": "宋",
+        "line_text": "孔雀尾拖金线长，怕人飞起入丁香"
+      },
+      {
+        "poem_id": "poem_6518e761341a",
+        "title": "经旧游",
+        "author": "张佖",
+        "dynasty": "宋",
+        "line_text": "暂到高唐晓又还，丁香结梦水潺潺"
+      },
+      {
+        "poem_id": "poem_d50c92c05336",
+        "title": "鼓吹曲辞巫山高",
+        "author": "李贺",
+        "dynasty": "唐",
+        "line_text": "瑶姬一去一千年，丁香笻竹啼老猨"
+      },
+      {
+        "poem_id": "poem_fc605982681d",
+        "title": "相和歌辞难忘曲",
+        "author": "李贺",
+        "dynasty": "唐",
+        "line_text": "乱系丁香梢，满阑花向夕"
+      }
+    ]
+  },
+  "缃": {
+    "color_word": "缃",
+    "normalized_color": "缃",
+    "color_group": "橙黄系",
+    "hex": "#D8B56D",
+    "total_count": 3,
+    "dynasty_distribution": [
+      {
+        "dynasty": "唐",
+        "count": 2
+      },
+      {
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "常理",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "刘希夷",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "春",
+        "category": "季节",
+        "count": 1
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "君",
+        "category": "人物",
+        "count": 1
+      },
+      {
+        "imagery": "日",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "桃",
+        "category": "植物",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "喜庆",
+        "count": 2
+      },
+      {
+        "emotion": "自然",
+        "count": 2
+      },
+      {
+        "emotion": "高洁",
+        "count": 1
+      },
+      {
+        "emotion": "怀古",
+        "count": 1
+      },
+      {
+        "emotion": "离愁",
+        "count": 1
+      },
+      {
+        "emotion": "柔美",
+        "count": 1
+      },
+      {
+        "emotion": "相思",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_548175529cd2",
+        "title": "木兰花慢",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "正艳杏烧林，缃桃绣野，芳景如屏"
+      },
+      {
+        "poem_id": "poem_f56080469764",
+        "title": "杂曲歌辞古离别",
+        "author": "常理",
+        "dynasty": "唐",
+        "line_text": "君御狐白裘，妾居缃绮帱"
+      },
+      {
+        "poem_id": "poem_8cfd65d50ce5",
+        "title": "相和歌辞采桑",
+        "author": "刘希夷",
+        "dynasty": "唐",
+        "line_text": "青丝娇落日，缃绮弄春风"
+      }
+    ]
+  },
+  "绀色": {
+    "color_word": "绀",
+    "normalized_color": "绀色",
+    "color_group": "蓝青系",
+    "hex": "#303B67",
+    "total_count": 3,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 2
+      },
+      {
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "褚亮",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "柳永",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_imageries": [],
+    "top_emotions": [
+      {
+        "emotion": "喜庆",
+        "count": 2
+      },
+      {
+        "emotion": "高洁",
+        "count": 1
+      },
+      {
+        "emotion": "清新",
+        "count": 1
+      },
+      {
+        "emotion": "自然",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_548175529cd2",
+        "title": "木兰花慢",
+        "author": "柳永",
+        "dynasty": "宋",
+        "line_text": "尽寻胜去，骤雕鞍绀幰出郊坰"
+      },
+      {
+        "poem_id": "poem_ff9751cce15a",
+        "title": "赠王贞素先生",
+        "author": "徐铉",
+        "dynasty": "宋",
+        "line_text": "先生尝已佩真形，绀发朱颜骨气清"
+      },
+      {
+        "poem_id": "poem_66d88e6dc9f1",
+        "title": "郊庙歌辞雩祀乐章雍和",
+        "author": "褚亮",
+        "dynasty": "唐",
+        "line_text": "绀筵分彩，珤图吐绚"
+      }
+    ]
+  },
+  "月白": {
+    "color_word": "月白",
+    "normalized_color": "月白",
+    "color_group": "中性色",
+    "hex": "#DDE6E8",
+    "total_count": 4,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 3
+      },
+      {
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 2
+      },
+      {
+        "poet": "李端",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "释海印",
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "月",
+        "category": "自然",
+        "count": 4
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 3
+      },
+      {
+        "imagery": "寒",
+        "category": "季节",
+        "count": 1
+      },
+      {
+        "imagery": "客",
+        "category": "人物",
+        "count": 1
+      },
+      {
+        "imagery": "年",
+        "category": "时间",
+        "count": 1
+      },
+      {
+        "imagery": "山",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "霜",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "水",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "庭",
+        "category": "空间",
+        "count": 1
+      },
+      {
+        "imagery": "夜",
+        "category": "时间",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "高洁",
+        "count": 4
+      },
+      {
+        "emotion": "相思",
+        "count": 4
+      },
+      {
+        "emotion": "自然",
+        "count": 4
+      },
+      {
+        "emotion": "清新",
+        "count": 3
+      },
+      {
+        "emotion": "悲凉",
+        "count": 1
+      },
+      {
+        "emotion": "孤独",
+        "count": 1
+      },
+      {
+        "emotion": "思乡",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_174fc277df44",
+        "title": "采桑子",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "风清月白偏宜夜，一片琼田"
+      },
+      {
+        "poem_id": "poem_c04af5e1905e",
+        "title": "采桑子",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "十年前是尊前客，月白风清"
+      },
+      {
+        "poem_id": "poem_cbcf1ed6f5a8",
+        "title": "偈",
+        "author": "释海印",
+        "dynasty": "宋",
+        "line_text": "月白风恬，山青水绿"
+      },
+      {
+        "poem_id": "poem_1460090e0402",
+        "title": "相和歌辞襄阳曲",
+        "author": "李端",
+        "dynasty": "唐",
+        "line_text": "同居女伴正衣裳，中庭寒月白如霜"
+      }
+    ]
+  },
+  "鹅黄": {
+    "color_word": "鹅黄",
+    "normalized_color": "鹅黄",
+    "color_group": "橙黄系",
+    "hex": "#E8C766",
+    "total_count": 1,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "衣",
+        "category": "器物",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "相思",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_fdf8087f1987",
+        "title": "长相思",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "爱着鹅黄金缕衣"
+      }
+    ]
+  },
+  "天水碧": {
+    "color_word": "天水碧",
+    "normalized_color": "天水碧",
+    "color_group": "蓝青系",
+    "hex": "#5AA6A6",
+    "total_count": 3,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 3
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "晏殊",
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "水",
+        "category": "自然",
+        "count": 3
+      },
+      {
+        "imagery": "天",
+        "category": "自然",
+        "count": 3
+      },
+      {
+        "imagery": "夜",
+        "category": "时间",
+        "count": 2
+      },
+      {
+        "imagery": "雨",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "烟",
+        "category": "自然",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "壮美",
+        "count": 3
+      },
+      {
+        "emotion": "自然",
+        "count": 3
+      },
+      {
+        "emotion": "清新",
+        "count": 2
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_1ecf9bd7c25b",
+        "title": "渔家傲",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "夜雨染成天水碧"
+      },
+      {
+        "poem_id": "poem_bb8924162280",
+        "title": "过江",
+        "author": "徐铉",
+        "dynasty": "宋",
+        "line_text": "断岸烟中失，长天水际垂"
+      },
+      {
+        "poem_id": "poem_e45a7dc17482",
+        "title": "渔家傲",
+        "author": "晏殊",
+        "dynasty": "宋",
+        "line_text": "夜雨染成天水碧"
+      }
+    ]
+  },
+  "桃红": {
+    "color_word": "桃红",
+    "normalized_color": "桃红",
+    "color_group": "红系",
+    "hex": "#D36B7F",
+    "total_count": 5,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 3
+      },
+      {
+        "dynasty": "唐",
+        "count": 2
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "钱惟演",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "苏颋",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "张先",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "庄南杰",
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "桃",
+        "category": "植物",
+        "count": 5
+      },
+      {
+        "imagery": "柳",
+        "category": "植物",
+        "count": 2
+      },
+      {
+        "imagery": "春",
+        "category": "季节",
+        "count": 1
+      },
+      {
+        "imagery": "灯",
+        "category": "器物",
+        "count": 1
+      },
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 1
+      },
+      {
+        "imagery": "烟",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "夜",
+        "category": "时间",
+        "count": 1
+      },
+      {
+        "imagery": "雨",
+        "category": "自然",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "柔美",
+        "count": 5
+      },
+      {
+        "emotion": "喜庆",
+        "count": 4
+      },
+      {
+        "emotion": "清新",
+        "count": 3
+      },
+      {
+        "emotion": "高洁",
+        "count": 2
+      },
+      {
+        "emotion": "自然",
+        "count": 2
+      },
+      {
+        "emotion": "禅意",
+        "count": 1
+      },
+      {
+        "emotion": "孤独",
+        "count": 1
+      },
+      {
+        "emotion": "相思",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_576b92710cd6",
+        "title": "武陵春",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "宝幄华灯相见夜，妆脸小桃红"
+      },
+      {
+        "poem_id": "poem_97af065da331",
+        "title": "玉楼春",
+        "author": "钱惟演",
+        "dynasty": "宋",
+        "line_text": "未容浓翠伴桃红，已许纤枝留凤宿"
+      },
+      {
+        "poem_id": "poem_a541efd7e998",
+        "title": "满江红",
+        "author": "张先",
+        "dynasty": "宋",
+        "line_text": "过雨小桃红未透，舞烟新柳青犹弱"
+      },
+      {
+        "poem_id": "poem_1043e9a95af0",
+        "title": "杂曲歌辞长相思",
+        "author": "苏颋",
+        "dynasty": "唐",
+        "line_text": "杨柳青青宛地垂，桃红李白花参差"
+      },
+      {
+        "poem_id": "poem_2f95284dcf93",
+        "title": "相和歌辞阳春曲",
+        "author": "庄南杰",
+        "dynasty": "唐",
+        "line_text": "沙鸥白羽翦晴碧，野桃红艳烧春空"
+      }
+    ]
+  },
+  "雪白": {
+    "color_word": "雪白",
+    "normalized_color": "雪白",
+    "color_group": "中性色",
+    "hex": "#F4F1E8",
+    "total_count": 2,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "阎朝隐",
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "雪",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 1
+      },
+      {
+        "imagery": "柳",
+        "category": "植物",
+        "count": 1
+      },
+      {
+        "imagery": "梅",
+        "category": "植物",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "高洁",
+        "count": 2
+      },
+      {
+        "emotion": "孤独",
+        "count": 1
+      },
+      {
+        "emotion": "柔美",
+        "count": 1
+      },
+      {
+        "emotion": "喜庆",
+        "count": 1
+      },
+      {
+        "emotion": "相思",
+        "count": 1
+      },
+      {
+        "emotion": "自然",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_79a2af136b05",
+        "title": "圣无忧・乌夜啼",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "莫惜斗量珠玉，随他雪白髭须"
+      },
+      {
+        "poem_id": "poem_349af1d98692",
+        "title": "琴曲歌辞明月歌",
+        "author": "阎朝隐",
+        "dynasty": "唐",
+        "line_text": "梅花雪白柳叶黄，云雾四起月苍苍，箭水泠冷刻漏长"
+      }
+    ]
+  },
+  "柳绿": {
+    "color_word": "柳绿",
+    "normalized_color": "柳绿",
+    "color_group": "绿系",
+    "hex": "#7EAF62",
+    "total_count": 3,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 2
+      },
+      {
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "欧阳修",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "晏殊",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "杨巨源",
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "柳",
+        "category": "植物",
+        "count": 3
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "海",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "清新",
+        "count": 3
+      },
+      {
+        "emotion": "柔美",
+        "count": 3
+      },
+      {
+        "emotion": "喜庆",
+        "count": 2
+      },
+      {
+        "emotion": "自然",
+        "count": 2
+      },
+      {
+        "emotion": "孤独",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_b030d94e9d2f",
+        "title": "诉衷情",
+        "author": "欧阳修",
+        "dynasty": "宋",
+        "line_text": "杨柳绿，杏梢红"
+      },
+      {
+        "poem_id": "poem_3cb050e35c1b",
+        "title": "木兰花・玉楼春",
+        "author": "晏殊",
+        "dynasty": "宋",
+        "line_text": "旋开杨柳绿蛾眉，暗拆海棠红粉面"
+      },
+      {
+        "poem_id": "poem_df94942cc0d6",
+        "title": "杂曲歌辞独不见",
+        "author": "杨巨源",
+        "dynasty": "唐",
+        "line_text": "东风艳阳色，柳绿花如霰"
+      }
+    ]
+  },
+  "墨": {
+    "color_word": "墨",
+    "normalized_color": "墨",
+    "color_group": "中性色",
+    "hex": "#2F3437",
+    "total_count": 6,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 5
+      },
+      {
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "徐铉",
+        "dynasty": "宋",
+        "count": 3
+      },
+      {
+        "poet": "释道真",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "王昌龄",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "赵祯",
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "日",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "桃",
+        "category": "植物",
+        "count": 1
+      },
+      {
+        "imagery": "院",
+        "category": "空间",
+        "count": 1
+      },
+      {
+        "imagery": "云",
+        "category": "自然",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "离愁",
+        "count": 2
+      },
+      {
+        "emotion": "高洁",
+        "count": 1
+      },
+      {
+        "emotion": "怀古",
+        "count": 1
+      },
+      {
+        "emotion": "清新",
+        "count": 1
+      },
+      {
+        "emotion": "自然",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_3f020ce42d7b",
+        "title": "偶因团聚思想仙岩诣就观瞻龛龛礼谒推砂扫窟之次忽睹南大像北边一所古窟摧残岁久毁坏年深去戊申岁末发其心愿至己酉岁中方乃修全以咨推砂扫窟崇饰功德所申意者先奉为龙天〔八〕部拥护河湟梵释四王安人静塞伏愿当今帝主永坐蓬莱十道争钦八方慕化次为我府主令公长隆宝位命寿延年为绝塞之人王作苍生之父母荣同舜日化布尧时继叶临人承桃秉世观音院主道真等十人悟四大而无实睹丘井以悬腾虑□地以火风恐强象而煎逼道真等唯见牛车火宅空然劝时侣发无上之善心誓坚修于胜果今因作罢略述数行拙解舖舒用留于壁余才亏翰墨学寡三坟不但荒芜辄成短句",
+        "author": "释道真",
+        "dynasty": "宋",
+        "line_text": "偶因团聚思想仙岩诣就观瞻龛龛礼谒推砂扫窟之次忽睹南大像北边一所古窟摧残岁久毁坏年深去戊申岁末发其心愿至己酉岁中方乃修全以咨推砂扫窟崇饰功德所申意者先奉为龙天〔八〕部拥护河湟梵释四王安人静塞伏愿当今帝主永坐蓬莱十道争钦八方慕化次为我府主令公长隆宝位命寿延年为绝塞之人王作苍生之父母荣同舜日化布尧时继叶临人承桃秉世观音院主道真等十人悟四大而无实睹丘井以悬腾虑□地以火风恐强象而煎逼道真等唯见牛车火宅空然劝时侣发无上之善心誓坚修于胜果今因作罢略述数行拙解舖舒用留于壁余才亏翰墨学寡三坟不但荒芜辄成短句"
+      },
+      {
+        "poem_id": "poem_d86015e0d9bb",
+        "title": "送刘司直出宰",
+        "author": "徐铉",
+        "dynasty": "宋",
+        "line_text": "低飞从墨绶，逸志在青云"
+      },
+      {
+        "poem_id": "poem_feee0a89fd77",
+        "title": "送高起居之泾县",
+        "author": "徐铉",
+        "dynasty": "宋",
+        "line_text": "胡为佩铜墨，去此白玉墀"
+      },
+      {
+        "poem_id": "poem_cac1e24b2c85",
+        "title": "后湖访古各赋一题得西邸",
+        "author": "徐铉",
+        "dynasty": "宋",
+        "line_text": "今日中兴运，犹怀翰墨林"
+      },
+      {
+        "poem_id": "poem_0e3d7ce4988f",
+        "title": "合宫歌",
+        "author": "赵祯",
+        "dynasty": "宋",
+        "line_text": "脂茶刬荡墨索清"
+      },
+      {
+        "poem_id": "poem_c909372e6149",
+        "title": "相和歌辞放歌行",
+        "author": "王昌龄",
+        "dynasty": "唐",
+        "line_text": "升平贵论道，文墨将何求"
+      }
+    ]
+  },
+  "藕色": {
+    "color_word": "藕",
+    "normalized_color": "藕色",
+    "color_group": "紫系",
+    "hex": "#C8A9A6",
+    "total_count": 19,
+    "dynasty_distribution": [
+      {
+        "dynasty": "唐",
+        "count": 11
+      },
+      {
+        "dynasty": "宋",
+        "count": 8
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "张先",
+        "dynasty": "宋",
+        "count": 5
+      },
+      {
+        "poet": "温庭筠",
+        "dynasty": "唐",
+        "count": 4
+      },
+      {
+        "poet": "顾况",
+        "dynasty": "唐",
+        "count": 2
+      },
+      {
+        "poet": "李贺",
+        "dynasty": "唐",
+        "count": 2
+      },
+      {
+        "poet": "晏殊",
+        "dynasty": "宋",
+        "count": 2
+      },
+      {
+        "poet": "孙光宪",
+        "dynasty": "宋",
+        "count": 1
+      },
+      {
+        "poet": "王勃",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "徐彦伯",
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 7
+      },
+      {
+        "imagery": "露",
+        "category": "自然",
+        "count": 2
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "海",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "江",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "柳",
+        "category": "植物",
+        "count": 1
+      },
+      {
+        "imagery": "秋",
+        "category": "季节",
+        "count": 1
+      },
+      {
+        "imagery": "日",
+        "category": "自然",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "自然",
+        "count": 10
+      },
+      {
+        "emotion": "喜庆",
+        "count": 8
+      },
+      {
+        "emotion": "禅意",
+        "count": 3
+      },
+      {
+        "emotion": "高洁",
+        "count": 2
+      },
+      {
+        "emotion": "离愁",
+        "count": 2
+      },
+      {
+        "emotion": "柔美",
+        "count": 2
+      },
+      {
+        "emotion": "悲凉",
+        "count": 1
+      },
+      {
+        "emotion": "孤独",
+        "count": 1
+      },
+      {
+        "emotion": "清新",
+        "count": 1
+      },
+      {
+        "emotion": "思乡",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_97db720ae1e5",
+        "title": "竹枝词二首其二",
+        "author": "孙光宪",
+        "dynasty": "宋",
+        "line_text": "杨柳在身垂意绪，藕花落尽见莲心"
+      },
+      {
+        "poem_id": "poem_51f8932c6348",
+        "title": "渔家傲",
+        "author": "晏殊",
+        "dynasty": "宋",
+        "line_text": "一把藕丝牵不断"
+      },
+      {
+        "poem_id": "poem_85f87b29e51e",
+        "title": "雨中花・夜行船",
+        "author": "晏殊",
+        "dynasty": "宋",
+        "line_text": "莫傍细条寻嫩藕"
+      },
+      {
+        "poem_id": "poem_cd66c317e1a5",
+        "title": "恨春迟",
+        "author": "张先",
+        "dynasty": "宋",
+        "line_text": "不分闲花并蒂，秋藕连根，何时重得双眠"
+      },
+      {
+        "poem_id": "poem_c695b5d8bb95",
+        "title": "定风波",
+        "author": "张先",
+        "dynasty": "宋",
+        "line_text": "素藕抽条未放莲"
+      },
+      {
+        "poem_id": "poem_272174e2415a",
+        "title": "双燕儿",
+        "author": "张先",
+        "dynasty": "宋",
+        "line_text": "藕丝罩、小屏风"
+      },
+      {
+        "poem_id": "poem_11b7e59f737d",
+        "title": "系裙腰",
+        "author": "张先",
+        "dynasty": "宋",
+        "line_text": "问何日藕、几时莲"
+      },
+      {
+        "poem_id": "poem_c59ef03698f3",
+        "title": "菩萨蛮",
+        "author": "张先",
+        "dynasty": "宋",
+        "line_text": "藕丝衫翦猩红窄"
+      },
+      {
+        "poem_id": "poem_d24d9dd4cbce",
+        "title": "琴曲歌辞龙宫操",
+        "author": "顾况",
+        "dynasty": "唐",
+        "line_text": "鲛人织绡采藕丝，翻江倒海倾吴蜀"
+      },
+      {
+        "poem_id": "poem_1cfddc7e5cca",
+        "title": "杂曲歌辞行路难三首一",
+        "author": "顾况",
+        "dynasty": "唐",
+        "line_text": "藕丝挂身在虚空，欲落不落愁杀人"
+      },
+      {
+        "poem_id": "poem_822f888db918",
+        "title": "相和歌辞塘上行",
+        "author": "李贺",
+        "dynasty": "唐",
+        "line_text": "藕花凉露湿，花缺藕根涩"
+      },
+      {
+        "poem_id": "poem_7878485641fd",
+        "title": "相和歌辞采莲归",
+        "author": "王勃",
+        "dynasty": "唐",
+        "line_text": "牵花怜共蒂，折藕爱连丝"
+      }
+    ]
+  },
+  "青莲": {
+    "color_word": "青莲",
+    "normalized_color": "青莲",
+    "color_group": "紫系",
+    "hex": "#6A5A9B",
+    "total_count": 1,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "谭用之",
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "杯",
+        "category": "器物",
+        "count": 1
+      },
+      {
+        "imagery": "酒",
+        "category": "器物",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "豪放",
+        "count": 1
+      },
+      {
+        "emotion": "喜庆",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_0c13d68bfcef",
+        "title": "寄左先辈",
+        "author": "谭用之",
+        "dynasty": "宋",
+        "line_text": "学取青莲李居士，一生杯酒在神仙"
+      }
+    ]
+  },
+  "杏黄": {
+    "color_word": "杏黄",
+    "normalized_color": "杏黄",
+    "color_group": "橙黄系",
+    "hex": "#E5A84B",
+    "total_count": 1,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "王琪",
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "梅",
+        "category": "植物",
+        "count": 1
+      },
+      {
+        "imagery": "鱼",
+        "category": "动物",
+        "count": 1
+      }
+    ],
+    "top_emotions": [],
+    "sample_lines": [
+      {
+        "poem_id": "poem_02ec833a78a2",
+        "title": "望江南・忆江南",
+        "author": "王琪",
+        "dynasty": "宋",
+        "line_text": "青杏黄梅朱阁上，鲥鱼苦笋玉盘中"
+      }
+    ]
+  },
+  "殷红": {
+    "color_word": "殷红",
+    "normalized_color": "殷红",
+    "color_group": "红系",
+    "hex": "#9F2E35",
+    "total_count": 1,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "晏殊",
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_imageries": [],
+    "top_emotions": [
+      {
+        "emotion": "清新",
+        "count": 1
+      },
+      {
+        "emotion": "柔美",
+        "count": 1
+      },
+      {
+        "emotion": "喜庆",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_7d107f9711d8",
+        "title": "清平乐",
+        "author": "晏殊",
+        "dynasty": "宋",
+        "line_text": "林叶殷红犹未遍"
+      }
+    ]
+  },
+  "猩红": {
+    "color_word": "猩红",
+    "normalized_color": "猩红",
+    "color_group": "红系",
+    "hex": "#C23B3D",
+    "total_count": 1,
+    "dynasty_distribution": [
+      {
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "张先",
+        "dynasty": "宋",
+        "count": 1
+      }
+    ],
+    "top_imageries": [],
+    "top_emotions": [
+      {
+        "emotion": "柔美",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_c59ef03698f3",
+        "title": "菩萨蛮",
+        "author": "张先",
+        "dynasty": "宋",
+        "line_text": "藕丝衫翦猩红窄"
+      }
+    ]
+  },
+  "松花": {
+    "color_word": "松花",
+    "normalized_color": "松花",
+    "color_group": "橙黄系",
+    "hex": "#C8B76A",
+    "total_count": 2,
+    "dynasty_distribution": [
+      {
+        "dynasty": "唐",
+        "count": 2
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "鲍氏君徽",
+        "dynasty": "唐",
+        "count": 1
+      },
+      {
+        "poet": "李贺",
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "花",
+        "category": "植物",
+        "count": 2
+      },
+      {
+        "imagery": "松",
+        "category": "植物",
+        "count": 2
+      },
+      {
+        "imagery": "春",
+        "category": "季节",
+        "count": 1
+      },
+      {
+        "imagery": "风",
+        "category": "自然",
+        "count": 1
+      },
+      {
+        "imagery": "莺",
+        "category": "动物",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "高洁",
+        "count": 2
+      },
+      {
+        "emotion": "喜庆",
+        "count": 2
+      },
+      {
+        "emotion": "自然",
+        "count": 2
+      },
+      {
+        "emotion": "离愁",
+        "count": 1
+      },
+      {
+        "emotion": "柔美",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_ba3f988981e8",
+        "title": "惜花吟",
+        "author": "鲍氏君徽",
+        "dynasty": "唐",
+        "line_text": "莺歌蝶舞韶光长，红炉煑茗松花香"
+      },
+      {
+        "poem_id": "poem_79663289f965",
+        "title": "相和歌辞神弦别曲",
+        "author": "李贺",
+        "dynasty": "唐",
+        "line_text": "巫山小女隔云别，松花春风山上发"
+      }
+    ]
+  },
+  "琥珀": {
+    "color_word": "琥珀",
+    "normalized_color": "琥珀",
+    "color_group": "橙黄系",
+    "hex": "#B9792D",
+    "total_count": 3,
+    "dynasty_distribution": [
+      {
+        "dynasty": "唐",
+        "count": 3
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "李白",
+        "dynasty": "唐",
+        "count": 2
+      },
+      {
+        "poet": "李贺",
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "酒",
+        "category": "器物",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "高洁",
+        "count": 2
+      },
+      {
+        "emotion": "思乡",
+        "count": 2
+      },
+      {
+        "emotion": "相思",
+        "count": 2
+      },
+      {
+        "emotion": "禅意",
+        "count": 1
+      },
+      {
+        "emotion": "豪放",
+        "count": 1
+      },
+      {
+        "emotion": "柔美",
+        "count": 1
+      },
+      {
+        "emotion": "喜庆",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_1caf36f0281d",
+        "title": "相和歌辞白头吟二首一",
+        "author": "李白",
+        "dynasty": "唐",
+        "line_text": "且留琥珀枕，或有梦来时"
+      },
+      {
+        "poem_id": "poem_5b4529224992",
+        "title": "相和歌辞白头吟二首二",
+        "author": "李白",
+        "dynasty": "唐",
+        "line_text": "且留琥珀枕，还有梦来时"
+      },
+      {
+        "poem_id": "poem_82ca1e242724",
+        "title": "鼓吹曲辞将进酒",
+        "author": "李贺",
+        "dynasty": "唐",
+        "line_text": "瑠璃钟，琥珀浓，小槽酒滴真珠红"
+      }
+    ]
+  },
+  "绯红": {
+    "color_word": "绯",
+    "normalized_color": "绯红",
+    "color_group": "红系",
+    "hex": "#C94F5F",
+    "total_count": 1,
+    "dynasty_distribution": [
+      {
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "李廓",
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_imageries": [],
+    "top_emotions": [],
+    "sample_lines": [
+      {
+        "poem_id": "poem_d975f33349a6",
+        "title": "杂曲歌辞长安少年行十首二",
+        "author": "李廓",
+        "dynasty": "唐",
+        "line_text": "追逐轻薄伴，闲游不着绯"
+      }
+    ]
+  },
+  "缟": {
+    "color_word": "缟",
+    "normalized_color": "缟",
+    "color_group": "中性色",
+    "hex": "#EDE7D8",
+    "total_count": 1,
+    "dynasty_distribution": [
+      {
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "明皇帝",
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "山",
+        "category": "自然",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "高洁",
+        "count": 1
+      },
+      {
+        "emotion": "喜庆",
+        "count": 1
+      },
+      {
+        "emotion": "自然",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_a8870991d68d",
+        "title": "校猎义成喜逢大雪率题九韵以示群官",
+        "author": "明皇帝",
+        "dynasty": "唐",
+        "line_text": "触地银麞出，连山缟鹿见"
+      }
+    ]
+  },
+  "赭": {
+    "color_word": "赭",
+    "normalized_color": "赭",
+    "color_group": "红系",
+    "hex": "#9B5A3C",
+    "total_count": 1,
+    "dynasty_distribution": [
+      {
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_poets": [
+      {
+        "poet": "虞世南",
+        "dynasty": "唐",
+        "count": 1
+      }
+    ],
+    "top_imageries": [
+      {
+        "imagery": "马",
+        "category": "动物",
+        "count": 1
+      }
+    ],
+    "top_emotions": [
+      {
+        "emotion": "思乡",
+        "count": 1
+      }
+    ],
+    "sample_lines": [
+      {
+        "poem_id": "poem_188072bee777",
+        "title": "相和歌辞门有车马客行",
+        "author": "虞世南",
+        "dynasty": "唐",
+        "line_text": "赭汗千金马，绣毂五香车"
+      }
+    ]
+  }
+}

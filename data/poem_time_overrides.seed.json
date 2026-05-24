@@ -1,0 +1,498 @@
+[
+  {
+    "author": "苏轼",
+    "title": "饮湖上初晴后雨",
+    "year_range": [1071, 1074],
+    "life_stage_id": "early-career",
+    "date_certainty": "range",
+    "source_ref": "人工整理 seed：杭州通判时期，需据苏轼年谱校订。"
+  },
+  {
+    "author": "苏轼",
+    "title": "惠崇春江晚景",
+    "year_range": [1085, 1093],
+    "life_stage_id": "capital-hangzhou",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：仅归入元祐前后阶段，需据苏轼年谱校订。"
+  },
+  {
+    "author": "苏轼",
+    "title": "念奴娇·赤壁怀古",
+    "year": 1082,
+    "life_stage_id": "huangzhou-exile",
+    "date_certainty": "estimated",
+    "source_ref": "人工整理 seed：通行系年为黄州时期，具体仍需版本校订。"
+  },
+  {
+    "author": "李白",
+    "title": "望庐山瀑布",
+    "year_range": [725, 741],
+    "life_stage_id": "wandering",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：归入出蜀远游阶段，需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "静夜思",
+    "year_range": [725, 741],
+    "life_stage_id": "wandering",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：仅归入早期远游阶段，需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "将进酒",
+    "year_range": [745, 754],
+    "life_stage_id": "after-gold-release",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：归入赐金放还后阶段，需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "鼓吹曲辞将进酒",
+    "year_range": [745, 754],
+    "life_stage_id": "after-gold-release",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：题名对应《将进酒》系统文本，需据版本校订。"
+  },
+  {
+    "author": "李白",
+    "title": "早发白帝城",
+    "year": 759,
+    "life_stage_id": "anlushan",
+    "date_certainty": "estimated",
+    "source_ref": "人工整理 seed：通行系年为遇赦东还途中，需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "相和歌辞蜀道难",
+    "year_range": [742, 744],
+    "life_stage_id": "changan",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：为扩大轨迹覆盖的阶段级归类，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "相和歌辞上云乐",
+    "year_range": [742, 744],
+    "life_stage_id": "changan",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：宫廷 / 仙游题材归入长安阶段作原型观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "相和歌辞玉阶怨",
+    "year_range": [742, 744],
+    "life_stage_id": "changan",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：宫怨题材归入长安阶段作原型观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "相和歌辞长信怨",
+    "year_range": [742, 744],
+    "life_stage_id": "changan",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：宫怨题材归入长安阶段作原型观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "相和歌辞陌上桑",
+    "year_range": [742, 744],
+    "life_stage_id": "changan",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：乐府古题暂归入长安阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "舞曲歌辞白纻辞三首一",
+    "year_range": [742, 744],
+    "life_stage_id": "changan",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：舞曲歌辞暂归入长安阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "舞曲歌辞白纻辞三首二",
+    "year_range": [742, 744],
+    "life_stage_id": "changan",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：舞曲歌辞暂归入长安阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "舞曲歌辞白纻辞三首三",
+    "year_range": [742, 744],
+    "life_stage_id": "changan",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：舞曲歌辞暂归入长安阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "杂曲歌辞春日行",
+    "year_range": [742, 744],
+    "life_stage_id": "changan",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：春日 / 都城想象相关文本暂归入长安阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "相和歌辞阳春歌",
+    "year_range": [742, 744],
+    "life_stage_id": "changan",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：乐府古题暂归入长安阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "横吹曲辞关山月",
+    "year_range": [725, 741],
+    "life_stage_id": "wandering",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：边塞 / 远游题材暂归入出蜀远游阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "横吹曲辞折杨柳",
+    "year_range": [725, 741],
+    "life_stage_id": "wandering",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：送别 / 远游题材暂归入出蜀远游阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "横吹曲辞洛阳陌",
+    "year_range": [725, 741],
+    "life_stage_id": "wandering",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：都邑游历题材暂归入出蜀远游阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "相和歌辞王昭君二首一",
+    "year_range": [725, 741],
+    "life_stage_id": "wandering",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：乐府古题暂归入出蜀远游阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "相和歌辞王昭君二首二",
+    "year_range": [725, 741],
+    "life_stage_id": "wandering",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：乐府古题暂归入出蜀远游阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "杂曲歌辞长相思三首一",
+    "year_range": [725, 741],
+    "life_stage_id": "wandering",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：相思 / 远别题材暂归入出蜀远游阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "杂曲歌辞长相思三首二",
+    "year_range": [725, 741],
+    "life_stage_id": "wandering",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：相思 / 远别题材暂归入出蜀远游阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "杂曲歌辞长相思三首三",
+    "year_range": [725, 741],
+    "life_stage_id": "wandering",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：相思 / 远别题材暂归入出蜀远游阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "杂曲歌辞久别离",
+    "year_range": [725, 741],
+    "life_stage_id": "wandering",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：离别题材暂归入出蜀远游阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "琴曲歌辞秋思二首一",
+    "year_range": [725, 741],
+    "life_stage_id": "wandering",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：秋思题材暂归入出蜀远游阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "琴曲歌辞秋思二首二",
+    "year_range": [725, 741],
+    "life_stage_id": "wandering",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：秋思题材暂归入出蜀远游阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "杂曲歌辞侠客行",
+    "year_range": [745, 754],
+    "life_stage_id": "after-gold-release",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：游侠题材暂归入赐金放还后阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "杂曲歌辞行路难三首二",
+    "year_range": [745, 754],
+    "life_stage_id": "after-gold-release",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：行路难组诗暂归入赐金放还后阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "相和歌辞梁甫吟",
+    "year_range": [745, 754],
+    "life_stage_id": "after-gold-release",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：政治怀抱相关文本暂归入赐金放还后阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "相和歌辞东武吟",
+    "year_range": [745, 754],
+    "life_stage_id": "after-gold-release",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：游历 / 士人自况题材暂归入赐金放还后阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "相和歌辞对酒二首二",
+    "year_range": [745, 754],
+    "life_stage_id": "after-gold-release",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：饮酒题材暂归入赐金放还后阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "琴曲歌辞山人劝酒",
+    "year_range": [745, 754],
+    "life_stage_id": "after-gold-release",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：饮酒 / 山人题材暂归入赐金放还后阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "杂曲歌辞前有一尊酒行二首一",
+    "year_range": [745, 754],
+    "life_stage_id": "after-gold-release",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：饮酒题材暂归入赐金放还后阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "杂曲歌辞前有一尊酒行二首二",
+    "year_range": [745, 754],
+    "life_stage_id": "after-gold-release",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：饮酒题材暂归入赐金放还后阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "相和歌辞短歌行",
+    "year_range": [745, 754],
+    "life_stage_id": "after-gold-release",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：人生感慨题材暂归入赐金放还后阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "相和歌辞猛虎行",
+    "year_range": [745, 754],
+    "life_stage_id": "after-gold-release",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：乐府古题暂归入赐金放还后阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "相和歌辞胡无人行",
+    "year_range": [755, 759],
+    "life_stage_id": "anlushan",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：边塞 / 战乱题材暂归入安史之乱前后阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "杂曲歌辞北风行",
+    "year_range": [755, 759],
+    "life_stage_id": "anlushan",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：寒风 / 战乱想象题材暂归入安史之乱前后阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "杂曲歌辞出自蓟北门行",
+    "year_range": [755, 759],
+    "life_stage_id": "anlushan",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：边塞 / 战乱题材暂归入安史之乱前后阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "横吹曲辞幽州胡马客歌",
+    "year_range": [755, 759],
+    "life_stage_id": "anlushan",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：幽州 / 胡马题材暂归入安史之乱前后阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "相和歌辞登高丘而望远",
+    "year_range": [755, 759],
+    "life_stage_id": "anlushan",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：望远 / 历史政治感怀题材暂归入安史之乱前后阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "杂曲歌辞悲歌",
+    "year_range": [760, 762],
+    "life_stage_id": "late-drifting",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：悲歌题材暂归入晚年漂泊阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "相和歌辞白头吟二首一",
+    "year_range": [760, 762],
+    "life_stage_id": "late-drifting",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：白头 / 晚景语义暂归入晚年漂泊阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "相和歌辞白头吟二首二",
+    "year_range": [760, 762],
+    "life_stage_id": "late-drifting",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：白头 / 晚景语义暂归入晚年漂泊阶段观察，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "李白",
+    "title": "杂曲歌辞发白马",
+    "year_range": [760, 762],
+    "life_stage_id": "late-drifting",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：晚期漂泊阶段补充观察项，非精确系年；需据李白年谱校订。"
+  },
+  {
+    "author": "杜甫",
+    "title": "春望",
+    "year": 757,
+    "life_stage_id": "war-displacement",
+    "date_certainty": "estimated",
+    "source_ref": "人工整理 seed：通行系年为安史之乱长安陷落后，需据杜甫年谱校订。"
+  },
+  {
+    "author": "杜甫",
+    "title": "登高",
+    "year": 767,
+    "life_stage_id": "late-drifting",
+    "date_certainty": "estimated",
+    "source_ref": "人工整理 seed：通行系年为夔州时期，需据杜甫年谱校订。"
+  },
+  {
+    "author": "杜甫",
+    "title": "绝句",
+    "year_range": [760, 765],
+    "life_stage_id": "chengdu",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：归入成都草堂阶段，需据杜甫年谱校订。"
+  },
+  {
+    "author": "白居易",
+    "title": "忆江南",
+    "year_range": [820, 828],
+    "life_stage_id": "suhang",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：归入苏杭相关阶段，需据白居易年谱校订。"
+  },
+  {
+    "author": "白居易",
+    "title": "钱塘湖春行",
+    "year_range": [822, 824],
+    "life_stage_id": "suhang",
+    "date_certainty": "range",
+    "source_ref": "人工整理 seed：杭州任职时期，需据白居易年谱校订。"
+  },
+  {
+    "author": "白居易",
+    "title": "赋得古原草送别",
+    "year_range": [772, 806],
+    "life_stage_id": "early",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：归入早年与应举阶段，需据白居易年谱校订。"
+  },
+  {
+    "author": "王维",
+    "title": "山居秋暝",
+    "year_range": [730, 755],
+    "life_stage_id": "middle",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：仅归入中年山水田园创作阶段，需据王维年谱校订。"
+  },
+  {
+    "author": "王维",
+    "title": "鸟鸣涧",
+    "year_range": [730, 755],
+    "life_stage_id": "middle",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：仅归入中年阶段，需据王维年谱校订。"
+  },
+  {
+    "author": "杜牧",
+    "title": "江南春",
+    "year_range": [828, 842],
+    "life_stage_id": "middle",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：归入幕府与外任阶段，需据杜牧年谱校订。"
+  },
+  {
+    "author": "杜牧",
+    "title": "山行",
+    "year_range": [828, 842],
+    "life_stage_id": "middle",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：归入幕府与外任阶段，需据杜牧年谱校订。"
+  },
+  {
+    "author": "李商隐",
+    "title": "锦瑟",
+    "year_range": [851, 858],
+    "life_stage_id": "late",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：归入晚年阶段，需据李商隐年谱校订。"
+  },
+  {
+    "author": "李商隐",
+    "title": "无题",
+    "year_range": [837, 850],
+    "life_stage_id": "middle",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：归入幕府辗转阶段，需据李商隐年谱校订。"
+  },
+  {
+    "author": "辛弃疾",
+    "title": "青玉案·元夕",
+    "year_range": [1182, 1202],
+    "life_stage_id": "idle-retirement",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：归入闲居带湖阶段，需据辛弃疾年谱校订。"
+  },
+  {
+    "author": "辛弃疾",
+    "title": "破阵子",
+    "year_range": [1182, 1202],
+    "life_stage_id": "idle-retirement",
+    "date_certainty": "stage",
+    "source_ref": "人工整理 seed：归入闲居带湖阶段，需据辛弃疾年谱校订。"
+  }
+]

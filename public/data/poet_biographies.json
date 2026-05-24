@@ -1,0 +1,462 @@
+{
+  "generated_at": "2026-05-24T09:48:45.395Z",
+  "note": "生平阶段为研究型 seed 数据，source_ref 保留人工校订说明；正式论文使用前应据专门年谱复核。",
+  "poets": [
+    {
+      "poet_id": "su-shi",
+      "name": "苏轼",
+      "dynasty": "宋",
+      "birth_year": 1037,
+      "death_year": 1101,
+      "summary": "北宋文学家。其仕宦与贬谪经历常被用于讨论作品阶段差异。本项目仅提供研究型初始阶段，需结合专门年谱校订。",
+      "stages": [
+        {
+          "stage_id": "early-career",
+          "label": "早年与入仕",
+          "start_year": 1037,
+          "end_year": 1079,
+          "type": "career",
+          "description": "从早年、入仕到乌台诗案前的创作阶段。",
+          "source_ref": "人工整理 seed：阶段划分参考通行苏轼年谱框架，需学术版本复核。"
+        },
+        {
+          "stage_id": "huangzhou-exile",
+          "label": "黄州贬谪",
+          "start_year": 1080,
+          "end_year": 1084,
+          "type": "exile",
+          "description": "乌台诗案后谪居黄州时期。",
+          "source_ref": "人工整理 seed：阶段划分参考通行苏轼年谱框架，需学术版本复核。"
+        },
+        {
+          "stage_id": "capital-hangzhou",
+          "label": "汴京 / 杭州时期",
+          "start_year": 1085,
+          "end_year": 1093,
+          "type": "career",
+          "description": "元祐时期及杭州等地任职阶段。",
+          "source_ref": "人工整理 seed：阶段划分参考通行苏轼年谱框架，需学术版本复核。"
+        },
+        {
+          "stage_id": "huizhou-exile",
+          "label": "惠州贬谪",
+          "start_year": 1094,
+          "end_year": 1096,
+          "type": "exile",
+          "description": "绍圣后贬惠州阶段。",
+          "source_ref": "人工整理 seed：阶段划分参考通行苏轼年谱框架，需学术版本复核。"
+        },
+        {
+          "stage_id": "danzhou-exile",
+          "label": "儋州贬谪",
+          "start_year": 1097,
+          "end_year": 1100,
+          "type": "exile",
+          "description": "贬谪海南儋州阶段。",
+          "source_ref": "人工整理 seed：阶段划分参考通行苏轼年谱框架，需学术版本复核。"
+        },
+        {
+          "stage_id": "late-return",
+          "label": "晚年北归",
+          "start_year": 1100,
+          "end_year": 1101,
+          "type": "late",
+          "description": "获赦北归与生命晚期。",
+          "source_ref": "人工整理 seed：阶段划分参考通行苏轼年谱框架，需学术版本复核。"
+        }
+      ],
+      "events": [
+        {
+          "event_id": "wutai-poetry-case",
+          "label": "乌台诗案",
+          "year": 1079,
+          "type": "political_crisis",
+          "description": "苏轼生平重要政治转折。",
+          "source_ref": "人工整理 seed：需结合专门年谱校订。"
+        }
+      ]
+    },
+    {
+      "poet_id": "li-bai",
+      "name": "李白",
+      "dynasty": "唐",
+      "birth_year": 701,
+      "death_year": 762,
+      "summary": "唐代诗人。游历、长安经历与安史之乱前后常构成阶段性研究线索。",
+      "stages": [
+        {
+          "stage_id": "shu-early",
+          "label": "蜀中早年",
+          "start_year": 701,
+          "end_year": 724,
+          "type": "early",
+          "description": "出蜀以前的早年阶段。",
+          "source_ref": "人工整理 seed：阶段划分参考通行李白年谱框架，需学术版本复核。"
+        },
+        {
+          "stage_id": "wandering",
+          "label": "出蜀远游",
+          "start_year": 725,
+          "end_year": 741,
+          "type": "travel",
+          "description": "出蜀后漫游各地阶段。",
+          "source_ref": "人工整理 seed：阶段划分参考通行李白年谱框架，需学术版本复核。"
+        },
+        {
+          "stage_id": "changan",
+          "label": "长安时期",
+          "start_year": 742,
+          "end_year": 744,
+          "type": "capital",
+          "description": "供奉翰林、长安生活阶段。",
+          "source_ref": "人工整理 seed：阶段划分参考通行李白年谱框架，需学术版本复核。"
+        },
+        {
+          "stage_id": "after-gold-release",
+          "label": "赐金放还后",
+          "start_year": 745,
+          "end_year": 754,
+          "type": "travel",
+          "description": "离开长安后继续漫游阶段。",
+          "source_ref": "人工整理 seed：阶段划分参考通行李白年谱框架，需学术版本复核。"
+        },
+        {
+          "stage_id": "anlushan",
+          "label": "安史之乱前后",
+          "start_year": 755,
+          "end_year": 759,
+          "type": "war",
+          "description": "安史之乱及相关政治波折阶段。",
+          "source_ref": "人工整理 seed：阶段划分参考通行李白年谱框架，需学术版本复核。"
+        },
+        {
+          "stage_id": "late-drifting",
+          "label": "晚年漂泊",
+          "start_year": 760,
+          "end_year": 762,
+          "type": "late",
+          "description": "晚年漂泊与卒年前阶段。",
+          "source_ref": "人工整理 seed：阶段划分参考通行李白年谱框架，需学术版本复核。"
+        }
+      ],
+      "events": [
+        {
+          "event_id": "enter-changan",
+          "label": "入长安",
+          "year": 742,
+          "type": "career",
+          "description": "李白进入长安并供奉翰林。",
+          "source_ref": "人工整理 seed：需结合专门年谱校订。"
+        },
+        {
+          "event_id": "anlushan-rebellion",
+          "label": "安史之乱",
+          "year": 755,
+          "type": "war",
+          "description": "唐代重大历史事件，对诗人晚期处境有重要影响。",
+          "source_ref": "人工整理 seed：需结合专门年谱校订。"
+        }
+      ]
+    },
+    {
+      "poet_id": "du-fu",
+      "name": "杜甫",
+      "dynasty": "唐",
+      "birth_year": 712,
+      "death_year": 770,
+      "summary": "唐代诗人。长安困顿、战乱流离、成都草堂与晚年漂泊常构成阶段性分析框架。",
+      "stages": [
+        {
+          "stage_id": "early-wandering",
+          "label": "早年漫游",
+          "start_year": 712,
+          "end_year": 746,
+          "type": "early",
+          "description": "青年至早期漫游阶段。",
+          "source_ref": "人工整理 seed：需结合杜甫年谱校订。"
+        },
+        {
+          "stage_id": "changan-hardship",
+          "label": "长安困顿",
+          "start_year": 747,
+          "end_year": 755,
+          "type": "capital",
+          "description": "长安求仕与困顿阶段。",
+          "source_ref": "人工整理 seed：需结合杜甫年谱校订。"
+        },
+        {
+          "stage_id": "war-displacement",
+          "label": "战乱流离",
+          "start_year": 756,
+          "end_year": 759,
+          "type": "war",
+          "description": "安史之乱中辗转流离阶段。",
+          "source_ref": "人工整理 seed：需结合杜甫年谱校订。"
+        },
+        {
+          "stage_id": "chengdu",
+          "label": "成都草堂",
+          "start_year": 760,
+          "end_year": 765,
+          "type": "settled",
+          "description": "寓居成都草堂阶段。",
+          "source_ref": "人工整理 seed：需结合杜甫年谱校订。"
+        },
+        {
+          "stage_id": "late-drifting",
+          "label": "晚年漂泊",
+          "start_year": 766,
+          "end_year": 770,
+          "type": "late",
+          "description": "夔州、湖湘等晚年漂泊阶段。",
+          "source_ref": "人工整理 seed：需结合杜甫年谱校订。"
+        }
+      ],
+      "events": [
+        {
+          "event_id": "anlushan-rebellion",
+          "label": "安史之乱",
+          "year": 755,
+          "type": "war",
+          "description": "杜甫创作阶段的重要历史背景。",
+          "source_ref": "人工整理 seed：需结合杜甫年谱校订。"
+        }
+      ]
+    },
+    {
+      "poet_id": "bai-juyi",
+      "name": "白居易",
+      "dynasty": "唐",
+      "birth_year": 772,
+      "death_year": 846,
+      "summary": "唐代诗人。早年应举、长安任职、江州贬谪、苏杭与晚年洛阳可作为初始阶段框架。",
+      "stages": [
+        {
+          "stage_id": "early",
+          "label": "早年与应举",
+          "start_year": 772,
+          "end_year": 806,
+          "type": "early",
+          "description": "早年学习与应举阶段。",
+          "source_ref": "人工整理 seed：需结合白居易年谱校订。"
+        },
+        {
+          "stage_id": "changan",
+          "label": "长安任职",
+          "start_year": 807,
+          "end_year": 814,
+          "type": "career",
+          "description": "长安任职与讽喻诗创作阶段。",
+          "source_ref": "人工整理 seed：需结合白居易年谱校订。"
+        },
+        {
+          "stage_id": "jiangzhou-exile",
+          "label": "江州贬谪",
+          "start_year": 815,
+          "end_year": 819,
+          "type": "exile",
+          "description": "贬江州司马阶段。",
+          "source_ref": "人工整理 seed：需结合白居易年谱校订。"
+        },
+        {
+          "stage_id": "suhang",
+          "label": "苏杭时期",
+          "start_year": 820,
+          "end_year": 828,
+          "type": "career",
+          "description": "杭州、苏州任职与地方生活阶段。",
+          "source_ref": "人工整理 seed：需结合白居易年谱校订。"
+        },
+        {
+          "stage_id": "late-luoyang",
+          "label": "晚年洛阳",
+          "start_year": 829,
+          "end_year": 846,
+          "type": "late",
+          "description": "晚年洛阳闲居阶段。",
+          "source_ref": "人工整理 seed：需结合白居易年谱校订。"
+        }
+      ],
+      "events": [
+        {
+          "event_id": "jiangzhou-exile",
+          "label": "贬江州",
+          "year": 815,
+          "type": "exile",
+          "description": "白居易重要人生转折。",
+          "source_ref": "人工整理 seed：需结合白居易年谱校订。"
+        }
+      ]
+    },
+    {
+      "poet_id": "wang-wei",
+      "name": "王维",
+      "dynasty": "唐",
+      "birth_year": 701,
+      "death_year": 761,
+      "summary": "唐代诗人。当前语料中可用颜色样本较少，阶段仅作接口示例。",
+      "stages": [
+        {
+          "stage_id": "early",
+          "label": "早年",
+          "start_year": 701,
+          "end_year": 729,
+          "type": "early",
+          "description": "早年与入仕前后。",
+          "source_ref": "人工整理 seed：需结合王维年谱校订。"
+        },
+        {
+          "stage_id": "middle",
+          "label": "中年仕宦",
+          "start_year": 730,
+          "end_year": 755,
+          "type": "career",
+          "description": "仕宦与山水田园创作交织阶段。",
+          "source_ref": "人工整理 seed：需结合王维年谱校订。"
+        },
+        {
+          "stage_id": "late",
+          "label": "晚年",
+          "start_year": 756,
+          "end_year": 761,
+          "type": "late",
+          "description": "安史之乱后至晚年。",
+          "source_ref": "人工整理 seed：需结合王维年谱校订。"
+        }
+      ],
+      "events": []
+    },
+    {
+      "poet_id": "du-mu",
+      "name": "杜牧",
+      "dynasty": "唐",
+      "birth_year": 803,
+      "death_year": 852,
+      "summary": "唐代诗人。阶段仅作初始研究接口，需结合年谱校订。",
+      "stages": [
+        {
+          "stage_id": "early",
+          "label": "早年",
+          "start_year": 803,
+          "end_year": 827,
+          "type": "early",
+          "description": "早年与入仕阶段。",
+          "source_ref": "人工整理 seed：需结合杜牧年谱校订。"
+        },
+        {
+          "stage_id": "middle",
+          "label": "幕府与外任",
+          "start_year": 828,
+          "end_year": 842,
+          "type": "career",
+          "description": "幕府、外任与游历交织阶段。",
+          "source_ref": "人工整理 seed：需结合杜牧年谱校订。"
+        },
+        {
+          "stage_id": "late",
+          "label": "晚年",
+          "start_year": 843,
+          "end_year": 852,
+          "type": "late",
+          "description": "晚年阶段。",
+          "source_ref": "人工整理 seed：需结合杜牧年谱校订。"
+        }
+      ],
+      "events": []
+    },
+    {
+      "poet_id": "li-shangyin",
+      "name": "李商隐",
+      "dynasty": "唐",
+      "birth_year": 813,
+      "death_year": 858,
+      "summary": "唐代诗人。阶段仅作初始研究接口，需结合年谱校订。",
+      "stages": [
+        {
+          "stage_id": "early",
+          "label": "早年",
+          "start_year": 813,
+          "end_year": 836,
+          "type": "early",
+          "description": "早年与入仕前后。",
+          "source_ref": "人工整理 seed：需结合李商隐年谱校订。"
+        },
+        {
+          "stage_id": "middle",
+          "label": "幕府辗转",
+          "start_year": 837,
+          "end_year": 850,
+          "type": "career",
+          "description": "幕府辗转与政治夹缝中的创作阶段。",
+          "source_ref": "人工整理 seed：需结合李商隐年谱校订。"
+        },
+        {
+          "stage_id": "late",
+          "label": "晚年",
+          "start_year": 851,
+          "end_year": 858,
+          "type": "late",
+          "description": "晚年阶段。",
+          "source_ref": "人工整理 seed：需结合李商隐年谱校订。"
+        }
+      ],
+      "events": []
+    },
+    {
+      "poet_id": "xin-qiji",
+      "name": "辛弃疾",
+      "dynasty": "宋",
+      "birth_year": 1140,
+      "death_year": 1207,
+      "summary": "南宋词人。当前语料样本较少，阶段仅作研究接口示例。",
+      "stages": [
+        {
+          "stage_id": "northern-youth",
+          "label": "北方少年与南归",
+          "start_year": 1140,
+          "end_year": 1162,
+          "type": "early",
+          "description": "北方成长、起义与南归阶段。",
+          "source_ref": "人工整理 seed：需结合辛弃疾年谱校订。"
+        },
+        {
+          "stage_id": "official-service",
+          "label": "仕宦与抗金理想",
+          "start_year": 1163,
+          "end_year": 1181,
+          "type": "career",
+          "description": "仕宦与恢复理想表达阶段。",
+          "source_ref": "人工整理 seed：需结合辛弃疾年谱校订。"
+        },
+        {
+          "stage_id": "idle-retirement",
+          "label": "闲居带湖",
+          "start_year": 1182,
+          "end_year": 1202,
+          "type": "retreat",
+          "description": "长期闲居与词作丰产阶段。",
+          "source_ref": "人工整理 seed：需结合辛弃疾年谱校订。"
+        },
+        {
+          "stage_id": "late-recall",
+          "label": "晚年再起",
+          "start_year": 1203,
+          "end_year": 1207,
+          "type": "late",
+          "description": "晚年再被起用与生命末期。",
+          "source_ref": "人工整理 seed：需结合辛弃疾年谱校订。"
+        }
+      ],
+      "events": [
+        {
+          "event_id": "south-return",
+          "label": "南归",
+          "year": 1162,
+          "type": "political_turn",
+          "description": "辛弃疾从北方南归南宋。",
+          "source_ref": "人工整理 seed：需结合辛弃疾年谱校订。"
+        }
+      ]
+    }
+  ]
+}
